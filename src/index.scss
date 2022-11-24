@@ -1,6 +1,6 @@
 $black: #212121;
 $white: #F0F0F0;
-$yellow: #e6d962;
+$yellow: #E6D962;
 
 * {
   box-sizing: border-box;
@@ -8,21 +8,30 @@ $yellow: #e6d962;
 }
 
 body {
+  margin: 0;
   background: $yellow;
   color: $black;
+  min-height: 100vh;
   padding: 1rem;
   display: flex;
-  min-height: 100vh;
   flex-direction: column;
-  justify-content: center;
   gap: 2.5rem;
-
-  * {
-    margin: 0;
-  }
 
   @media screen and (min-width: 600px) {
     padding: 3rem;
+  }
+}
+
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2.5rem;
+  flex: 1;
+
+  * {
+    margin: 0;
   }
 }
 
@@ -35,23 +44,12 @@ svg {
   }
 }
 
-p {
-  font-size: 2rem;
-  max-width: 900px;
-}
-
 a {
   color: lighten($black, 15);
-  text-decoration: none;
-  border-bottom: 4px solid lighten($black, 15);
-  line-height: 1;
-  display: inline-block;
-
 
   &:hover {
     color: lighten($black, 30);
-    border-color: lighten($black, 30);
-    ;
+    text-decoration: none;
   }
 
   &:focus,
@@ -60,5 +58,34 @@ a {
     color: $yellow;
     background: $black;
     outline: 3px solid $black;
+  }
+}
+
+
+.big {
+  font-size: 2rem;
+  max-width: 900px;
+
+  a {
+    color: lighten($black, 15);
+    text-decoration: none;
+    border-bottom: 4px solid lighten($black, 15);
+    line-height: 1;
+    display: inline-block;
+
+
+    &:hover {
+      color: lighten($black, 30);
+      border-color: lighten($black, 30);
+      ;
+    }
+
+    &:focus,
+    &:active {
+      border: none;
+      color: $yellow;
+      background: $black;
+      outline: 3px solid $black;
+    }
   }
 }
