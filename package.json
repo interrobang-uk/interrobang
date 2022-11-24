@@ -1,0 +1,17 @@
+{
+  "name": "interrobang",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0"
+  }
+}
