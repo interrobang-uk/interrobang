@@ -67,7 +67,7 @@ a {
 
 .big {
   font-size: 2rem;
-  max-width: 900px;
+  max-width: 850px;
 
   a {
     color: lighten($black, 15);
@@ -77,10 +77,10 @@ a {
 
     svg {
       position: absolute;
-      bottom: 0;
+      bottom: -5px;
       left: 0;
       width: 100%;
-      height: 6px;
+      height: 8px;
 
       path {
         fill: lighten($black, 15);
@@ -100,7 +100,8 @@ a {
     &:active {
       color: $yellow;
       background: $black;
-      outline: 3px solid $black;
+      outline: none;
+      box-shadow: 0px 4px 0px 4px $black;
 
       svg path {
         fill: $yellow;
