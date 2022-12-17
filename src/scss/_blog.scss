@@ -1,0 +1,104 @@
+.logo-link {
+  display: inline-block;
+
+  @media screen and (min-width: 1000px) {
+    position: fixed;
+  }
+
+  svg {
+    width: 90px;
+    height: auto;
+
+
+    @media screen and (min-width: 600px) {
+      width: 100px;
+    }
+  }
+
+  &:hover svg path {
+    opacity: 0.9;
+  }
+
+  &:focus svg path,
+  &:active svg path {
+    fill: $white;
+  }
+}
+
+h1 {
+  font-size: 3rem;
+  max-width: 700px;
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  line-height: 1.1;
+
+  @media screen and (min-width: 600px) {
+    font-size: 4rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.meta {
+  margin-top: 0.75rem;
+
+  @media screen and (min-width: 600px) {
+    text-align: center;
+  }
+}
+
+article {
+  margin-top: 2rem;
+  max-width: 700px;
+  width: 100%;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media screen and (min-width: 600px) {
+    font-size: 1.3rem;
+    margin-top: 3rem;
+  }
+
+
+  p:first-child:first-letter {
+    float: left;
+    font-size: 90px;
+    line-height: 60px;
+    padding-top: 10px;
+    padding-right: 8px;
+    padding-left: 0px;
+    margin-left: -5px;
+
+    @media screen and (min-width: 600px) {
+      font-size: 110px;
+    }
+  }
+
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+
+    &+p {
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+
+
+.blog-footer {
+  text-align: center;
+  margin-top: 3.5rem;
+  padding: 1rem;
+  font-size: 0.9rem;
+  border-top: 2px solid transparentize($black, 0.75);
+}
