@@ -1,13 +1,15 @@
 ---
-title: My first blog post
-authors: Chloe Coleman
+title: Are we back where we started?
+authors: Chloe Coleman & Jaye Hackett
 layout: default.njk
 date: Last Modified
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Pellentesque elit](http://example.com) eget gravida cum sociis natoque penatibus et.
+Big tech did what they promised, and disrupted. They also broke a lot of stuff. Sadly, lots of that stuff was _ours_. It’s no longer possible to make a good living driving taxis or delivering food. You’re constantly chasing gigs that scrape as much money out of your dues as they can, and use it to pay off their overseas investors. None of that money goes into our communities.
 
-Eget velit aliquet sagittis id consectetur purus ut. Urna id volutpat lacus laoreet non curabitur gravida arcu. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Sit amet justo donec enim diam vulputate ut. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Et leo duis ut diam quam nulla porttitor.
+> What if we could keep the good part of this—the technology, but ditch the companies and the exploitative business models that go with them?
+
+Let’s use the fruits of silicon valley to cause their downfall. Let’s make workers’ co-ops and mutual aid groups and community interest companies and supercharge them with the tools that fuelled Big Tech.
 
 ## Test subhead
 
