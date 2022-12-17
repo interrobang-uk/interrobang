@@ -1,3 +1,12 @@
+.blog {
+  background: $white;
+  border: 1rem solid $yellow;
+
+  @media screen and (min-width: 600px) {
+    border-width: 2rem;
+  }
+}
+
 .logo-link {
   display: inline-block;
 
@@ -25,7 +34,7 @@
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3.5rem;
   max-width: 700px;
   width: 100%;
   margin-top: 2rem;
@@ -33,11 +42,12 @@ h1 {
   line-height: 1.1;
 
   @media screen and (min-width: 600px) {
-    font-size: 4rem;
+    font-size: 5rem;
     margin-top: 5rem;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    line-height: 1;
   }
 }
 
@@ -47,13 +57,18 @@ h1 {
   @media screen and (min-width: 600px) {
     text-align: center;
   }
+
+  span {
+    opacity: 0.25;
+    margin: 0 0.5rem;
+  }
 }
 
 article {
   margin-top: 2rem;
   max-width: 700px;
   width: 100%;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.5;
   margin-left: auto;
   margin-right: auto;
@@ -81,9 +96,17 @@ blockquote {
   border-top: 1px solid transparentize($black, 0.75);
   border-bottom: 1px solid transparentize($black, 0.75);
   text-align: center;
-  padding: 0.5rem;
+  padding: 0.25rem;
   margin: 0;
   font-style: italic;
+
+
+  font-size: 1.2rem;
+
+
+  @media screen and (min-width: 600px) {
+    font-size: 1.5rem;
+  }
 }
 
 

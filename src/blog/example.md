@@ -1,5 +1,5 @@
 ---
-title: Are we back where we started?
+title: "Are we back where we started?"
 authors: Chloe Coleman & Jaye Hackett
 layout: default.njk
 date: Last Modified

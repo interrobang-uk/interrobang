@@ -3,10 +3,12 @@
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+html {
+  background: $yellow;
+}
+
 body {
   margin: 0;
-  background: $yellow;
-  color: $white;
   color: $black;
   padding: 1rem;
 
