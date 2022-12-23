@@ -18,7 +18,8 @@ Since I’d been out of the public sector, the cost of energy, housing and other
 It’s hard to live in the UK and not get the feeling that the country is just not working for most people any more.
 
 We can’t rely on a change of government to fix things. Undoing the kind of damage our social infrastructure has seen takes time and a multitude of bottom-up efforts.
-In the public sector, local authorities teetering on bankruptcy are commissioning less original work from agencies.
+
+Local authorities teetering on bankruptcy are commissioning less original work from agencies.
 
 In fact, much of the tech sector is a consequence of the era of cheap money. Now, with the cost of borrowing back up, the leaders of those tech companies are making job cuts and battening down the hatches.
 
