@@ -61,7 +61,7 @@ More and more people are disillusioned with the state of the sector and wonderin
 
 All this to say, we’re starting a new thing. Agency, studio, collective, network, call it what you want.
 
-We call it **Interrobang**. We thought it was fun, because a question that’s also an exclamation is something we both do quite a lot at work.
+We call it **Interrobang**. We thought it was an appropriate choice, because a question that’s also an exclamation is something we both do quite a lot at work.
 
 We’re not interested in scaling. The sector doesn’t need [yet another big supplier](https://www.tussell.com/insights/uk-government-strategic-suppliers%23Profiles&sa=D) wannabe.
 
