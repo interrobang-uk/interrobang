@@ -75,7 +75,7 @@ There’s precedent for this emerging [all around the world](https://drivers.coo
 
 We won’t repeat the mistakes we’ve seen former employers make. We’ll certainly make new ones.
 
-Both of us are thinking “what’s next?”. We're determined that this not be just another agency. It's something different, but we don't know quite what yet.
+Both of us are thinking “what’s next?” We're determined that this not be just another agency. It's something different, but we don't know quite what yet.
 
 If any of this rings true to you, we should chat. Especially if you want to work with us, or think you've got work _for_ us.
 
