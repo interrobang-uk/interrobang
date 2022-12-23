@@ -6,6 +6,7 @@ date: Last Modified
 ---
 
 Almost three months ago to the day, I signed into Slack for my new agency job.
+
 Now, here I am signing out again, but for the best possible reason.
 
 Having first gotten into the world of public sector digital agencies with the (sadly now defunct) FutureGov, and dipped my toe into the startup world in the interim, I was keen to get back to work that made actual improvements to peoples’ lives.
