@@ -131,7 +131,6 @@
 
 .values {
   @include standard-padding;
-  @include bottom-rule;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: min-content min-content min-content;
