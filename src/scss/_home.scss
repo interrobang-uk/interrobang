@@ -1,63 +1,292 @@
-.home {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  gap: 2.5rem;
-  background: $yellow;
+.hero {
+  @include extended-padding;
+  @include bottom-rule;
 
-  @media screen and (min-width: 600px) {
-    padding: 3rem;
+  h1 {
+    @include massive-text;
   }
 }
 
-.logo {
-  max-width: 70%;
+.services {
+  @include standard-padding;
+  @include bottom-rule;
+  display: grid;
+  gap: 2rem;
 
-  path {
-    fill: $black;
+  @media screen and (min-width: 1000px) {
+    grid-template-columns: 1fr 3fr;
+    gap: 1.5rem;
+  }
+
+  img {
+    height: 5rem;
+    width: 5rem;
+    border: 2px solid $black;
+    border-radius: 100%;
+
+    &:last-child {
+      margin-left: -1.5rem;
+    }
+  }
+
+  aside {
+    max-width: 40rem;
+  }
+
+  p {
+    margin-top: 1rem;
+  }
+
+  dl {
+    margin-top: 1.5rem;
+  }
+
+  dd {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1;
   }
 }
 
-.big {
-  font-size: 2rem;
-  max-width: 850px;
+.tile-list {
+  list-style: none;
+  display: grid;
+  gap: 1rem;
+
+  @media screen and (min-width: 500px) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  @media screen and (min-width: 1000px) {
+    gap: 1.5rem;
+  }
+
+  &__tile {
+    padding: 1.5rem;
+    border-radius: 25px;
+    background: $bold-yellow;
+
+    @media screen and (min-width: 500px) {
+      padding: 2.5rem;
+      transition: transform 0.1s ease-out;
+
+      &:hover {
+        transform: translate(5px) scale(1.05) rotate(2deg);
+      }
+    }
+
+    &:nth-child(3n+1) {
+      background: $bold-red;
+    }
+
+    &:nth-child(3n+2) {
+      background: $bold-blue;
+    }
+
+    h2,
+    h3 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      list-style: disc;
+      margin-left: 1rem
+    }
+
+    li {
+      padding-left: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+.clients {
+  @include standard-padding;
+
+  h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  img {
+    max-width: 30vw;
+    mix-blend-mode: multiply;
+    max-height: 120px;
+  }
+}
+
+.values {
+  @include standard-padding;
+  @include bottom-rule;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: min-content min-content min-content;
+
+  img {
+    border-radius: 25px;
+    grid-column: 2/6;
+    grid-row: 1/3;
+    // height: auto;
+    object-fit: cover;
+    max-height: 75vh;
+    width: 100%;
+  }
+
+  div {
+    position: relative;
+    grid-column: 1/5;
+    grid-row: 2/4;
+    padding: 1.5rem;
+    border-radius: 25px;
+    background: $black;
+    color: $pale-yellow;
+    display: grid;
+    gap: 1rem;
+    padding-top: 4rem;
+
+    @media screen and (min-width: 700px) {
+      padding: 2.5rem;
+      gap: 2rem;
+      grid-template-columns: 3fr 1fr;
+    }
+  }
+
+  h2 {
+    font-size: 2rem;
+
+    &:after {
+      position: absolute;
+      top: 1.25rem;
+      right: 1rem;
+      content: "*";
+      color: $bold-yellow;
+      font-size: 5rem;
+      font-weight: normal;
+
+      @media screen and (min-width: 700px) {
+        font-size: 7.5rem;
+      }
+
+      @media screen and (min-width: 900px) {
+        font-size: 10rem;
+      }
+    }
+
+    @media screen and (min-width: 700px) {
+      margin-top: auto;
+      padding-top: 1rem;
+      grid-column: 2/3;
+      font-size: 3rem;
+      line-height: 1;
+    }
+
+    @media screen and (min-width: 800px) {
+      font-size: 4rem;
+    }
+
+    @media screen and (min-width: 1100px) {
+      font-size: 5rem;
+    }
+  }
+
+  p {
+    font-size: 1.5rem;
+    border-top: 5px solid $pale-yellow;
+    padding-top: 1rem;
+
+    @media screen and (min-width: 700px) {
+      border-top: none;
+      padding-top: 0;
+      grid-column: 1/2;
+      grid-row: 1/2;
+      padding-right: 2rem;
+      border-right: 5px solid $pale-yellow;
+      font-size: 2rem;
+    }
+
+    @media screen and (min-width: 900px) {
+      font-size: 2.5rem;
+    }
+  }
+}
+
+.blog {
+  @include standard-padding;
+  @include bottom-rule;
+  display: grid;
+  gap: 2rem;
+  align-items: center;
+
+  @media screen and (min-width: 1000px) {
+    grid-template-columns: 1fr 3fr;
+    gap: 1.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+
+    @media screen and (min-width: 500px) {
+      font-size: 4rem;
+      line-height: 1;
+    }
+  }
+}
+
+.contact {
+  @include extended-padding;
+  @include massive-text;
+  font-weight: 600;
+
+  p {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
 
   a {
-    color: lighten($black, 15);
+    color: $bold-red;
     text-decoration: none;
-    display: inline-block;
     position: relative;
 
     svg {
       position: absolute;
-      bottom: -5px;
+      bottom: -15px;
       left: 0;
       width: 100%;
-      height: 8px;
-
-      path {
-        fill: lighten($black, 15);
-      }
     }
-
 
     &:hover {
-      color: lighten($black, 30);
+      color: darken($bold-red, 5);
 
       svg path {
-        fill: lighten($black, 30);
+        fill: darken($bold-red, 5);
       }
     }
 
-    &:focus,
-    &:active {
-      color: $yellow;
-      background: $black;
-      outline: none;
-      box-shadow: 0px 4px 0px 4px $black;
+    &:active,
+    &:focus {
+      outline: 3px solid $bold-red;
+      border-bottom: 15px solid $bold-red;
+      background: $bold-red;
+      color: $black;
 
       svg path {
-        fill: $yellow;
+        fill: $black;
       }
     }
   }

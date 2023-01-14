@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "run-p dev:*",
-    "dev:parcel": "parcel src/scss/index.scss",
+    "dev:parcel": "parcel src/scss/index.scss  src/js/index.js",
     "dev:11ty": "eleventy --serve --input src --output dist",
     "build": "run-s build:*",
-    "build:parcel": "parcel build src/scss/index.scss",
+    "build:parcel": "parcel build src/scss/index.scss src/js/index.js",
     "build:11ty": "eleventy --input src --output dist"
   },
   "keywords": [],
