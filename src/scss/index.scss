@@ -10,26 +10,6 @@
 
 html {
   scroll-behavior: smooth;
-
-  &:before {
-    content: "*";
-    position: fixed;
-    bottom: -30rem;
-    left: 0;
-    font-size: 50rem;
-    z-index: -1;
-    color: transparentize($bold-yellow, 0.8)
-  }
-
-  &:after {
-    content: "*";
-    position: fixed;
-    top: 0;
-    right: 0;
-    font-size: 50rem;
-    z-index: -1;
-    color: transparentize($bold-yellow, 0.8);
-  }
 }
 
 body {

@@ -47,3 +47,38 @@
     font-size: 6rem;
   }
 }
+
+
+@mixin stars {
+  position: relative;
+
+  &:before {
+    content: "*";
+    position: absolute;
+    bottom: -17rem;
+    left: -2rem;
+    font-size: 20rem;
+    z-index: -1;
+    color: transparentize($bold-yellow, 0.75);
+
+    @media screen and (min-width: 700px) {
+      font-size: 30rem;
+      bottom: -25rem;
+    }
+  }
+
+  &:after {
+    content: "*";
+    position: absolute;
+    top: -5rem;
+    right: -2rem;
+    font-size: 20rem;
+    z-index: -1;
+    color: transparentize($bold-yellow, 0.75);
+
+    @media screen and (min-width: 700px) {
+      font-size: 30rem;
+      top: -7rem;
+    }
+  }
+}
