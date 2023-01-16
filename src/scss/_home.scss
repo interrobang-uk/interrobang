@@ -87,6 +87,11 @@
     border: 2px solid darken($bold-yellow, 10);
     position: relative;
 
+    &:focus-within {
+      outline: 1px solid $bold-red;
+      border-color: $bold-red;
+    }
+
     @media screen and (min-width: 500px) {
       padding: 2.5rem;
       transition: transform 0.1s ease-out;
@@ -100,6 +105,10 @@
       text-decoration: none;
       color: $black;
       margin-bottom: 1rem;
+
+      &:focus {
+        outline: none;
+      }
 
       &:after {
         position: absolute;
@@ -148,7 +157,6 @@
 
 .clients {
   @include standard-padding;
-  @include bottom-rule;
 
   h2 {
     text-align: center;
@@ -266,6 +274,7 @@
 }
 
 .blog {
+  @include top-rule;
   @include standard-padding;
   @include bottom-rule;
   display: grid;

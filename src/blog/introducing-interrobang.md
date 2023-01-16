@@ -2,7 +2,9 @@
 title: "We're back where we started"
 authors: Jaye Hackett, with Chloe Coleman
 layout: default.njk
-date: Last Modified
+date: Created
+abstract: People are getting restless for change again.
+tags: blog
 ---
 
 Almost three months ago to the day, I signed into Slack for my new agency job.

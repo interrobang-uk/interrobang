@@ -1,0 +1,32 @@
+<section class="blog" id="blog">
+  <aside>
+    <h2>The way we see it</h2>
+    <p>Our <em>changelog</em>, if you like</p>
+  </aside>
+
+  <ul class="tile-list tile-list--blog">
+
+    {{collections.blog | log}}
+
+    {% for post in collections.blog %}
+
+      {% if (loop.index <= 3) %}
+
+        <li class="tile-list__tile">
+          <a href="{{post.url}}">
+            <h3>{{ post.data.title }}</h3>
+          </a>
+          <p>
+            {% if post.data.abstract %}
+              {{ post.data.abstract }}
+            {% else %}
+              {{ post.data.content | striptags | truncate(120) }}
+            {% endif %}
+          </p>
+          <p>{{page.date.toDateString() }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+
+  </ul>
+</section>

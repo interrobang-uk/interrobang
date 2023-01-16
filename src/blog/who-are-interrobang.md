@@ -2,7 +2,9 @@
 title: "Who are Interrobang?"
 authors: Jaye Hackett and Chloe Coleman
 layout: default.njk
-date: Last Modified
+date: Created
+abstract: We came together because we were frustrated with the pace of change in our sector and wanted to make something new together.
+tags: blog
 ---
 
 Like we say on our home page, Interrobang is a design, technology and research studio who help people be their best.
@@ -11,6 +13,7 @@ We partner with public and charity sector clients to deliver real transformative
 
 We don’t favour any particular tech or ideology beyond listening to users about their needs, and then responding with an open mind and an open heart.
 Interrobang itself is recently-founded, but our co-founders and partners bring decades of experience from the civil service, charities like Samaritans and established consultancy players like FutureGov/TPXImpact and MadeTech.
+
 We’ve seen good times and bad times.
 
 We came together because we were frustrated with the pace of change in our sector and wanted to make something new together.
