@@ -1,0 +1,50 @@
+.section {
+  padding: 3rem $standard-padding;
+
+  @media screen and (min-width: 800px) {
+    padding: 5rem $standard-padding;
+  }
+
+  header {
+    border-top: 2px solid $black;
+    padding: 1rem 0;
+    display: grid;
+    gap: 1rem;
+
+    h2,
+    h3,
+    h4,
+    h5 {
+      text-transform: uppercase;
+      font-weight: 500;
+      font-size: 1.3rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+    }
+
+    @media screen and (min-width: 800px) {
+      grid-template-columns: repeat(12, 1fr);
+
+      & *:first-child {
+        grid-column: 1/5;
+      }
+
+      & *:nth-child(2) {
+        grid-column: 5/12;
+      }
+    }
+
+
+  }
+
+  &--dark {
+    background: $black;
+    color: $white;
+
+    header {
+      border-color: $white;
+    }
+  }
+}

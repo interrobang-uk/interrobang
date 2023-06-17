@@ -1,0 +1,53 @@
+.site-header {
+  padding: $standard-padding;
+
+  &__inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .5rem;
+
+    @media screen and (min-width: 800px) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .5rem;
+
+    @media screen and (min-width: 800px) {
+      flex-direction: row;
+      align-items: center;
+      gap: 2rem;
+    }
+  }
+
+  a {
+    color: $black;
+    font-weight: 500;
+    text-decoration: none;
+
+
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &:focus,
+    &:active {
+      outline: 3px solid $black;
+      background: $black;
+      color: $white;
+
+      svg path {
+        fill: $white;
+      }
+    }
+  }
+
+}

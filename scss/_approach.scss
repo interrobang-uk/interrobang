@@ -1,0 +1,91 @@
+.approach {
+  display: grid;
+  gap: 1rem;
+  list-style: none;
+  counter-reset: foo 0;
+  margin-top: 1rem;
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: repeat(12, 1fr);
+    row-gap: 2rem;
+  }
+
+  @media screen and (min-width: 1000px) {
+    row-gap: 3rem;
+  }
+
+  li {
+    counter-increment: foo 1;
+    display: grid;
+    gap: 1rem;
+
+
+    @media screen and (min-width: 800px) {
+      grid-column: 4/13;
+      grid-template-columns: repeat(9, 1fr);
+    }
+  }
+
+  button {
+    background: none;
+    border: none;
+    text-align: left;
+    display: grid;
+    gap: 0.5rem;
+    color: $white;
+    text-decoration: none;
+    border-bottom: 4px solid $white;
+    align-items: flex-end;
+    padding-bottom: 1rem;
+    grid-column: 1/10;
+    cursor: pointer;
+    // cursor: url("/cursor.svg") 36 36, auto;
+
+    &:hover {
+      color: darken($bold-yellow, 10);
+    }
+
+    &:focus,
+    &:active {
+      color: $black;
+      background: $white;
+      outline: none;
+    }
+
+    &:before {
+      content: "0" counter(foo);
+      font-weight: 400;
+      font-size: 1.1rem;
+    }
+
+    @media screen and (min-width: 800px) {
+      grid-template-columns: repeat(9, 1fr);
+      gap: 1rem;
+    }
+  }
+
+  h3 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 0.85;
+
+    @media screen and (min-width: 800px) {
+      font-size: 5rem;
+      grid-column: 2/10;
+    }
+
+    @media screen and (min-width: 1000px) {
+      font-size: 6rem;
+    }
+  }
+
+
+  &__content {
+    @media screen and (min-width: 800px) {
+      grid-column: 2/9;
+    }
+  }
+
+
+}
