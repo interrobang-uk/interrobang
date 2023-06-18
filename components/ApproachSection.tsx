@@ -2,7 +2,7 @@ import { useState } from "react"
 import Section from "./Section"
 
 const Item = ({ setSelection, selection, title, children }) => (
-  <li aria-expanded={selection === title}>
+  <li className="approach__item" aria-expanded={selection === title}>
     <button onClick={() => setSelection(selection === title ? null : title)}>
       <h3>{title}</h3>
     </button>
@@ -33,7 +33,21 @@ const ApproachSection = () => {
           selection={selection}
           title="Research"
         >
-          Content
+          <p>
+            For us, everything starts with building a deep, empathetic
+            understanding of users and their needs.
+          </p>
+
+          <p>This involves:</p>
+
+          <ul>
+            <li>
+              Turning prior work into hypotheses, so we don&apos;t re-invent the
+              wheel
+            </li>
+            <li>One-to-one interviews</li>
+            <li>Interactive workshops</li>
+          </ul>
         </Item>
 
         <Item setSelection={setSelection} selection={selection} title="Design">

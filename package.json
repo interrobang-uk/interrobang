@@ -12,6 +12,7 @@
   "dependencies": {
     "next": "^13.4.5",
     "rss-to-json": "^2.1.1",
+    "swiper": "^9.4.1",
     "swr": "^2.1.5"
   },
   "devDependencies": {
