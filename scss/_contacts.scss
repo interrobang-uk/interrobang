@@ -1,0 +1,66 @@
+.contacts-list {
+  list-style: none;
+  display: grid;
+
+  gap: 1rem;
+  align-items: flex-start;
+
+  @media screen and (min-width: 400px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  li {
+    display: grid;
+    gap: 0.5rem;
+
+    @media screen and (min-width: 800px) {
+      &:first-child {
+        grid-column: 3/6;
+      }
+
+      &:last-child {
+        grid-column: 6/9;
+      }
+    }
+  }
+
+  h3 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 2/3;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+
+  a {
+    color: $white;
+    margin-right: 0.5rem;
+
+    &:hover {
+      // text-decoration: none;
+      color: $bold-yellow;
+    }
+
+    &:focus,
+    &:active {
+      color: $black;
+      background: $white;
+      outline: 3px solid $white;
+    }
+  }
+}

@@ -1,0 +1,56 @@
+.newsletter {
+  display: grid;
+  gap: 1rem;
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+
+#custom-substack-embed {
+  margin-top: 2rem;
+  font-size: 1.1rem !important;
+
+  @media screen and (min-width: 800px) {
+    grid-column: 5/13;
+  }
+
+  .custom-substack-widget+.error {
+    color: $bold-red;
+    font-weight: 500;
+  }
+
+  form {
+    border-radius: 0;
+    border: 4px solid $black;
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: auto 12.5rem;
+
+  }
+
+  input {
+    padding: 1rem;
+    font-size: 1.1rem;
+
+    // &:focus,
+    // &:active {
+    //   outline: 3px solid $black;
+    // }
+  }
+
+  button {
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-left: 4px solid $black;
+
+
+    &:focus,
+    &:active {
+      background: $white;
+      color: $black;
+    }
+  }
+}

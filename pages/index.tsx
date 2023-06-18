@@ -4,6 +4,10 @@ import Collage from "../components/Collage"
 import Section from "../components/Section"
 import ApproachSection from "../components/ApproachSection"
 import TestimonialsSection from "../components/TestimonialsSection"
+import LogosSection from "../components/LogosSection"
+import BlogSection from "../components/BlogSection"
+import ContactSection from "../components/ContactSection"
+import NewsletterSection from "../components/NewsletterSection"
 
 const IndexPage = () => (
   <>
@@ -19,13 +23,10 @@ const IndexPage = () => (
     </Section>
     <ApproachSection />
     <TestimonialsSection />
-
-    <section className="section section--no-top-padding">
-      <header className="container">
-        <h2>Selected clients</h2>
-      </header>
-      Marquee here
-    </section>
+    <LogosSection />
+    <BlogSection />
+    <ContactSection />
+    <NewsletterSection />
   </>
 )
 

@@ -36,8 +36,35 @@
         grid-column: 5/13;
       }
     }
+  }
 
+  footer {
+    font-size: 1.1rem;
 
+    a {
+      color: $black;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+      &:focus,
+      &:active {
+        background: $black;
+        outline: 3px solid $black;
+        color: $white;
+      }
+    }
+  }
+
+  &__thirds {
+    display: grid;
+    gap: 2rem;
+    align-items: flex-end;
+
+    @media screen and (min-width: 800px) {
+      grid-template-columns: 1fr 2fr;
+    }
   }
 
   &--dark {
