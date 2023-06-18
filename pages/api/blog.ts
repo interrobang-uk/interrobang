@@ -6,8 +6,6 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     switch (req.method) {
       case "GET":
-        if (process.env.NODE_ENV === "production") throw "Not authorised"
-
         const feed = await parse(`${blogUrl}/feed`)
 
         res.status(200).json(feed)
