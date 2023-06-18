@@ -13,7 +13,7 @@ const BlogSection = () => {
       actions={<Link href={blogUrl}>See all</Link>}
     >
       <ul className="blog-grid">
-        {data?.items?.map(item => (
+        {data?.items?.slice(0, 4)?.map(item => (
           <li key={item.id}>
             <Link href={item.link}>
               <h3>{item.title}</h3>
