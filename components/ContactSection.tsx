@@ -7,6 +7,7 @@ import chloe from "../assets/chloe.jpg"
 
 const ContactSection = () => (
   <Section
+    id="contact"
     className="section--dark"
     title={<h2>Contact</h2>}
     actions={

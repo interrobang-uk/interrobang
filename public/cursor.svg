@@ -1,8 +1,8 @@
 <svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.84766 53.6924V72.1539H22.3092" stroke="#FFFDEB" stroke-width="7"/>
-<path d="M22.3086 3.84619L3.84706 3.84619L3.84705 22.3077" stroke="#FFFDEB" stroke-width="7"/>
-<path d="M72.1523 22.3076L72.1523 3.84608L53.6908 3.84608" stroke="#FFFDEB" stroke-width="7"/>
-<path d="M53.6914 72.1538L72.1529 72.1538L72.1529 53.6923" stroke="#FFFDEB" stroke-width="7"/>
-<path d="M26.3086 36.4614H51.8471" stroke="#FFFDEB" stroke-width="7"/>
-<path d="M39.0781 23.6924L39.0781 49.2308" stroke="#FFFDEB" stroke-width="7"/>
+<path d="M3.84766 53.6924V72.1539H22.3092" stroke="#FFFDEB" strokeWidth="7"/>
+<path d="M22.3086 3.84619L3.84706 3.84619L3.84705 22.3077" stroke="#FFFDEB" strokeWidth="7"/>
+<path d="M72.1523 22.3076L72.1523 3.84608L53.6908 3.84608" stroke="#FFFDEB" strokeWidth="7"/>
+<path d="M53.6914 72.1538L72.1529 72.1538L72.1529 53.6923" stroke="#FFFDEB" strokeWidth="7"/>
+<path d="M26.3086 36.4614H51.8471" stroke="#FFFDEB" strokeWidth="7"/>
+<path d="M39.0781 23.6924L39.0781 49.2308" stroke="#FFFDEB" strokeWidth="7"/>
 </svg>

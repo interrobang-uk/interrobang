@@ -20,6 +20,11 @@
     font-weight: 500;
   }
 
+  .custom-substack-widget+.success {
+    color: $black;
+    font-weight: 500;
+  }
+
   form {
     border-radius: 0;
     border: 4px solid $black;
@@ -32,6 +37,10 @@
   input {
     padding: 1rem;
     font-size: 1.1rem;
+
+    &::placeholder {
+      opacity: 0.5;
+    }
 
     // &:focus,
     // &:active {

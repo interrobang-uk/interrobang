@@ -52,8 +52,7 @@
     margin-right: 0.5rem;
 
     &:hover {
-      // text-decoration: none;
-      color: $bold-yellow;
+      color: transparentize($white, 0.2);
     }
 
     &:focus,

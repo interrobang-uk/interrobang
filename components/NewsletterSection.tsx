@@ -20,9 +20,9 @@ const NewsletterSection = () => (
         id="substack"
         dangerouslySetInnerHTML={{
           __html: `window.CustomSubstackWidget = {
-    substackUrl: "prostack.substack.com",
+    substackUrl: "interrobanguk.substack.com",
     placeholder: "example@gmail.com",
-    buttonText: "Subscribe",
+    buttonText: "Sign up",
     theme: "custom",
     colors: {
       primary: "#212121",

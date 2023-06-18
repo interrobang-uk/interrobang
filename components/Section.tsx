@@ -5,13 +5,14 @@ const Section = ({
   children,
   actions,
   className,
+  ...props
 }: {
   title?: ReactElement | string
   actions?: ReactElement | string
   children: ReactElement | string
   className?: string
 }) => (
-  <section className={`section ${className}`}>
+  <section className={`section ${className}`} {...props}>
     <div className="container">
       {/* optional header area */}
       {title && <header>{title}</header>}

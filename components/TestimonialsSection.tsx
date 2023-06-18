@@ -27,7 +27,7 @@ const TestimonialsSection = () => {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <path d="M15 26L3 14L15 2" stroke="black" stroke-width="4" />
+                <path d="M15 26L3 14L15 2" stroke="black" strokeWidth="4" />
               </svg>
 
               <span className="visually-hidden">Previous</span>
@@ -41,7 +41,7 @@ const TestimonialsSection = () => {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <path d="M15 26L3 14L15 2" stroke="black" stroke-width="4" />
+                <path d="M15 26L3 14L15 2" stroke="black" strokeWidth="4" />
               </svg>
 
               <span className="visually-hidden">Next</span>

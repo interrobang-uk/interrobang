@@ -32,7 +32,7 @@ const SiteFooter = () => (
           <a href="/accessibility">Accessibility</a>
           <a href="/environment">Environmental and social governance</a>
           <a href="https://interrobanguk.substack.com">Blog</a>
-          <a href="/careers">Join us</a>
+          <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
         </nav>
       </aside>
       <aside>

@@ -3,36 +3,29 @@
 
   &__inner {
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     gap: .5rem;
 
+  }
+
+  &__mobile-menu-trigger {
     @media screen and (min-width: 800px) {
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: center;
+      display: none;
     }
   }
 
-  nav {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: .5rem;
+  a,
+  button {
+    background: none;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
 
-    @media screen and (min-width: 800px) {
-      flex-direction: row;
-      align-items: center;
-      gap: 2rem;
-    }
-  }
-
-  a {
     color: $black;
     font-weight: 500;
     text-decoration: none;
-
-
 
     &:hover {
       text-decoration: underline;
@@ -50,4 +43,55 @@
     }
   }
 
+  &__menu {
+    display: none;
+
+    @media screen and (min-width: 800px) {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 2rem;
+    }
+  }
+
+}
+
+.mobile-menu {
+  display: flex;
+  flex-direction: column;
+  background: transparentize($black, 0.9);
+  gap: 0 !important;
+  margin-bottom: 1rem;
+
+  a {
+    padding: 0.75rem 1rem;
+
+    color: $black;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &:focus,
+    &:active {
+      outline: 3px solid $black;
+      background: $black;
+      color: $white;
+
+      svg path {
+        fill: $white;
+      }
+    }
+
+
+    &:not(:last-child) {
+      border-bottom: 1px solid transparentize($black, 0.9);
+    }
+  }
+
+  @media screen and (min-width: 800px) {
+    display: none !important;
+  }
 }
