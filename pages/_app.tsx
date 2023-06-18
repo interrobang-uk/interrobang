@@ -7,7 +7,6 @@ const App = ({ Component, pageProps }) => (
   <SWRConfig value={{ fetcher: url => fetch(url).then(res => res.json()) }}>
     <Layout>
       <Head>
-        <link href="/index.css" rel="stylesheet" type="text/css" />
         <meta name="viewport" content="width=device-width" />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -21,7 +20,7 @@ const App = ({ Component, pageProps }) => (
           rel="stylesheet"
         />
 
-        <link rel="icon" href="/assets/favicon.png" />
+        <link rel="icon" href="/favicon.png" />
         <meta charSet="utf-8" />
 
         <title>Interrobang</title>
