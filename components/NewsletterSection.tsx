@@ -7,9 +7,9 @@ const NewsletterSection = () => (
       <>
         <h2>Get updates</h2>
         <p>
-          Interrobang works at the intersection of research, design and
-          technology to malke sustainable change for the public services we all
-          depend on.
+          You can get our case studies, opinions and updates on our work sent to
+          your inbox whenever we publish. No more than one a week and no spam,
+          ever.
         </p>
       </>
     }

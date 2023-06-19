@@ -20,9 +20,9 @@ const ApproachSection = () => {
         <>
           <h2>Our approach</h2>
           <p>
-            Interrobang works at the intersection of research, design and
-            technology to make sustainable change for the public services we all
-            depend on.
+            We provide interdisciplinary teams who work at the intersection of
+            research, design and technology to make sustainable change for the
+            public services we all depend on.
           </p>
         </>
       }

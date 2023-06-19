@@ -23,11 +23,13 @@ const App = ({ Component, pageProps }) => (
         <link rel="icon" href="/favicon.png" />
         <meta charSet="utf-8" />
 
-        <title>Interrobang</title>
+        <title>
+          Interrobang | Research, design and tech for better public services
+        </title>
         <meta name="title" content="Hi, we're Interrobang" />
         <meta
           name="description"
-          content="We’re a studio working at the intersection of design, technology and research. If you're reading this, we'd probably like to work with you."
+          content="We’re a worker-owned digital outcomes studio working for community resilience and more robust public services."
         />
 
         <meta property="og:type" content="website" />
@@ -35,7 +37,7 @@ const App = ({ Component, pageProps }) => (
         <meta property="og:title" content="Hi, we're Interrobang" />
         <meta
           property="og:description"
-          content="We’re a studio working at the intersection of design, technology and research. If you're reading this, we'd probably like to work with you."
+          content="We’re a worker-owned digital outcomes studio working for community resilience and more robust public services."
         />
         <meta property="og:image" content="/assets/social.jpg" />
 
@@ -44,7 +46,7 @@ const App = ({ Component, pageProps }) => (
         <meta property="twitter:title" content="Hi, we're Interrobang" />
         <meta
           property="twitter:description"
-          content="We’re a studio working at the intersection of design, technology and research. If you're reading this, we'd probably like to work with you."
+          content="We’re a worker-owned digital outcomes studio working for community resilience and more robust public services."
         />
         <meta property="twitter:image" content="/assets/social.jpg" />
       </Head>

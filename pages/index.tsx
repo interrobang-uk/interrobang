@@ -17,8 +17,9 @@ const IndexPage = () => (
     <Collage />
     <Section>
       <p className="big">
-        Interrobang works at the intersection of research, design and technology
-        to make sustainable change for the public services we all depend on.
+        We're also a worker-owned co-operative, in business to make our
+        communities more resilient against the interconnected, deepening crises
+        of this century.
       </p>
     </Section>
     <ApproachSection />

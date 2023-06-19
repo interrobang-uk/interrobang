@@ -12,8 +12,8 @@ const ContactSection = () => (
     title={<h2>Contact</h2>}
     actions={
       <p>
-        Interrobang works at the intersection of research, design and
-        technology.
+        Whether you want to partner with us on some work, or just fancy a chat,
+        we want to hear from you.
       </p>
     }
   >

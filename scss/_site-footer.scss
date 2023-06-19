@@ -90,10 +90,27 @@
 
   &__info {
     display: grid;
-    gap: 1.5rem;
+    gap: 1rem;
     margin-top: 2rem;
     border-top: 1px solid $white;
     padding-top: 2rem;
     font-size: 0.9rem;
+  }
+
+  &__marks {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+
+    @media screen and (min-width: 800px) {
+      flex-direction: row;
+      align-items: center;
+      gap: 3rem;
+
+      // img:last-child {
+      //   order: -1;
+      // }
+    }
   }
 }
