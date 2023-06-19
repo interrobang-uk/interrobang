@@ -1,4 +1,4 @@
-import Section from "./Section"
+import Marquee from "react-fast-marquee"
 
 import a from "../assets/logos/ageuk.png"
 import b from "../assets/logos/bfi.png"
@@ -21,33 +21,36 @@ import r from "../assets/logos/uc.png"
 import Image from "next/image"
 
 const LogosSection = () => (
-  <Section
-    className="section--no-top-padding"
-    title={<h2>Selected clients</h2>}
-  >
-    <div className="marquee container">
-      <div className="marquee__inner">
-        <Image src={a} alt="Age UK" />
-        <Image src={b} alt="BFI" />
-        <Image src={c} alt="Buckinghamshire Council" />
-        <Image src={d} alt="Camden Council" />
-        <Image src={e} alt="Crisis" />
-        <Image src={f} alt="Centre for Digital Public Services" />
-        <Image src={g} alt="Devon Council" />
-        <Image src={h} alt="Department for Education" />
-        <Image src={i} alt="Department for Transport" />
-        <Image src={j} alt="Essex Council" />
-        <Image src={k} alt="Government Digital Service" />
-        <Image src={l} alt="Hackney Council" />
-        <Image src={m} alt="Home Office" />
-        <Image src={n} alt="Kent County Council" />
-        <Image src={o} alt="Ministry of Justice" />
-        <Image src={p} alt="NHS Digital" />
-        <Image src={q} alt="Parkinsons UK" />
-        <Image src={r} alt="Universal Credit" />
+  <section className="section section--no-top-padding">
+    <header className="container">
+      <h2>Selected clients</h2>
+    </header>
+
+    <Marquee pauseOnHover speed={30}>
+      <div className="marquee">
+        <div className="marquee__inner">
+          <Image src={a} alt="Age UK" />
+          <Image src={b} alt="BFI" />
+          <Image src={c} alt="Buckinghamshire Council" />
+          <Image src={d} alt="Camden Council" />
+          <Image src={e} alt="Crisis" />
+          <Image src={f} alt="Centre for Digital Public Services" />
+          <Image src={g} alt="Devon Council" />
+          <Image src={h} alt="Department for Education" />
+          <Image src={i} alt="Department for Transport" />
+          <Image src={j} alt="Essex Council" />
+          <Image src={k} alt="Government Digital Service" />
+          <Image src={l} alt="Hackney Council" />
+          <Image src={m} alt="Home Office" />
+          <Image src={n} alt="Kent County Council" />
+          <Image src={o} alt="Ministry of Justice" />
+          <Image src={p} alt="NHS Digital" />
+          <Image src={q} alt="Parkinsons UK" />
+          <Image src={r} alt="Universal Credit" />
+        </div>
       </div>
-    </div>
-  </Section>
+    </Marquee>
+  </section>
 )
 
 export default LogosSection
