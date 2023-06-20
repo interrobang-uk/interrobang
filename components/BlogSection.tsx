@@ -18,7 +18,13 @@ const BlogSection = () => {
             <Link href={item.link}>
               <h3>{item.title}</h3>
             </Link>
-            <p>{new Date(item.published).toDateString()}</p>
+            <p>
+              {new Date(item.published).toLocaleDateString("en-GB", {
+                day: "2-digit",
+                month: "short",
+                year: "numeric",
+              })}
+            </p>
             <p dangerouslySetInnerHTML={{ __html: item.description }}></p>
           </li>
         ))}

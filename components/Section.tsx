@@ -1,4 +1,4 @@
-import { ReactElement } from "react"
+import { HTMLAttributes, ReactElement } from "react"
 
 const Section = ({
   title,
@@ -11,6 +11,7 @@ const Section = ({
   actions?: ReactElement | string
   children: ReactElement | string
   className?: string
+  id?: string
 }) => (
   <section className={`section ${className}`} {...props}>
     <div className="container">

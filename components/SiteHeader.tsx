@@ -51,9 +51,7 @@ const SiteHeader = () => {
           </nav>
 
           <nav className="site-header__menu">
-            <a href="https://linkedin.com/company/interrobang-digital">
-              LinkedIn
-            </a>
+            <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
           </nav>
         </div>
       </header>
@@ -65,9 +63,7 @@ const SiteHeader = () => {
           <a href="https://interrobanguk.substack.com">Blog</a>
           <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
           <a href="#contact">Contact</a>
-          <a href="https://linkedin.com/company/interrobang-digital">
-            LinkedIn
-          </a>
+          <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
         </nav>
       )}
     </>

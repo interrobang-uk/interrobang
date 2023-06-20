@@ -41,9 +41,7 @@ const SiteFooter = () => (
       <aside>
         <h2>Connect</h2>
         <nav>
-          <a href="https://linkedin.com/company/interrobang-digital">
-            LinkedIn
-          </a>
+          <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
           <a href="https://github.com/interrobang-uk">GitHub</a>
           <a href="https://interrobanguk.substack.com">Substack</a>
           <a href="mailto:hello@interrobang.uk">hello@interrobang.uk</a>
