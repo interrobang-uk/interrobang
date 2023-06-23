@@ -18,6 +18,9 @@ import o from "../assets/logos/moj.png"
 import p from "../assets/logos/nhsd.png"
 import q from "../assets/logos/puk.png"
 import r from "../assets/logos/uc.png"
+import s from "../assets/logos/iwm.png"
+import t from "../assets/logos/catapult.png"
+import u from "../assets/logos/gla.png"
 import Image from "next/image"
 
 const LogosSection = () => (
@@ -40,6 +43,11 @@ const LogosSection = () => (
           <Image src={i} alt="Department for Transport" />
           <Image src={j} alt="Essex Council" />
           <Image src={k} alt="Government Digital Service" />
+
+          <Image src={s} alt="Imperial War Museums" />
+          <Image src={t} alt="Catapult network" />
+          <Image src={u} alt="Greater London Authority" />
+
           <Image src={l} alt="Hackney Council" />
           <Image src={m} alt="Home Office" />
           <Image src={n} alt="Kent County Council" />

@@ -34,24 +34,43 @@ const ApproachSection = () => {
           title="Research"
         >
           <p>
-            For us, everything starts with building a deep, empathetic
-            understanding of users and their needs.
+            Everything starts with building a deep, empathetic understanding of
+            users and their needs.
           </p>
 
           <p>This involves:</p>
 
           <ul>
             <li>
-              Turning prior work into hypotheses, so we don&apos;t re-invent the
-              wheel
+              Turning prior work into hypotheses: explicit assumptions from our
+              prior work, so we don&apos;t spend time and money re-learning
+              things we already know
             </li>
-            <li>One-to-one interviews</li>
-            <li>Interactive workshops</li>
+            <li>
+              A mix of individual interviews and interactive group workshops
+            </li>
+            <li>
+              Longitudinal methods like diary studies, where we check in with
+              the same people over time to understand long-term impact
+            </li>
           </ul>
         </Item>
 
         <Item setSelection={setSelection} selection={selection} title="Design">
-          Content
+          <p>We have a "big tent" approach to design.</p>
+
+          <p>
+            We do participatory design that centres the lived experience of your
+            users and gives them creative control.
+          </p>
+
+          <p>In practice, this means:</p>
+
+          <ul>
+            <li>design sprints</li>
+            <li>co-design workshops</li>
+            <li>prototyping things and getting early feedback</li>
+          </ul>
         </Item>
 
         <Item
@@ -59,7 +78,23 @@ const ApproachSection = () => {
           selection={selection}
           title="Technology"
         >
-          Content
+          <p>We're technology agnostic. We don't chase trends.</p>
+
+          <p>
+            Instead, we'll begin our projects with a 'technology discovery'
+            where we'll examine:
+          </p>
+
+          <ul>
+            <li>sustainable upfront and ongoing costs</li>
+            <li>the ease of keeping things up and running after the project</li>
+            <li>a good fit to your context and the skills of your staff</li>
+          </ul>
+
+          <p>
+            The best option might be building something new, subscribing to a
+            cloud service, using a no-code platform, or a bit of each.
+          </p>
         </Item>
       </ul>
     </Section>

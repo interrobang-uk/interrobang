@@ -3,6 +3,7 @@ import queer from "../assets/queer.png"
 import logo from "../assets/logo.svg"
 import coop from "../assets/coop.svg"
 import cyber from "../assets/cyber.png"
+import livingWage from "../assets/living-wage.png"
 
 const SiteFooter = () => (
   <footer className="site-footer">
@@ -32,8 +33,12 @@ const SiteFooter = () => (
         <h2>More about us</h2>
         <nav>
           <a href="/privacy">Privacy</a>
-          <a href="/accessibility">Accessibility</a>
-          <a href="/environment">Environmental and social governance</a>
+          <a href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
+            Accessibility
+          </a>
+          <a href="https://interrobang-uk.notion.site/Environmental-policy-0d94f323c62d4a86ad22c09448f5c2a0?pvs=4">
+            Environmental and social governance
+          </a>
           <a href="https://interrobanguk.substack.com">Blog</a>
           <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
         </nav>
@@ -68,6 +73,7 @@ const SiteFooter = () => (
             width: "auto",
           }}
         />
+        <Image src={livingWage} alt="We are a living wage employer" />
         <Image src={coop} alt="Co-operatives UK emblem" />
       </div>
       <p>

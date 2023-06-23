@@ -88,8 +88,7 @@
 
     grid-column: 1/10;
 
-    p+p,
-    p+ul {
+    &>*+* {
       margin-top: 1rem;
     }
 
