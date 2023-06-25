@@ -1,0 +1,72 @@
+.accordion {
+  list-style: none;
+  border-top: 2px solid $white;
+  margin-top: 2rem;
+
+  &__item {
+    border-bottom: 2px solid $white;
+
+    &[aria-expanded=true] button svg rect:last-child {
+      opacity: 0;
+    }
+  }
+
+  button {
+    width: 100%;
+    background: none;
+    border: none;
+    color: $white;
+    text-decoration: none;
+    padding: 1rem .5rem 1rem 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    &:hover {
+      color: darken($bold-yellow, 10);
+    }
+
+    &:focus,
+    &:active {
+      color: $black;
+      background: $white;
+      outline: none;
+
+      svg rect {
+        fill: $black;
+      }
+    }
+
+    svg {
+      max-height: 19px;
+      width: auto;
+    }
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+  &__content {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    border-top: 1px dashed $white;
+    padding: 2rem 0;
+
+    &>*+* {
+      margin-top: 1rem;
+    }
+
+    ul {
+      list-style: square;
+      margin-left: 2rem;
+    }
+
+    li {
+      padding-left: 0.5rem;
+    }
+  }
+}
