@@ -1,3 +1,4 @@
+import Link from "next/link"
 import { useState } from "react"
 
 const SiteHeader = () => {
@@ -7,7 +8,7 @@ const SiteHeader = () => {
     <>
       <header className="site-header">
         <div className="site-header__inner container">
-          <a href="/">
+          <Link href="/">
             <svg
               width="100"
               height="50"
@@ -41,7 +42,7 @@ const SiteHeader = () => {
             </svg>
 
             <span className="visually-hidden">Interrobang</span>
-          </a>
+          </Link>
 
           <button
             onClick={() => setOpen(!open)}
@@ -51,27 +52,31 @@ const SiteHeader = () => {
           </button>
 
           <nav className="site-header__menu">
-            <a href="/services">Our services</a>
-            <a href="/training">Training</a>
-            <a href="https://interrobanguk.substack.com">Blog</a>
-            <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
-            <a href="#contact">Contact</a>
+            <Link href="/services">Our services</Link>
+            <Link href="/training">Training</Link>
+            <Link href="https://interrobanguk.substack.com">Blog</Link>
+            <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
+            <Link href="#contact">Contact</Link>
           </nav>
 
           <nav className="site-header__menu">
-            <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
+            <Link href="https://linkedin.com/company/interrobanguk">
+              LinkedIn
+            </Link>
           </nav>
         </div>
       </header>
 
       {open && (
         <nav className="mobile-menu">
-          <a href="/services">Our services</a>
-          <a href="/training">Training</a>
-          <a href="https://interrobanguk.substack.com">Blog</a>
-          <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
-          <a href="#contact">Contact</a>
-          <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
+          <Link href="/services">Our services</Link>
+          <Link href="/training">Training</Link>
+          <Link href="https://interrobanguk.substack.com">Blog</Link>
+          <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
+          <Link href="#contact">Contact</Link>
+          <Link href="https://linkedin.com/company/interrobanguk">
+            LinkedIn
+          </Link>
         </nav>
       )}
     </>

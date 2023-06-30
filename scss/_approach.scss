@@ -41,7 +41,7 @@
     // cursor: url("/cursor.svg") 36 36, auto;
 
     &:hover {
-      color: darken($bold-yellow, 10);
+      color: transparentize($white, 0.2)
     }
 
     &:focus,

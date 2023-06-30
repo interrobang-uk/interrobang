@@ -25,7 +25,7 @@
     align-items: center;
 
     &:hover {
-      color: darken($bold-yellow, 10);
+      color: transparentize($white, 0.2)
     }
 
     &:focus,
@@ -46,15 +46,18 @@
   }
 
   h3 {
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 1.75rem;
+    font-weight: 400;
   }
 
   &__content {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     line-height: 1.5;
-    border-top: 1px dashed $white;
+    border-top: 1px dashed transparentize($white, .75);
     padding: 2rem 0;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
 
     &>*+* {
       margin-top: 1rem;

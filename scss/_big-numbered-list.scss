@@ -1,0 +1,50 @@
+.big-numbered-list {
+  counter-reset: bar 0;
+  list-style: none;
+  display: grid;
+  margin-top: 1rem;
+  gap: 1.5rem 1rem;
+
+  @media screen and (min-width: 800px) {
+    margin-top: 0;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 2rem 1rem;
+  }
+
+  li {
+    counter-increment: bar 1;
+    position: relative;
+    padding-top: 0.25rem;
+    padding-left: 4rem;
+    min-height: 2rem;
+
+    @media screen and (min-width: 800px) {
+      grid-column: 5/13;
+    }
+
+    &:before {
+      position: absolute;
+      left: 0;
+      top: 0;
+      content: counter(bar);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: $black;
+      color: $white;
+      height: 2rem;
+      width: 2rem;
+      font-size: 1.25rem;
+      border-radius: 100%;
+      font-weight: 500;
+    }
+  }
+
+  h3 {
+    line-height: 1;
+  }
+
+  p {
+    margin-top: .5rem;
+  }
+}

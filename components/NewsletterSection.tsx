@@ -1,7 +1,7 @@
 import Script from "next/script"
 import Section from "./Section"
 
-const NewsletterSection = () => (
+const NewsletterSection = props => (
   <Section
     title={
       <>
@@ -13,6 +13,7 @@ const NewsletterSection = () => (
         </p>
       </>
     }
+    {...props}
   >
     <div className="newsletter">
       <div id="custom-substack-embed"></div>

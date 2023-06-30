@@ -1,23 +1,12 @@
 import Image from "next/image"
-import a from "../assets/11.jpg"
-import b from "../assets/10.jpg"
-import c from "../assets/12.jpg"
-import d from "../assets/13.jpg"
 
-const Collage = () => (
-  <div className="collage">
-    <div className="collage__image-holder">
-      <Image src={a} alt="" />
-    </div>
-    <div className="collage__image-holder">
-      <Image src={b} alt="" />
-    </div>
-    <div className="collage__image-holder">
-      <Image src={c} alt="" />
-    </div>
-    <div className="collage__image-holder">
-      <Image src={d} alt="" />
-    </div>
+const Collage = ({ images, className }) => (
+  <div className={`collage ${className}`}>
+    {images.map(img => (
+      <div className="collage__image-holder" key={img}>
+        <Image src={img} alt="" />
+      </div>
+    ))}
 
     <div className="icon">
       <svg width="231" height="240" viewBox="0 0 231 240">

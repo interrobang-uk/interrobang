@@ -19,6 +19,24 @@
     ". . d d d d . . . . . ."
   ;
 
+  &--flipped {
+    padding-bottom: 3rem;
+    grid-template-areas:
+      ". . . . . . d d d d . ."
+      ". . . . . . d d d d . ."
+      "c c c c c c d d d d . ."
+      "c c c c c c d d d d . ."
+      "c c c c c c b b b b b b"
+      "c c c c c c b b b b b b"
+      "c c c c c c b b b b b b"
+      "c c c c c c b b b b b b"
+      ". a a a a a b b b b b b"
+      ". a a a a a b b b b b b"
+      ". a a a a a b b b b b b"
+      ". a a a a a . . . . . ."
+    ;
+  }
+
   @media screen and (min-width: 800px) {
     height: 100vh;
     margin-top: -2rem;
@@ -36,6 +54,25 @@
       ". . d d d c c c c c c c"
       ". . d d d . . . . . . ."
     ;
+
+    &--flipped {
+      padding-bottom: 3rem;
+      grid-template-areas:
+        ". . . . . . . d d d . ."
+        "c c c c c c c d d d . ."
+        "c c c c c c c d d d . ."
+        "c c c c c c c b b b b b"
+        "c c c c c c c b b b b b"
+        "c c c c c c c b b b b b"
+        "c c c c c c c b b b b b"
+        ". . a a a a . b b b b b"
+        ". . a a a a . b b b b b"
+        ". . a a a a . b b b b b"
+        ". . a a a a . . . . . ."
+        ". . a a a a . . . . . ."
+      ;
+    }
+
   }
 
   img {

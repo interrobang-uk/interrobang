@@ -1,0 +1,28 @@
+.client-grid {
+  display: grid;
+
+  gap: 1rem;
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  &__inner {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.75rem 3rem;
+
+    @media screen and (min-width: 800px) {
+      grid-column: 5/13;
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+
+  img {
+    height: auto;
+    width: auto;
+    margin: auto;
+    max-height: 80px;
+    mix-blend-mode: multiply;
+  }
+}

@@ -40,14 +40,21 @@ const AccordionSection = () => {
             selection={selection}
             title="Digital transformation consulting"
           >
-            <p>Content</p>
+            <p>
+              We provide strategic consultancy services to your leaders and
+              senior managers in order to help your organisation better serve
+              its users.
+            </p>
           </Item>
           <Item
             setSelection={setSelection}
             selection={selection}
             title="Product and service design and development"
           >
-            <p>Content</p>
+            <p>
+              We make digital services and products: apps, websites and the
+              non-digital processes and policies that make them work.
+            </p>
           </Item>
 
           <Item
@@ -55,7 +62,10 @@ const AccordionSection = () => {
             selection={selection}
             title="Training and coaching"
           >
-            <p>Content</p>
+            <p>
+              We run one-off sessions and extended courses to introduce you and
+              your colleagues to modern, agile, design-led ways of working.
+            </p>
           </Item>
 
           <Item
@@ -63,7 +73,11 @@ const AccordionSection = () => {
             selection={selection}
             title="Digital maturity and accessibility audits"
           >
-            <p>Content</p>
+            <p>
+              We study your organisation and its stakeholders to understand
+              where you are at in your digital transformation journey, and
+              recommend what to do next.
+            </p>
           </Item>
 
           <Item
@@ -71,7 +85,11 @@ const AccordionSection = () => {
             selection={selection}
             title="Research and evaluation"
           >
-            <p>Content</p>
+            <p>
+              We use the same participatory, community-first research methods we
+              apply in our digital work and apply them to wide-ranging problems
+              and projects.
+            </p>
           </Item>
         </ul>
       </>

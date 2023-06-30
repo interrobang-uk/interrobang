@@ -9,12 +9,17 @@ import BlogSection from "../components/BlogSection"
 import ContactSection from "../components/ContactSection"
 import NewsletterSection from "../components/NewsletterSection"
 
+import a from "../assets/11.jpg"
+import b from "../assets/10.jpg"
+import c from "../assets/12.jpg"
+import d from "../assets/13.jpg"
+
 const IndexPage = () => (
   <>
     <PageHeader>
       We’re a digital outcomes studio who help people be their best
     </PageHeader>
-    <Collage />
+    <Collage images={[a, b, c, d]} className="" />
     <Section>
       <p className="big">
         We're also a worker-owned co-operative, in business to make our

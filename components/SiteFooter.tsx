@@ -32,7 +32,7 @@ const SiteFooter = () => (
       <aside>
         <h2>More about us</h2>
         <nav>
-          <a href="/privacy">Privacy</a>
+          <a href="/privacy">How we use data</a>
           <a href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
             Accessibility
           </a>

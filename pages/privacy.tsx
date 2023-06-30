@@ -1,14 +1,13 @@
-import React from "react"
 import PageHeader from "../components/PageHeader"
 import Section from "../components/Section"
 
-const NotFoundPage = () => (
+const PrivacyPage = () => (
   <>
-    <PageHeader>Page not found</PageHeader>
+    <PageHeader>How we use data</PageHeader>
     <Section className="section--no-top-padding">
       <p className="big">We couldn't find the content you were looking for.</p>
     </Section>
   </>
 )
 
-export default NotFoundPage
+export default PrivacyPage
