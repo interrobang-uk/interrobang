@@ -89,7 +89,7 @@
   &__toc {
     padding: 1rem;
     background-color: #fffdeb;
-    background-image: repeating-linear-gradient(45deg, #e9e7d2 0 1.25px, #fffdeb 0 50%);
+    background-image: repeating-linear-gradient(45deg, transparentize($black, 0.9) 0 1.25px, transparent 0 50%);
     background-size: 4px 4px;
     font-size: 1rem;
 
