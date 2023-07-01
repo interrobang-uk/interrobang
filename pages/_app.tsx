@@ -34,7 +34,7 @@ const App = ({ Component, pageProps }) => (
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://interrobang.uk/" />
+        <meta property="og:url" content="https://interrobang.coop/" />
         <meta property="og:title" content="Hi, we're Interrobang" />
         <meta
           property="og:description"
@@ -43,7 +43,7 @@ const App = ({ Component, pageProps }) => (
         <meta property="og:image" content="/assets/social.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://interrobang.uk/" />
+        <meta property="twitter:url" content="https://interrobang.coop/" />
         <meta property="twitter:title" content="Hi, we're Interrobang" />
         <meta
           property="twitter:description"
