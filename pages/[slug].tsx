@@ -7,7 +7,7 @@ import NewsletterSection from "../components/NewsletterSection"
 const GenericPage = ({ title, content, ...props }) => (
   <>
     <PageHeader className="page-header--full-width">{title}</PageHeader>
-    <Section className="section--no-top-padding">
+    <Section className="section--no-top-padding section--no-bottom-padding">
       <div
         dangerouslySetInnerHTML={{ __html: content }}
         className="flexible-content"
