@@ -13,28 +13,18 @@
     "b b b b b b c c c c c c"
     "b b b b b b c c c c c c"
     "b b b b b b c c c c c c"
-    ". . d d d d c c c c c c"
-    ". . d d d d c c c c c c"
-    ". . d d d d . . . . . ."
-    ". . d d d d . . . . . ."
+    ". d d d d d c c c c c c"
+    ". d d d d d c c c c c c"
+    ". d d d d d . . . . . ."
+    ". d d d d d . . . . . ."
   ;
 
-  &--flipped {
-    padding-bottom: 3rem;
-    grid-template-areas:
-      ". . . . . . d d d d . ."
-      ". . . . . . d d d d . ."
-      "c c c c c c d d d d . ."
-      "c c c c c c d d d d . ."
-      "c c c c c c b b b b b b"
-      "c c c c c c b b b b b b"
-      "c c c c c c b b b b b b"
-      "c c c c c c b b b b b b"
-      ". a a a a a b b b b b b"
-      ". a a a a a b b b b b b"
-      ". a a a a a b b b b b b"
-      ". a a a a a . . . . . ."
-    ;
+  &+.section--dark {
+    margin-top: 3rem;
+
+    // @media screen and (min-width: 800px) {
+    //   margin-top: 5rem;
+    // }
   }
 
   @media screen and (min-width: 800px) {
@@ -50,28 +40,13 @@
       "b b b b b c c c c c c c"
       "b b b b b c c c c c c c"
       "b b b b b c c c c c c c"
-      ". . d d d c c c c c c c"
-      ". . d d d c c c c c c c"
-      ". . d d d . . . . . . ."
+      ". . . d d c c c c c c c"
+      ". . . d d c c c c c c c"
+      ". . . d d . . . . . . ."
     ;
 
-    &--flipped {
-      padding-bottom: 3rem;
-      grid-template-areas:
-        ". . . . . . . d d d . ."
-        "c c c c c c c d d d . ."
-        "c c c c c c c d d d . ."
-        "c c c c c c c b b b b b"
-        "c c c c c c c b b b b b"
-        "c c c c c c c b b b b b"
-        "c c c c c c c b b b b b"
-        ". . a a a a . b b b b b"
-        ". . a a a a . b b b b b"
-        ". . a a a a . b b b b b"
-        ". . a a a a . . . . . ."
-        ". . a a a a . . . . . ."
-      ;
-    }
+
+
 
   }
 
@@ -85,7 +60,6 @@
   }
 
   &__image-holder {
-    background: $bold-yellow;
     position: relative;
   }
 
@@ -103,6 +77,38 @@
 
   &__image-holder:nth-child(4) {
     grid-area: d;
+  }
+
+  &--flipped {
+    grid-template-areas:
+      " . . . . . . b b b b b b"
+      " . . . . . . b b b b b b"
+      " a a a a a a b b b b b b"
+      " a a a a a a b b b b b b"
+      " a a a a a a b b b b b b"
+      " a a a a a a b b b b b b"
+      " a a a a a a . . . . . ."
+      " a a a a a a . . . . . ."
+    ;
+
+    //   grid-template-areas:
+    //   " . . . . . . b b b b b b"
+    //   " . . . . . . b b b b b b"
+    //   " a a a a a a b b b b b b"
+    //   " a a a a a a b b b b b b"
+    //   " a a a a a a b b b b b b"
+    //   " a a a a a a b b b b b b"
+    //   " a a a a a a . . . . . ."
+    //   " a a a a a a . . . . . ."
+    //   " a a a a a a . . . . . ."
+    // ;
+
+    .collage__image-holder:nth-child(3) {
+      // display: none;
+      grid-column: 6/9;
+      grid-row: 6/11;
+      border: 1rem solid $white;
+    }
   }
 
   .icon {

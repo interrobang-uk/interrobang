@@ -4,6 +4,8 @@ import logo from "../assets/logo.svg"
 import coop from "../assets/coop.svg"
 import cyber from "../assets/cyber.png"
 import livingWage from "../assets/living-wage.png"
+import disabilityConfident from "../assets/disability.png"
+import Link from "next/link"
 
 const SiteFooter = () => (
   <footer className="site-footer">
@@ -32,32 +34,34 @@ const SiteFooter = () => (
       <aside>
         <h2>More about us</h2>
         <nav>
-          <a href="/privacy">How we use data</a>
-          <a href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
+          <Link href="/privacy">How we use data</Link>
+          <Link href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
             Accessibility
-          </a>
-          <a href="https://interrobang-uk.notion.site/Environmental-policy-0d94f323c62d4a86ad22c09448f5c2a0?pvs=4">
+          </Link>
+          <Link href="https://interrobang-uk.notion.site/Environmental-policy-0d94f323c62d4a86ad22c09448f5c2a0?pvs=4">
             Environmental and social governance
-          </a>
-          <a href="https://interrobanguk.substack.com">Blog</a>
-          <a href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</a>
+          </Link>
+          <Link href="https://interrobanguk.substack.com">Blog</Link>
+          <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
         </nav>
       </aside>
       <aside>
         <h2>Connect</h2>
         <nav>
-          <a href="https://linkedin.com/company/interrobanguk">LinkedIn</a>
-          <a href="https://github.com/interrobang-uk">GitHub</a>
-          <a href="https://interrobanguk.substack.com">Substack</a>
-          <a href="mailto:hello@interrobang.uk">hello@interrobang.uk</a>
+          <Link href="https://linkedin.com/company/interrobanguk">
+            LinkedIn
+          </Link>
+          <Link href="https://github.com/interrobang-uk">GitHub</Link>
+          <Link href="https://interrobanguk.substack.com">Substack</Link>
+          <Link href="mailto:hello@interrobang.uk">hello@interrobang.uk</Link>
         </nav>
       </aside>
       <aside>
         <Image alt="" src={queer} />
         <p>We are a proudly inclusive, queer-led organisation.</p>
         <p>
-          We’re an ally of the queer community and the fight for equality for
-          all marginalised people, everywhere.
+          We&apos;re an ally of the queer community and the fight for equality
+          for all marginalised people, everywhere.
         </p>
       </aside>
     </div>
@@ -74,6 +78,10 @@ const SiteFooter = () => (
           }}
         />
         <Image src={livingWage} alt="We are a living wage employer" />
+        <Image
+          src={disabilityConfident}
+          alt="We are a Disability Confident employer"
+        />
         <Image src={coop} alt="Co-operatives UK emblem" />
       </div>
       <p>

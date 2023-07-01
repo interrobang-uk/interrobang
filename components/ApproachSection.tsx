@@ -1,5 +1,6 @@
 import { useState } from "react"
 import Section from "./Section"
+import Link from "next/link"
 
 const Item = ({ setSelection, selection, title, children }) => (
   <li className="approach__item" aria-expanded={selection === title}>

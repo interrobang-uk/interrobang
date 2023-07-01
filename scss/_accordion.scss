@@ -1,10 +1,10 @@
 .accordion {
   list-style: none;
-  border-top: 2px solid $white;
+  border-top: 2px solid $black;
   margin-top: 2rem;
 
   &__item {
-    border-bottom: 2px solid $white;
+    border-bottom: 2px solid $black;
 
     &[aria-expanded=true] button svg rect:last-child {
       opacity: 0;
@@ -15,7 +15,7 @@
     width: 100%;
     background: none;
     border: none;
-    color: $white;
+    color: $black;
     text-decoration: none;
     padding: 1rem .5rem 1rem 0;
     cursor: pointer;
@@ -25,17 +25,17 @@
     align-items: center;
 
     &:hover {
-      color: transparentize($white, 0.2)
+      color: $grey;
     }
 
     &:focus,
     &:active {
-      color: $black;
-      background: $white;
+      color: $white;
+      background: $black;
       outline: none;
 
       svg rect {
-        fill: $black;
+        fill: $white;
       }
     }
 
@@ -47,13 +47,13 @@
 
   h3 {
     font-size: 1.75rem;
-    font-weight: 400;
+    font-weight: 500;
   }
 
   &__content {
     font-size: 1.5rem;
     line-height: 1.5;
-    border-top: 1px dashed transparentize($white, .75);
+    border-top: 1px dashed $black;
     padding: 2rem 0;
     display: grid;
     grid-template-columns: 2fr 1fr;

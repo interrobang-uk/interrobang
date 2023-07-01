@@ -7,10 +7,9 @@ import Box from "../components/Box"
 import ClientGridSection from "../components/ClientGrid"
 import NumberedListSection from "../components/NumberedListSection"
 
-import a from "../assets/15.jpg"
-import b from "../assets/6.jpg"
-import c from "../assets/17.jpg"
-import d from "../assets/3.jpg"
+import a from "../assets/14.jpg"
+import b from "../assets/18.png"
+import c from "../assets/1.jpg"
 
 const IndexPage = () => (
   <>
@@ -20,12 +19,10 @@ const IndexPage = () => (
     >
       Our services
     </PageHeader>
-    <Collage
-      images={[a, b, c, d]}
-      // className={"collage--flipped"}
-    />
+    <Collage images={[a, b, c]} />
     <AccordionSection />
     <NumberedListSection />
+    <ClientGridSection />
     <Box
       title={
         <>
@@ -38,8 +35,7 @@ const IndexPage = () => (
       href="https://interrobanguk.substack.com/p/trust-and-control"
     />
 
-    <ClientGridSection />
-    <NewsletterSection className="section--no-top-padding" />
+    <NewsletterSection />
   </>
 )
 

@@ -19,12 +19,12 @@ const IndexPage = () => (
     <PageHeader>
       We’re a digital outcomes studio who help people be their best
     </PageHeader>
-    <Collage images={[a, b, c, d]} className="" />
+    <Collage images={[a, b, c, d]} />
     <Section>
       <p className="big">
-        We're also a worker-owned co-operative, in business to make our
+        We're also a not-for-profit co-operative, working to make our
         communities more resilient against the interconnected, deepening crises
-        of this century.
+        of the coming decades.
       </p>
     </Section>
     <ApproachSection />

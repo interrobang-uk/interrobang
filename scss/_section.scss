@@ -1,13 +1,10 @@
 .section {
   padding: 3rem $standard-padding;
+  font-size: 1.1rem;
+  line-height: 1.5;
 
   @media screen and (min-width: 800px) {
     padding: 5rem $standard-padding;
-  }
-
-  p {
-    font-size: 1.1rem;
-    line-height: 1.5;
   }
 
   header {

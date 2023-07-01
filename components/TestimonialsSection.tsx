@@ -4,8 +4,9 @@ import { Swiper, SwiperSlide } from "swiper/react"
 import { Navigation } from "swiper"
 
 import a from "../assets/14.jpg"
-import b from "../assets/15.jpg"
+import b from "../assets/9.jpg"
 import c from "../assets/5.jpg"
+import d from "../assets/3.jpg"
 
 import "swiper/css"
 import "swiper/css/navigation"
@@ -54,8 +55,8 @@ const TestimonialsSection = () => {
         className="slider"
         spaceBetween={32}
         slidesPerView={1}
-        centeredSlides={false}
-        initialSlide={1}
+        // centeredSlides={false}
+        // initialSlide={1}
         breakpoints={{
           800: {
             slidesPerView: 2,
@@ -140,7 +141,7 @@ const TestimonialsSection = () => {
             </q>
             <cite>A client</cite>
 
-            <Image src={a} alt="" />
+            <Image src={c} alt="" />
           </blockquote>
         </SwiperSlide>
 
@@ -164,7 +165,7 @@ const TestimonialsSection = () => {
               I have had the pleasure to be on a project with
             </q>
             <cite>A client</cite>
-            <Image src={c} alt="" />
+            <Image src={d} alt="" />
           </blockquote>
         </SwiperSlide>
       </Swiper>

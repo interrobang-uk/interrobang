@@ -7,14 +7,14 @@ const Item = ({ setSelection, selection, title, children }) => (
       <h3>{title}</h3>
 
       <svg width="38" height="39" viewBox="0 0 38 39" fill="none">
-        <rect y="17.5" width="38" height="4" fill="white" />
+        <rect y="17.5" width="38" height="4" fill="#212121" />
         <rect
           x="21"
           y="0.5"
           width="38"
           height="4"
           transform="rotate(90 21 0.5)"
-          fill="white"
+          fill="#212121"
         />
       </svg>
     </button>
@@ -28,7 +28,7 @@ const AccordionSection = () => {
   const [selection, setSelection] = useState<number | null>(null)
 
   return (
-    <Section className="section--dark">
+    <Section>
       <>
         <p>
           Every Interrobang project is different, but here's an idea of what to

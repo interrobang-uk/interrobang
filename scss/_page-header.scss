@@ -12,6 +12,13 @@
       max-width: 50%;
       font-size: 2.9rem;
       line-height: 1.2;
+
+    }
+  }
+
+  &--full-width h1 {
+    @media screen and (min-width: 800px) {
+      max-width: 100%
     }
   }
 

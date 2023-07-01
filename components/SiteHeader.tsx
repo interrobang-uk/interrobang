@@ -1,6 +1,16 @@
 import Link from "next/link"
 import { useState } from "react"
 
+const Links = () => (
+  <>
+    <Link href="/services">Our services</Link>
+    <Link href="/training">Training</Link>
+    <Link href="https://interrobanguk.substack.com">Blog</Link>
+    <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
+    <Link href="#contact">Contact</Link>
+  </>
+)
+
 const SiteHeader = () => {
   const [open, setOpen] = useState<boolean>(false)
 
@@ -16,7 +26,7 @@ const SiteHeader = () => {
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
-              <g clip-path="url(#clip0_1140_6)">
+              <g clipPath="url(#clip0_1140_6)">
                 <path
                   d="M59.7959 32.4345V22.0309C63.3787 21.895 66.0544 21.3057 67.8231 20.263C69.6372 19.1751 70.5442 17.3618 70.5442 14.8233V13.8713C70.5442 12.1488 70.0227 10.8342 68.9796 9.92753C67.9819 9.0209 66.6667 8.56759 65.034 8.56759C63.2653 8.56759 61.7914 9.11156 60.6122 10.1995C59.4785 11.2875 58.7075 12.6701 58.2993 14.3473L50 10.8795C50.4082 9.51955 50.9977 8.20494 51.7687 6.93567C52.5397 5.62107 53.5374 4.46512 54.7619 3.46783C56.0317 2.42522 57.5283 1.58659 59.2517 0.951954C61.0204 0.317318 63.0612 0 65.3742 0C67.7324 0 69.8866 0.339982 71.8367 1.01995C73.7868 1.69992 75.4649 2.65187 76.8707 3.87581C78.2766 5.09975 79.3424 6.57302 80.068 8.29561C80.839 10.0182 81.2245 11.9221 81.2245 14.0073C81.2245 15.9112 80.907 17.6338 80.2721 19.1751C79.6372 20.7163 78.7755 22.0763 77.6871 23.2549C76.5986 24.3882 75.3288 25.3175 73.8776 26.0428C72.4263 26.7681 70.907 27.2667 69.3197 27.5387V32.4345H59.7959ZM64.6939 49.0937C62.517 49.0937 60.9524 48.595 60 47.5977C59.093 46.6004 58.6395 45.3765 58.6395 43.9259V42.294C58.6395 40.8434 59.093 39.6194 60 38.6222C60.9524 37.6249 62.517 37.1262 64.6939 37.1262C66.8707 37.1262 68.4127 37.6249 69.3197 38.6222C70.2721 39.6194 70.7483 40.8434 70.7483 42.294V43.9259C70.7483 45.3765 70.2721 46.6004 69.3197 47.5977C68.4127 48.595 66.8707 49.0937 64.6939 49.0937Z"
                   fill="#212121"
@@ -47,16 +57,13 @@ const SiteHeader = () => {
           <button
             onClick={() => setOpen(!open)}
             className="site-header__mobile-menu-trigger"
+            aria-expanded={open}
           >
-            {open ? "Close" : "Open"}
+            {open ? "Close" : "Menu"}
           </button>
 
           <nav className="site-header__menu">
-            <Link href="/services">Our services</Link>
-            <Link href="/training">Training</Link>
-            <Link href="https://interrobanguk.substack.com">Blog</Link>
-            <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
-            <Link href="#contact">Contact</Link>
+            <Links />
           </nav>
 
           <nav className="site-header__menu">
@@ -69,11 +76,7 @@ const SiteHeader = () => {
 
       {open && (
         <nav className="mobile-menu">
-          <Link href="/services">Our services</Link>
-          <Link href="/training">Training</Link>
-          <Link href="https://interrobanguk.substack.com">Blog</Link>
-          <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
-          <Link href="#contact">Contact</Link>
+          <Links />
           <Link href="https://linkedin.com/company/interrobanguk">
             LinkedIn
           </Link>

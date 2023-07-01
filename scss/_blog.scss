@@ -19,11 +19,11 @@
     align-items: flex-start;
 
     &:hover {
-      color: lighten($black, 15);
-      border-color: lighten($black, 15);
+      color: $grey;
+      border-color: $grey;
 
       a {
-        color: lighten($black, 15);
+        color: $grey;
       }
     }
 
