@@ -4,7 +4,7 @@ import logo from "../assets/logo.svg"
 import coop from "../assets/coop.svg"
 import cyber from "../assets/cyber.png"
 import livingWage from "../assets/living-wage.png"
-import disabilityConfident from "../assets/disability.png"
+import disabilityConfident from "../assets/disability.svg"
 import Link from "next/link"
 
 const SiteFooter = () => (
@@ -70,19 +70,12 @@ const SiteFooter = () => (
       <div className="site-footer__marks">
         <Image src={logo} alt="Interrobang logo" />
         <Image
-          src={cyber}
-          alt="Cyber Essentials certified"
-          style={{
-            maxHeight: "80px",
-            width: "auto",
-          }}
-        />
-        <Image src={livingWage} alt="We are a living wage employer" />
-        <Image
           src={disabilityConfident}
           alt="We are a Disability Confident employer"
         />
         <Image src={coop} alt="Cooperatives UK emblem" />
+        <Image src={cyber} alt="Cyber Essentials certified" />
+        <Image src={livingWage} alt="We are a living wage employer" />
       </div>
       <p>
         We are a worker-owned cooperative. Interrobang Limited is registered
