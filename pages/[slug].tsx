@@ -13,7 +13,6 @@ const GenericPage = ({ title, content, ...props }) => (
         className="flexible-content"
       ></div>
     </Section>
-    <NewsletterSection className="section--no-top-padding" />
   </>
 )
 

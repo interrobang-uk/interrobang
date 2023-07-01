@@ -2,7 +2,7 @@
 title: How Interrobang uses data
 ---
 
-Interrobang is a not-for-profit co-operative, registered as a limited company in England and Wales. We run this website and any subdomains.
+Interrobang is a not-for-profit cooperative, registered as a limited company in England and Wales. We run this website and any subdomains.
 
 We are [Cyber Essentials](https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/) certified.
 
@@ -12,11 +12,13 @@ This page was last updated on 1 July 2023.
 
 We don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.
 
-## Our blog
+## Our blog and social media
 
-Our blog is hosted on Substack. We sometimes use Substack's analytics to understand how we can reach more people. You can read [their privacy policy here](https://substack.com/privacy).
+Our blog is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).
 
-If you’d like content about you removed from our blog or website, contact **data@interrobang.uk**.
+We sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.
+
+If you’d like content about you removed from our blog or social media, contact **data@interrobang.uk**.
 
 ## Research participants
 

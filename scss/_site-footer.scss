@@ -99,7 +99,8 @@
 
   &__marks {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     gap: 2rem;
     align-items: center;
     justify-content: center;

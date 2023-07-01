@@ -1,5 +1,7 @@
 import Script from "next/script"
 import Section from "./Section"
+import Link from "next/link"
+import { blogUrl } from "../config"
 
 const NewsletterSection = props => (
   <Section
@@ -17,6 +19,7 @@ const NewsletterSection = props => (
   >
     <div className="newsletter">
       <div id="custom-substack-embed"></div>
+
       <Script
         id="substack"
         dangerouslySetInnerHTML={{

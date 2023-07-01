@@ -82,10 +82,10 @@ const SiteFooter = () => (
           src={disabilityConfident}
           alt="We are a Disability Confident employer"
         />
-        <Image src={coop} alt="Co-operatives UK emblem" />
+        <Image src={coop} alt="Cooperatives UK emblem" />
       </div>
       <p>
-        We are a worker-owned co-operative. Interrobang Limited is registered
+        We are a worker-owned cooperative. Interrobang Limited is registered
         company number 14466175 in England and Wales. Intersex-Inclusive Pride
         Flag by Valentino Vecchietti is licensed under a Creative Commons
         Attribution-NonCommercial-ShareAlike 4.0 International License.

@@ -22,9 +22,9 @@ const IndexPage = () => (
     <Collage images={[a, b, c, d]} />
     <Section>
       <p className="big">
-        We're also a not-for-profit co-operative, working to make our
-        communities more resilient against the interconnected, deepening crises
-        of the coming decades.
+        We're also a not-for-profit cooperative, working to bolster our
+        communities against the interconnected, deepening crises of the coming
+        decades.
       </p>
     </Section>
     <ApproachSection />
@@ -32,7 +32,6 @@ const IndexPage = () => (
     <LogosSection />
     <BlogSection />
     <ContactSection />
-    <NewsletterSection />
   </>
 )
 

@@ -23,6 +23,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    text-align: left;
+    gap: 2rem;
 
     &:hover {
       color: $grey;
@@ -40,24 +42,34 @@
     }
 
     svg {
-      max-height: 19px;
+      max-height: 20px;
       width: auto;
+      flex-shrink: 0;
     }
   }
 
   h3 {
-    font-size: 1.75rem;
-    font-weight: 500;
+    // font-weight: 500;
+    font-size: 1.1rem;
+
+    @media screen and (min-width: 800px) {
+      font-size: 1.75rem;
+    }
   }
 
   &__content {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     line-height: 1.5;
     border-top: 1px dashed $black;
-    padding: 2rem 0;
+    padding: 1.5rem 0;
     display: grid;
-    grid-template-columns: 2fr 1fr;
     gap: 1rem;
+
+    @media screen and (min-width: 800px) {
+      font-size: 1.5rem;
+      padding: 2rem 0;
+      grid-template-columns: 2fr 1fr;
+    }
 
     &>*+* {
       margin-top: 1rem;

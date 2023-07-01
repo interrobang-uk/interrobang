@@ -13,10 +13,7 @@ import c from "../assets/1.jpg"
 
 const IndexPage = () => (
   <>
-    <PageHeader
-      intro="Interrobang works at the edge of research, design and technology to make
-        sustainable change for our public services and communities."
-    >
+    <PageHeader intro="Interrobang gives public and charity sector clients the tools they'll need to face the crises of the coming decades.">
       Our services
     </PageHeader>
     <Collage images={[a, b, c]} />
@@ -34,8 +31,6 @@ const IndexPage = () => (
       buttonText="Read the blog"
       href="https://interrobanguk.substack.com/p/trust-and-control"
     />
-
-    <NewsletterSection />
   </>
 )
 

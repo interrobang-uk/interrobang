@@ -6,45 +6,40 @@ const NumberedListSection = () => (
       <li>
         <h3>We’ll give creative control to your users</h3>
         <p>
-          We think this work is an excellent fit for co-design, where we give
-          people who would benefit from this work genuine control over what we
-          eventually pilot over at least one interactive workshop.
+          We do co-design, where we give the people we're doing the work for
+          genuine creative control over a course of workshops. In the long term,
+          co-designed solutions always work better.
         </p>
       </li>
       <li>
         <h3>We’ll work in a flexible, iterative way</h3>
         <p>
-          We’ll make sure we’re constantly doing the most impactful work by
-          adjusting our plan regularly: splitting our work into two-week
-          test-and-learn cycles, planning and reflecting as we go, giving you
-          plenty of chances to influence the work.
+          We make sure we’re constantly doing the most impactful work by
+          adjusting our plan regularly, splitting our work into short
+          test-and-learn cycles, planning and reflecting as we go.
         </p>
       </li>
       <li>
         <h3>We’ll deliberately seek out the under-represented</h3>
         <p>
-          Our approach centres social structures and power dynamics, rather than
-          ignoring them. We design for everyone, not just the average. We’ll
-          seek out users with access needs and involve them in our process from
-          the start.
+          Our approach interrogates social structures and power dynamics, rather
+          than ignoring them. We’ll seek out marginalised users and involve them
+          in our process from the start.
         </p>
       </li>
       <li>
-        <h3>Reduce risk with pilots</h3>
+        <h3>We'll cooperate, not compete</h3>
         <p>
-          We’ll be constantly looking for ways to start providing value early,
-          reducing long-term risk. We’ll pilot your new website so we can
-          understand how well it works in the real world, keeping back time and
-          money to improve based on what we learn.
+          Our first instinct is to find the things we have in common and amplify
+          good work being done by others. That's why we're a cooperative rather
+          than a traditional company.
         </p>
       </li>
       <li>
-        <h3>Use our existing knowledge as hypotheses</h3>
+        <h3>We'll turn our existing knowledge into hypotheses</h3>
         <p>
-          We’ll be constantly looking for ways to start providing value early,
-          reducing long-term risk. We’ll pilot your new website so we can
-          understand how well it works in the real world, keeping back time and
-          money to improve based on what we learn.
+          We use time and money wisely by applying things we've learned from
+          earlier work, rather than starting from scratch.
         </p>
       </li>
     </ol>

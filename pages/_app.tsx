@@ -2,6 +2,7 @@ import Head from "next/head"
 import Layout from "../components/Layout"
 import "../scss/index.scss"
 import { SWRConfig } from "swr"
+import NewsletterSection from "../components/NewsletterSection"
 
 const App = ({ Component, pageProps }) => (
   <SWRConfig value={{ fetcher: url => fetch(url).then(res => res.json()) }}>
@@ -52,6 +53,7 @@ const App = ({ Component, pageProps }) => (
       </Head>
 
       <Component {...pageProps} />
+      <NewsletterSection />
     </Layout>
   </SWRConfig>
 )

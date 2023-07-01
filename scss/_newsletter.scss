@@ -10,6 +10,8 @@
 #custom-substack-embed {
   margin-top: 2rem;
   font-size: 1.1rem !important;
+  min-height: 64px;
+
 
   @media screen and (min-width: 800px) {
     grid-column: 5/13;
