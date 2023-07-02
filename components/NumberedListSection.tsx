@@ -7,8 +7,8 @@ const NumberedListSection = () => (
         <h3>We’ll give creative control to your users</h3>
         <p>
           We do co-design, where we give the people we're doing the work for
-          genuine creative control over a course of workshops. In the long term,
-          co-designed solutions always work better.
+          genuine creative control through long-lasting engagement. In the long
+          term, co-designed solutions always work better.
         </p>
       </li>
       <li>
