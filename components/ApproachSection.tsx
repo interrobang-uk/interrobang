@@ -96,6 +96,14 @@ const ApproachSection = () => {
             The best option might be building something new, subscribing to a
             cloud service, using a no-code platform, or a bit of each.
           </p>
+
+          <p>
+            You can{" "}
+            <Link href="https://interrobanguk.substack.com/p/re-imagining-foster-care-with-now">
+              read more
+            </Link>{" "}
+            about how we do this.
+          </p>
         </Item>
       </ul>
     </Section>

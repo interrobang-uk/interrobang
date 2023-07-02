@@ -101,6 +101,22 @@
       padding-left: 0.5rem;
     }
 
+    a {
+      color: $white;
+      font-weight: 500;
+
+      &:hover {
+        color: transparentize($white, 0.2);
+      }
+
+      &:focus,
+      &:active {
+        background: $white;
+        color: $black;
+        outline: 3px solid $white;
+      }
+    }
+
     @media screen and (min-width: 800px) {
       grid-column: 2/9;
     }

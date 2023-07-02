@@ -22,7 +22,7 @@ const IndexPage = () => (
     <Collage images={[a, b, c, d]} />
     <Section>
       <p className="big">
-        We're also a not-for-profit cooperative, working to bolster our
+        Interrobang is a not-for-profit cooperative, working to bolster our
         communities against the interconnected, deepening crises of the coming
         decades.
       </p>
