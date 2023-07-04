@@ -50,7 +50,8 @@ We collect participant information to identify participants, and arrange session
 All research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.
 
 We collect research material to reference during project work.
-How long we keep research data
+
+### How long we keep research data
 
 Participant information is deleted at the end of the project.
 
