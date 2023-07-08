@@ -9,7 +9,7 @@ const BlogSection = () => {
   return (
     <Section
       className="section--no-top-padding"
-      title={<h2>Blog</h2>}
+      title={<h2>Notes</h2>}
       actions={<Link href={blogUrl}>See all</Link>}
     >
       <ul className="blog-grid">

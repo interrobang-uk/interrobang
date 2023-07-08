@@ -12,13 +12,13 @@ This page was last updated on 1 July 2023.
 
 We don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.
 
-## Our blog and social media
+## Our newsletter and social media
 
-Our blog is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).
+Our newsletter is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).
 
 We sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.
 
-If you’d like content about you removed from our blog or social media, contact **data@interrobang.uk**.
+If you’d like content about you removed from our newsletter or social media, contact **data@interrobang.uk**.
 
 ## Research participants
 

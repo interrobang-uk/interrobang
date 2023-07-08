@@ -28,7 +28,7 @@ const IndexPage = () => (
         </>
       }
       message="We've written about what that means to us."
-      buttonText="Read the blog"
+      buttonText="Read the newsletter"
       href="https://interrobanguk.substack.com/p/trust-and-control"
     />
   </>
