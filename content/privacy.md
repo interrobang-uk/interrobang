@@ -18,7 +18,7 @@ Our newsletter is hosted on [Substack](https://substack.com) ([privacy policy](h
 
 We sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.
 
-If you’d like content about you removed from our newsletter or social media, contact **data@interrobang.uk**.
+If you’d like content about you removed from our newsletter or social media, contact **data@interrobang.coop**.
 
 ## Research participants
 
@@ -71,7 +71,7 @@ Sometimes we may publish quotes from research sessions. We only do this if we ha
 
 ### Opt-out of collection
 
-Participants can withdraw their information from a project at any time. To do this, contact **data@interrobang.uk**.
+Participants can withdraw their information from a project at any time. To do this, contact **data@interrobang.coop**.
 
 ## Software we run for clients
 
@@ -152,7 +152,7 @@ The General Data Protection Regulation gives EU citizens the [following rights](
 - right to object
 - rights related to automated decision-making, including profiling
 
-To exercise any of these rights, let us know at **data@interrobang.uk**. We will respond to all requests within 28 days of receiving them.
+To exercise any of these rights, let us know at **data@interrobang.coop**. We will respond to all requests within 28 days of receiving them.
 
 Our postal address is Interrobang, c/o Birch, 126 Addington Rd, South Croydon, CR2 8YA.
 

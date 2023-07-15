@@ -22,7 +22,7 @@ const ContactSection = () => (
         <Image src={jaye} alt="" />
         <h3>Jaye Hackett</h3>
         <p>Founding partner</p>
-        <p>jaye@interrobang.uk</p>
+        <p>jaye@interrobang.coop</p>
         <p>
           <Link href="https://www.linkedin.com/in/hackettjaye/">LinkedIn</Link>
           <Link href="https://twitter.com/dinosaurenby">Twitter</Link>
@@ -32,7 +32,7 @@ const ContactSection = () => (
         <Image src={chloe} alt="" />
         <h3>Chloe Coleman</h3>
         <p>Founding partner</p>
-        <p>chloe@interrobang.uk</p>
+        <p>chloe@interrobang.coop</p>
         <p>
           <Link href="https://www.linkedin.com/in/chloe-coleman/">
             LinkedIn

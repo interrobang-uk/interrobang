@@ -53,7 +53,9 @@ const SiteFooter = () => (
           </Link>
           <Link href="https://github.com/interrobang-uk">GitHub</Link>
           <Link href="https://interrobanguk.substack.com">Substack</Link>
-          <Link href="mailto:hello@interrobang.uk">hello@interrobang.uk</Link>
+          <Link href="mailto:hello@interrobang.coop">
+            hello@interrobang.coop
+          </Link>
         </nav>
       </aside>
       <aside>
