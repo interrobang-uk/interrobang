@@ -2,7 +2,7 @@
   display: grid;
   overflow: hidden;
   gap: 1rem;
-  height: 50vmax;
+  height: 50svh;
   margin-top: 1rem;
 
   grid-template-areas:
@@ -21,7 +21,7 @@
   ;
 
   @media screen and (min-width: 800px) {
-    height: 100vmin;
+    height: 100svh;
     margin-top: -3rem;
     grid-template-areas:
       ". . . . . . a a a a . ."
