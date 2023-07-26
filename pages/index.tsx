@@ -10,7 +10,7 @@ import ContactSection from "../components/ContactSection"
 import NewsletterSection from "../components/NewsletterSection"
 
 import a from "../assets/11.jpg"
-import b from "../assets/10.jpg"
+import b from "../assets/new/6.jpg"
 import c from "../assets/12.jpg"
 import d from "../assets/13.jpg"
 
