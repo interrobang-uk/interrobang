@@ -4,6 +4,7 @@ import logo from "../assets/logo.svg"
 import coop from "../assets/coop.svg"
 import cyber from "../assets/cyber.png"
 import livingWage from "../assets/living-wage.png"
+import cotech from "../assets/cotech.svg"
 import disabilityConfident from "../assets/disability.svg"
 import Link from "next/link"
 
@@ -76,6 +77,7 @@ const SiteFooter = () => (
           alt="We are a Disability Confident employer"
         />
         <Image src={coop} alt="Cooperatives UK emblem" />
+        <Image src={cotech} alt="We are a member of coops.tech" />
         <Image src={cyber} alt="Cyber Essentials certified" />
         <Image src={livingWage} alt="We are a living wage employer" />
       </div>
