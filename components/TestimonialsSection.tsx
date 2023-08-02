@@ -4,8 +4,8 @@ import { Swiper, SwiperSlide } from "swiper/react"
 import { Navigation } from "swiper"
 
 import a from "../assets/new/7.jpg"
-import b from "../assets/9.jpg"
-import c from "../assets/5.jpg"
+import b from "../assets/new/10.jpg"
+import c from "../assets/new/19.jpg"
 import d from "../assets/new/2.jpg"
 
 import "swiper/css"

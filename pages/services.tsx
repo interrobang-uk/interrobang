@@ -9,7 +9,7 @@ import NumberedListSection from "../components/NumberedListSection"
 
 import a from "../assets/new/7.jpg"
 import b from "../assets/18.png"
-import c from "../assets/1.jpg"
+import c from "../assets/new/13.jpg"
 
 const IndexPage = () => (
   <>
