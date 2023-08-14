@@ -25,7 +25,7 @@ const ContactSection = () => (
         <p>jaye@interrobang.coop</p>
         <p>
           <Link href="https://www.linkedin.com/in/hackettjaye/">LinkedIn</Link>
-          <Link href="https://twitter.com/dinosaurenby">Twitter</Link>
+          {/* <Link href="https://twitter.com/dinosaurenby">Twitter</Link> */}
         </p>
       </li>
       <li>
@@ -37,7 +37,7 @@ const ContactSection = () => (
           <Link href="https://www.linkedin.com/in/chloe-coleman/">
             LinkedIn
           </Link>
-          <Link href="https://twitter.com/chlocolewoman">Twitter</Link>
+          {/* <Link href="https://twitter.com/chlocolewoman">Twitter</Link> */}
         </p>
       </li>
     </ul>
