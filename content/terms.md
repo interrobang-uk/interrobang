@@ -4,7 +4,7 @@ title: Our standard terms and conditions
 
 We’ll always do our best to communicate openly about our needs and expectations, but it’s important to have things written down in case anything goes wrong.
 
-If we do work for you and don't provide a specific set of contractural terms, these are the ones that will apply.
+If we do work for you and don't provide specific contract terms, these are the ones that will apply.
 
 ## What both parties agree to
 
