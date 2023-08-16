@@ -40,7 +40,11 @@ If your design requires stock images, these assets—and the time we spend selec
 
 ## Changes and revisions
 
-We won’t limit your ability to change your mind. Our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve. If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.
+We won’t limit your ability to change your mind.
+
+We charge on a time and materials basis, so our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve.
+
+If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.
 
 ## Testing
 
@@ -90,7 +94,8 @@ We reserve the right to display any aspect of our work as long as doing so doesn
 
 You understand how important it is for a small business that you pay your bills promptly. We’re also sure you’ll want to stay friends, so you agree to stick tightly to the following payment schedule:
 
-We’ll invoice you every month, in arrears for all hours worked that month.
+We’ll invoice you every month, in arrears for all hours worked that month and any expenses we incurred.
+
 Our payment terms are 30 days from the date of invoice. We issue invoices electronically and our bank account details will be included. Our invoices will be in GBP. If your currency is different, you agree your payments will be the same value.
 
 You agree to pay all charges associated with international transfers of funds. We reserve the right to charge interest on all overdue debts at the rate of [percentage] per month or part of a month.
