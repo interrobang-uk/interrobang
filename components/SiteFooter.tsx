@@ -39,9 +39,7 @@ const SiteFooter = () => (
           <Link href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
             Accessibility
           </Link>
-          <Link href="https://interrobang-uk.notion.site/Environmental-policy-0d94f323c62d4a86ad22c09448f5c2a0?pvs=4">
-            Environmental and social governance
-          </Link>
+          <Link href="/equality">Equality, diversity and inclusion</Link>
           <Link href="/terms">Standard terms</Link>
           <Link href="https://interrobanguk.substack.com">Newsletter</Link>
           <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
