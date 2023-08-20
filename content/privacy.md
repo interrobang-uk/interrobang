@@ -108,8 +108,6 @@ We use several third-party services to do our work, which involves processing th
 - [Trello](https://trello.com) ([privacy policy](https://www.atlassian.com/legal/privacy-policy))
 - [Slack](https://slack.com) ([privacy policy](https://slack.com/intl/en-gb/trust/privacy/privacy-policy))
 
-## Job applicants
-
 ## Things we don’t do
 
 We don't:
