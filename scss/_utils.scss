@@ -47,7 +47,8 @@
   li {
     padding-left: .5rem;
 
-    &+li {
+    &+li,
+    ul {
       margin-top: .25rem;
     }
   }
@@ -83,6 +84,10 @@
 
     *+* {
       margin-top: 1rem;
+    }
+
+    >*:first-child {
+      margin-top: 0;
     }
   }
 

@@ -2,7 +2,7 @@ import { useState } from "react"
 import Section from "./Section"
 
 const Item = ({ setSelection, selection, title, children }) => (
-  <li className="accordion__item" aria-expanded={selection === title}>
+  <li className="services-accordion__item" aria-expanded={selection === title}>
     <button onClick={() => setSelection(selection === title ? null : title)}>
       <h3>{title}</h3>
 
@@ -19,7 +19,7 @@ const Item = ({ setSelection, selection, title, children }) => (
       </svg>
     </button>
     {selection === title && (
-      <div className="accordion__content">{children}</div>
+      <div className="services-accordion__content">{children}</div>
     )}
   </li>
 )
@@ -34,7 +34,7 @@ const AccordionSection = () => {
           Every Interrobang project is different, but here's an idea of what to
           expect:
         </p>
-        <ul className="accordion">
+        <ul className="services-accordion">
           <Item
             setSelection={setSelection}
             selection={selection}

@@ -31,6 +31,21 @@ export default async function markdownToHtml(markdown: string) {
   return result.toString()
 }
 
+export const markdownToHtmlSync = (markdown: string) => {
+  const processor = unified()
+    .use(remarkParse)
+    .use(remarkRehype)
+    .use(template, {
+      template: x =>
+        html`<article className="flexible-content__article">${x}</article>`,
+    })
+    .use(rehypeSlug)
+    .use(rehypeStringify)
+
+  const result = processor.processSync(markdown)
+  return result.toString()
+}
+
 const postsDir = join(process.cwd(), "content")
 
 export function getPostSlugs() {

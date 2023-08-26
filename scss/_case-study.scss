@@ -1,0 +1,56 @@
+.case-study {
+  display: grid;
+  gap: 2rem;
+
+  @media screen and (min-width: 800px) {
+    grid-template-columns: 1fr 2fr;
+    gap: 4rem;
+    align-items: flex-start;
+  }
+
+  main {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .flexible-content {
+    margin-top: 0;
+    grid-template-columns: 1fr
+  }
+
+
+  &__read-more {
+    color: $white;
+    background: $black;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 1rem 1.5rem;
+    text-transform: uppercase;
+    border: 2px solid $black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    svg rect {
+      fill: $white;
+    }
+
+    &:hover {
+      background-color: $grey;
+    }
+
+    &:focus,
+    &:active {
+      background: $white;
+      color: $black;
+      outline: none;
+
+      svg rect {
+        fill: $black;
+      }
+    }
+
+  }
+}

@@ -1,0 +1,87 @@
+.services-accordion {
+  list-style: none;
+  border-top: 2px solid $black;
+  margin-top: 2rem;
+
+  &__item {
+    border-bottom: 2px solid $black;
+
+    &[aria-expanded=true] button svg rect:last-child {
+      opacity: 0;
+    }
+  }
+
+  button {
+    width: 100%;
+    background: none;
+    border: none;
+    color: $black;
+    text-decoration: none;
+    padding: 1rem .5rem 1rem 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    gap: 2rem;
+
+    &:hover {
+      color: $grey;
+    }
+
+    &:focus,
+    &:active {
+      color: $white;
+      background: $black;
+      outline: none;
+
+      svg rect {
+        fill: $white;
+      }
+    }
+
+    svg {
+      max-height: 20px;
+      width: auto;
+      flex-shrink: 0;
+    }
+  }
+
+  h3 {
+    // font-weight: 500;
+    font-size: 1.1rem;
+
+    @media screen and (min-width: 800px) {
+      font-size: 1.75rem;
+    }
+  }
+
+  &__content {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    border-top: 1px dashed $black;
+    padding: 1.5rem 0;
+    display: grid;
+    gap: 1rem;
+
+    @media screen and (min-width: 800px) {
+      font-size: 1.5rem;
+      padding: 2rem 0;
+      grid-template-columns: 2fr 1fr;
+    }
+
+    &>*+* {
+      margin-top: 1rem;
+    }
+
+    ul {
+      list-style: square;
+      margin-left: 2rem;
+    }
+
+    li {
+      padding-left: 0.5rem;
+    }
+  }
+}
