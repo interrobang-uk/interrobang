@@ -2,6 +2,7 @@ export interface CaseStudyFields {
   Project: string
   Client: string
   Summary: string
+  Slug: string
   "Date commenced": string
   "Skills we used": string[]
   "Client type": string
