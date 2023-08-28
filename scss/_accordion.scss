@@ -52,6 +52,15 @@
       margin: 0;
     }
 
+    &:hover {
+      color: $grey;
+
+
+      svg rect {
+        fill: $grey;
+      }
+    }
+
     &:focus-within {
       background: $black;
 
