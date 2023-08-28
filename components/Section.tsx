@@ -16,7 +16,7 @@ const Section = ({
   <section className={`section ${className}`} {...props}>
     <div className="container">
       {/* optional header area */}
-      {title && <header>{title}</header>}
+      {title && <header className="section__header">{title}</header>}
 
       {actions ? (
         <div className="section__thirds">
