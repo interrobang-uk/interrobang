@@ -1,14 +1,11 @@
 import { useState } from "react"
 import PageHeader from "../components/PageHeader"
 import Section from "../components/Section"
-import {
-  AirtableRecord,
-  CaseStudyFields,
-  getCaseStudies,
-} from "../lib/airtable"
 import Link from "next/link"
-import markdownToHtml, { markdownToHtmlSync } from "../lib/posts"
+import { markdownToHtmlSync } from "../lib/markdown-files"
 import useUrlHash from "../hooks/useUrlState"
+import { AirtableRecord, CaseStudyFields } from "../lib/airtable"
+import airtableData from "../data/airtable-content.json"
 
 interface AirtableRecordWithHTML<T> extends AirtableRecord<T> {
   html: string
@@ -182,18 +179,20 @@ const WorkPage = ({
                                 <dd>{cs.fields["Summary"]}</dd>
                               </div>
 
-                              <div>
-                                <dt>Year</dt>
-                                <dd>
-                                  <strong>
-                                    {new Date(
-                                      cs.fields["Date commenced"]
-                                    ).toLocaleDateString("en-GB", {
-                                      year: "numeric",
-                                    })}
-                                  </strong>
-                                </dd>
-                              </div>
+                              {cs.fields["Date commenced"] && (
+                                <div>
+                                  <dt>Year</dt>
+                                  <dd>
+                                    <strong>
+                                      {new Date(
+                                        cs.fields["Date commenced"]
+                                      ).toLocaleDateString("en-GB", {
+                                        year: "numeric",
+                                      })}
+                                    </strong>
+                                  </dd>
+                                </div>
+                              )}
 
                               <div>
                                 <dt>Sector</dt>
@@ -300,7 +299,7 @@ const WorkPage = ({
 export default WorkPage
 
 export async function getStaticProps() {
-  const caseStudies = await getCaseStudies()
+  const caseStudies = airtableData.caseStudies
 
   const transformed = caseStudies.map(cs => ({
     ...cs,

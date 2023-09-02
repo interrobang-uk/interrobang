@@ -1,8 +1,7 @@
-import { GetStaticPaths, GetStaticProps } from "next"
 import PageHeader from "../components/PageHeader"
 import Section from "../components/Section"
-import markdownToHtml, { getAllPosts, getPostBySlug } from "../lib/posts"
-import NewsletterSection from "../components/NewsletterSection"
+import airtableData from "../data/airtable-content.json"
+import { markdownToHtmlSync } from "../lib/markdown-files"
 
 const GenericPage = ({ title, content, ...props }) => (
   <>
@@ -23,28 +22,30 @@ type Params = {
 }
 
 export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug)
-  const content = await markdownToHtml(post.content || "")
+  const post = airtableData.pages.find(post => post.fields.Slug === params.slug)
 
-  return {
-    props: {
-      ...post,
-      content,
-    },
-  }
+  return post
+    ? {
+        props: {
+          title: post.fields.Title,
+          slug: post.fields.Slug,
+          content: markdownToHtmlSync(post.fields.Content || ""),
+        },
+      }
+    : {
+        notFound: true,
+      }
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts()
+  console.log(airtableData.pages.map(post => post.fields.Slug))
 
   return {
-    paths: posts.map(post => {
-      return {
-        params: {
-          slug: post.slug,
-        },
-      }
-    }),
+    paths: airtableData.pages.map(post => ({
+      params: {
+        slug: post.fields.Slug,
+      },
+    })),
     fallback: false,
   }
 }

@@ -1,3 +1,11 @@
+import fetch from "isomorphic-fetch"
+
+export interface AirtableRecord<T> {
+  id: string
+  createdTime: string
+  fields: T
+}
+
 export interface CaseStudyFields {
   Project: string
   Client: string
@@ -11,17 +19,25 @@ export interface CaseStudyFields {
   "Longer description": string
 }
 
-export interface AirtableRecord<T> {
-  id: string
-  createdTime: string
-  fields: T
+export interface PageFields {
+  Title
+  Slug: string
+  Content
 }
 
-export const getCaseStudies = async (): Promise<
-  AirtableRecord<CaseStudyFields>[]
-> => {
+export interface TeamMemberFields {
+  Title
+  Slug: string
+  Content
+}
+
+export const getBaseFields = async <T>(
+  // path including the app/base and view IDs
+  // MUST start with a /
+  path: string
+): Promise<AirtableRecord<T>[]> => {
   const res = await fetch(
-    "https://api.airtable.com/v0/app7BQQGtlXjcwjQW/Case%20studies?maxRecords=10000000",
+    `https://api.airtable.com/v0/${path}?maxRecords=1000`,
     {
       headers: {
         Authorization: `Bearer ${process.env.AIRTABLE_API_KEY}`,
@@ -32,3 +48,12 @@ export const getCaseStudies = async (): Promise<
 
   return data.records
 }
+
+export const getCaseStudies = async () =>
+  await getBaseFields<CaseStudyFields>("app7BQQGtlXjcwjQW/Case%20studies")
+
+export const getTeamMembers = async () =>
+  await getBaseFields<TeamMemberFields>("app7BQQGtlXjcwjQW/Team%20members")
+
+export const getPages = async () =>
+  await getBaseFields<PageFields>("appMTMhO4nu9hJIac/All")

@@ -7,6 +7,7 @@ import livingWage from "../assets/living-wage.png"
 import cotech from "../assets/cotech.svg"
 import disabilityConfident from "../assets/disability.svg"
 import Link from "next/link"
+import data from "../data/airtable-content.json"
 
 const SiteFooter = () => (
   <footer className="site-footer">
@@ -35,12 +36,12 @@ const SiteFooter = () => (
       <aside>
         <h2>More about us</h2>
         <nav>
-          <Link href="/privacy">How we use data</Link>
-          <Link href="https://interrobang-uk.notion.site/Accessibility-policy-d7e4761d2762452b9ddaba5f821b43a5?pvs=4">
-            Accessibility
-          </Link>
-          <Link href="/equality">Equality, diversity and inclusion</Link>
-          <Link href="/terms">Standard terms</Link>
+          {data.pages
+            .filter(page => page.fields["Show in footer menu?"])
+            .map(link => (
+              <Link href={`/${link.fields.Slug}`}>{link.fields.Title}</Link>
+            ))}
+
           <Link href="https://interrobanguk.substack.com">Newsletter</Link>
           <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
         </nav>
