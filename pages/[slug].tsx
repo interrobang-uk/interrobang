@@ -1,7 +1,7 @@
 import PageHeader from "../components/PageHeader"
 import Section from "../components/Section"
 import airtableData from "../data/airtable-content.json"
-import { markdownToHtmlSync } from "../lib/markdown-files"
+import { markdownToHtmlSync } from "../lib/markdown"
 
 const GenericPage = ({ title, content, ...props }) => (
   <>
