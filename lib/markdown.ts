@@ -6,7 +6,10 @@ import rehypeStringify from "rehype-stringify"
 import rehypeToc from "@jsdevtools/rehype-toc"
 import { template, html } from "rehype-template"
 
-export const markdownToHtmlSync = (markdown: string) => {
+export const markdownToHtmlSync = (
+  markdown: string,
+  includeToc: boolean = false
+) => {
   const processor = unified()
     .use(remarkParse)
     .use(remarkRehype)
@@ -15,13 +18,14 @@ export const markdownToHtmlSync = (markdown: string) => {
         html`<article className="flexible-content__article">${x}</article>`,
     })
     .use(rehypeSlug)
-    .use(rehypeToc, {
+
+  if (includeToc)
+    processor.use(rehypeToc, {
       headings: ["h1", "h2"],
       position: "beforebegin",
       cssClasses: { toc: "flexible-content__toc" },
     })
-    .use(rehypeStringify)
 
-  const result = processor.processSync(markdown)
+  const result = processor.use(rehypeStringify).processSync(markdown)
   return result.toString()
 }

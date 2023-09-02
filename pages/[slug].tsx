@@ -29,7 +29,7 @@ export async function getStaticProps({ params }: Params) {
         props: {
           title: post.fields.Title,
           slug: post.fields.Slug,
-          content: markdownToHtmlSync(post.fields.Content || ""),
+          content: markdownToHtmlSync(post.fields.Content || "", true),
         },
       }
     : {
