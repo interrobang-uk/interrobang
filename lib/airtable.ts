@@ -1,35 +1,10 @@
 import fetch from "isomorphic-fetch"
-
-export interface AirtableRecord<T> {
-  id: string
-  createdTime: string
-  fields: T
-}
-
-export interface CaseStudyFields {
-  Project: string
-  Client: string
-  Summary: string
-  Slug: string
-  "Date commenced": string
-  "Skills we used": string[]
-  "Client type": string
-  "Policy areas": string[]
-  "Team members who worked on this": string
-  "Longer description": string
-}
-
-export interface PageFields {
-  Title
-  Slug: string
-  Content
-}
-
-export interface TeamMemberFields {
-  Title
-  Slug: string
-  Content
-}
+import {
+  AirtableRecord,
+  CaseStudyFields,
+  PageFields,
+  TeamMemberFields,
+} from "../airtable.types"
 
 export const getBaseFields = async <T>(
   // path including the app/base and view IDs
