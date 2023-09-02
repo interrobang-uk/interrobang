@@ -52,6 +52,9 @@ const SiteFooter = () => (
           <Link href="https://linkedin.com/company/interrobanguk">
             LinkedIn
           </Link>
+          <Link href="https://chat.whatsapp.com/C4g034omhe8302M4Y6ekGB">
+            WhatsApp
+          </Link>
           <Link href="https://github.com/interrobang-uk">GitHub</Link>
           <Link href="https://interrobanguk.substack.com">Substack</Link>
           <Link href="mailto:hello@interrobang.coop">
