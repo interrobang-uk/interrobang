@@ -77,6 +77,17 @@
     header {
       border-color: $white;
     }
+
+    footer a {
+      color: $white;
+
+      &:focus,
+      &:active {
+        background-color: $white;
+        outline-color: $white;
+        color: $black;
+      }
+    }
   }
 
   &--no-top-padding {

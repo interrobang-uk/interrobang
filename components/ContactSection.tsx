@@ -12,8 +12,8 @@ const ContactSection = () => (
     title={<h2>Contact</h2>}
     actions={
       <p>
-        Whether you want to partner with us on some work, or just fancy a chat,
-        we want to hear from you.
+        Interrobang is a <Link href="/team">team of nine people</Link> and
+        growing. If you're not sure who you need to talk to, start here.
       </p>
     }
   >
