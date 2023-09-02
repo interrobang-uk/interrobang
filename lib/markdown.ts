@@ -5,6 +5,7 @@ import remarkParse from "remark-parse"
 import rehypeStringify from "rehype-stringify"
 import rehypeToc from "@jsdevtools/rehype-toc"
 import { template, html } from "rehype-template"
+import { micromark } from "micromark"
 
 export const markdownToHtmlSync = (
   markdown: string,

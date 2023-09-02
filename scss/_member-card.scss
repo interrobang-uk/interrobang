@@ -1,0 +1,98 @@
+.member-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  // gap: .25rem;
+  column-gap: 1rem;
+  align-items: center;
+  margin-top: .5rem;
+  padding: 1rem;
+  background: transparentize($black, 0.9);
+  border-radius: 2px;
+  padding-right: 4rem;
+
+  &+.member-card {
+    margin-top: .5rem;
+  }
+
+  img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: 0 15%;
+    border: 2px solid $black;
+    border-radius: 100%;
+    grid-row: 1/3;
+  }
+
+  svg {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+
+  a {
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 1.1;
+    color: $black;
+    text-decoration: none;
+
+    &:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    &:focus,
+    &:active {
+      outline: none;
+    }
+  }
+
+  em {
+    font-style: normal;
+    display: block;
+    font-size: 0.8rem;
+    grid-column: 2/3;
+
+  }
+
+  &:hover {
+    img {
+      border-color: $grey;
+    }
+
+    a,
+    em {
+      color: $grey;
+    }
+
+    svg rect {
+      fill: $grey
+    }
+  }
+
+  &:focus-within,
+  &:active {
+    background: $black;
+
+    img {
+      border-color: $white;
+    }
+
+
+    a,
+    em {
+      color: $white;
+    }
+
+    svg rect {
+      fill: $white
+    }
+  }
+}

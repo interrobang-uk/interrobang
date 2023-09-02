@@ -1,0 +1,150 @@
+:root {
+  --reach-dialog: 1;
+}
+
+[data-reach-dialog-overlay] {
+  background: transparentize($white, 0.25);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+}
+
+.team-dialog {
+  margin: 1rem;
+  padding: 2rem;
+  outline: none;
+  border: 2px solid $black;
+  background: $white;
+  padding: 0;
+  min-height: calc(100vh - 2rem);
+  max-width: 800px;
+
+  @media screen and (min-width: 800px) {
+    min-height: auto;
+    margin: 4rem auto;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid $black;
+    padding-left: 1rem;
+
+    @media screen and (min-width: 800px) {
+      padding-left: 1.5rem;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 500;
+
+      @media screen and (min-width: 800px) {
+        font-size: 1.75rem;
+        font-weight: 600;
+      }
+    }
+
+    button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: none;
+      border: none;
+      border-left: 2px solid $black;
+      padding: 1rem;
+      cursor: pointer;
+
+      &:hover {
+        svg rect {
+          fill: $grey
+        }
+      }
+
+      &:focus,
+      &:active {
+        outline: 0;
+        background: $black;
+
+        svg rect {
+          fill: $white
+        }
+      }
+
+      @media screen and (min-width: 800px) {
+        padding: 1.5rem;
+      }
+    }
+  }
+
+  &__content {
+    padding: 1rem;
+    line-height: 1.5;
+    display: grid;
+    gap: 1rem;
+
+    @media screen and (min-width: 800px) {
+      padding: 2rem;
+      grid-template-columns: 1fr 2fr;
+      gap: 1rem;
+      padding-bottom: 3rem;
+    }
+
+    aside {
+      display: grid;
+      gap: .5rem;
+
+      @media screen and (min-width: 800px) {
+        align-content: flex-start;
+        justify-items: center;
+        text-align: center;
+      }
+    }
+
+    main {
+      display: grid;
+      gap: 1rem;
+    }
+  }
+
+  &__bio {
+    // white-space: pre-wrap;
+    margin-bottom: 1rem;
+  }
+
+  &__portrait {
+    max-width: 150px;
+    display: inline-block;
+    position: relative;
+    padding-bottom: .5rem;
+
+    img {
+      border-radius: 100%;
+      border: 2px solid $black;
+      object-fit: cover;
+      object-position: 0 20%;
+      width: 100%;
+      aspect-ratio: 1/1;
+    }
+
+    span {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+      background: $black;
+      color: $white;
+      padding: 0.2rem 0.45rem;
+      border-radius: 2px;
+      border: 2px solid $white;
+    }
+  }
+}

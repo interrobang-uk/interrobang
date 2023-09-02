@@ -4,8 +4,13 @@ import Section from "../components/Section"
 import Link from "next/link"
 import { markdownToHtmlSync } from "../lib/markdown"
 import useUrlHash from "../hooks/useUrlState"
-import { AirtableRecord, CaseStudyFields } from "../lib/airtable"
+import {
+  AirtableRecord,
+  CaseStudyFields,
+  TeamMemberFields,
+} from "../airtable.types"
 import airtableData from "../data/airtable-content.json"
+import MemberCard from "../components/MemberCard"
 
 interface AirtableRecordWithHTML<T> extends AirtableRecord<T> {
   html: string
@@ -13,8 +18,10 @@ interface AirtableRecordWithHTML<T> extends AirtableRecord<T> {
 
 const WorkPage = ({
   caseStudies,
+  teamMembers,
 }: {
   caseStudies: AirtableRecordWithHTML<CaseStudyFields>[]
+  teamMembers: AirtableRecord<TeamMemberFields>[]
 }) => {
   const policyFilters = caseStudies.reduce((acc, cs) => {
     //@ts-ignore
@@ -116,6 +123,19 @@ const WorkPage = ({
                   const id = cs.fields.Slug
                   const expanded = selected === id
 
+                  const pointsOfContact: AirtableRecord<TeamMemberFields>[] = []
+
+                  cs.fields["Team members who worked on this"]?.forEach(id => {
+                    const match = teamMembers.find(member => member.id === id)
+                    if (match) pointsOfContact.push(match)
+                  })
+
+                  teamMembers.find(
+                    member =>
+                      member.id ===
+                      cs.fields["Team members who worked on this"]?.[0]
+                  )
+
                   return (
                     <section key={id} aria-expanded={expanded} id={id}>
                       <header>
@@ -204,9 +224,11 @@ const WorkPage = ({
                               <div>
                                 <dt>Policy areas</dt>
                                 <dd>
-                                  <ul>
+                                  <ul className="tag-list">
                                     {cs.fields["Policy areas"].map(item => (
-                                      <li key={item}>{item}</li>
+                                      <li className="tag" key={item}>
+                                        {item}
+                                      </li>
                                     ))}
                                   </ul>
                                 </dd>
@@ -215,22 +237,29 @@ const WorkPage = ({
                               <div>
                                 <dt>Involvement</dt>
                                 <dd>
-                                  {cs.fields["Our involvement"].map(item => (
-                                    <li key={item}>{item}</li>
-                                  ))}
+                                  <ul className="tag-list">
+                                    {cs.fields["Our involvement"].map(item => (
+                                      <li className="tag" key={item}>
+                                        {item}
+                                      </li>
+                                    ))}
+                                  </ul>
                                 </dd>
                               </div>
 
-                              {/* <div>
-                          <dt>Point of contact</dt>
-                          <dd>
-                            {cs.fields["Team members who worked on this"].map(
-                              item => (
-                                <li key={item}>{item}</li>
-                              )
-                            )}
-                          </dd>
-                        </div> */}
+                              {pointsOfContact.length > 0 && (
+                                <div>
+                                  <dt>
+                                    Point{pointsOfContact.length > 1 && "s"} of
+                                    contact
+                                  </dt>
+                                  <dd>
+                                    {pointsOfContact.map(point => (
+                                      <MemberCard {...point} key={point.id} />
+                                    ))}
+                                  </dd>
+                                </div>
+                              )}
                             </dl>
 
                             <main>
@@ -300,15 +329,19 @@ export default WorkPage
 
 export async function getStaticProps() {
   const caseStudies = airtableData.caseStudies
-
-  const transformed = caseStudies.map(cs => ({
-    ...cs,
-    html: markdownToHtmlSync(cs.fields["Longer description"] || ""),
-  }))
+  const teamMembers = airtableData.teamMembers
 
   return {
     props: {
-      caseStudies: JSON.parse(JSON.stringify(transformed)),
+      caseStudies: JSON.parse(
+        JSON.stringify(
+          caseStudies.map(cs => ({
+            ...cs,
+            html: markdownToHtmlSync(cs.fields["Longer description"] || ""),
+          }))
+        )
+      ),
+      teamMembers: JSON.parse(JSON.stringify(teamMembers)),
     },
   }
 }
