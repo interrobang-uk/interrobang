@@ -19,7 +19,7 @@
   border: 2px solid $black;
   background: $white;
   padding: 0;
-  min-height: calc(100vh - 2rem);
+  min-height: calc(100svh - 2rem);
   max-width: 800px;
 
   @media screen and (min-width: 800px) {
