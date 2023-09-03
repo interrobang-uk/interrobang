@@ -365,6 +365,45 @@
       "id": "rec08Eq7b1s9VXbhX",
       "createdTime": "2023-07-15T18:21:04.000Z",
       "fields": {
+        "Name": "Emma Diamond",
+        "Disciplines": [
+          "Research"
+        ],
+        "Email": "emma@interrobang.coop",
+        "Photo": [
+          {
+            "id": "attod7a8UfEVxp9oO",
+            "width": 3980,
+            "height": 5970,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/9tqn5B9v24M2nHPTrglqGQ/3CKifUoc4GqP8HRr-pcJxk4q1zl_d10i1owzRoA8lc_UcllzpTfGkZmEyyjycQGt5PDq_qMBvORjDlrGc2DAJCvy5CVc1mxlt1v16yebNxw/hz72kYT29dF9740aTUQvuN3rQ1LR9e9mGRRpmkRah88",
+            "filename": "20230725_Emma_03.jpg",
+            "size": 3592374,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/zcHpXDW2WtF1seeX9bKgjQ/XD7b-AeIjhGD3KBKtJt3UU4wttKfYtmC_WT10FTN8jaJ04RaZKDUEVkP1A1dEB5nhM9KnubPbVXukBfkQLyfaQ/4BX6DDEACroH_offYOLkid6ylPalfWGL6vzRJqya19s",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/FolehtzzKcDN_AQpu0J2MA/KtBONWy87_jayIQlLofPNhSq7KLmCJK9HJO1jviQkoiT_sEPW-K3x_A6y0_uRBiuo8AdZ7OQjJFdb_8XLc2EMg/0Apq1joNwm_zZ3-az8x9gpoP_s8EyQqUaeLo4-XFu1U",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/TnDygrr-I-Izsq4zSwXI1g/EyARSsmLd0DFCV38z_S5neG9pSpJKaJFHvvAvB9WJbu3mNNdXPDxA13R_NgXB3DllXnGwMWY91rg1tBB69KKyQ/lVpP5s2zjxZt-3qbkmbebuVYHWAGakRIrGpZK94eYU4",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "Specialisms": [
+          "Inclusive and participatory research",
+          "Systemic design practices",
+          "Trauma, gender and culturally informed approaches",
+          "Capability building"
+        ],
         "Long biography": "Emma is a design researcher of nearly a decade and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change. \n\nHaving played senior and lead design researcher roles in multiple research and design agencies in London and Manchester, Emma now works as a freelancer for mainly public and charity sector clients, supporting them to create positive change based on the needs and experiences of their users, residents or audiences.\n\nTo do this she leans on a creative, yet rigorous research practice cultivated over several years of critical self-reflection, personal growth and from working in multiple design teams. \n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services. Her role is to facilitate a partnership between them and service providers so they can more easily get the support they need. ",
         "Former clients": [
           "NHS/Healthcare sector",
@@ -372,55 +411,16 @@
           "FutureGov/TPXimpact",
           "Noisy Cricket"
         ],
+        "Short biography": "Emma has a decade’s experience researching health and social care and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change.\n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services.",
+        "Pronouns": "she/her",
+        "LinkedIn": "https://www.linkedin.com/in/emma-diamond-4a0287b1/",
         "Examples of work": [
           "recVDg40WzQN4n61n",
           "rec0T5e7LedrsKHjU",
           "rechACO1VAqoxqAry",
           "recEx3miGVmQpDo2I"
         ],
-        "Name": "Emma Diamond",
-        "Disciplines": [
-          "Research"
-        ],
-        "Photo": [
-          {
-            "id": "attod7a8UfEVxp9oO",
-            "width": 3980,
-            "height": 5970,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/PtNJUP0IIEa36MFen9IEQQ/os4HbDM8i9L0YqKNWR3qhgpiplDt4e7l5Sr0ifzYtrQordgh1ojZMkcqp_TkBx3qIgYq3ZIYPsyPhkmHTVRgUCmX2T5c-FWngwE5Qb-vB28/M8hG8V6mEywTom7rZF9x7DzRPaeTjdPAIhQ6XDfsYwU",
-            "filename": "20230725_Emma_03.jpg",
-            "size": 3592374,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/TsH8qkdywQ15Swg2-D8TeA/xPmW-2IZMbBSegs3X7Ef9qSfymSAX4G7qPArfYEdzhe80rpTRDmjEMW7hwvQHhpLv9wW-q56xeWOcZIz5uF6RA/bQrLeZ7I1aOQRQu335IiGp1uOCC5F9xklazxz2U8pEQ",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/BWMKDxNurHMMYCmRVyEVMg/Wd5VbJXj5ubOUo96cNmRt1pLPU2XaFWNA78T3erm8ky0RLbUB2m2Gnlguwedp4JMv-LbChscPr3GxLHhSsliAg/lZa2NG54rB89uF5aVdyyQ7xCviQNKr3ssojSYRQQRsk",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/VFJxQ7sBzHDisGGL5j8L1A/arLfNAbyGIrEr_JZbeN9-y3hDMu3n58eRPZ3fFgCV5LzfSfMZ84fkLQcbSpn9mpVYqh0AxmS_5jzm5Yyh82TRw/FXQOaPte_-MPnOEoUC4pS4NwGJ1_5JAoUX1R1ZmC7to",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "LinkedIn": "https://www.linkedin.com/in/emma-diamond-4a0287b1/",
         "Role": "Research",
-        "Specialisms": [
-          "Inclusive and participatory research methodologies",
-          "Systemic design practices",
-          "Trauma, gender and culturally informed approaches",
-          "Capability building"
-        ],
-        "Email": "emma@interrobang.coop",
-        "Pronouns": "she/her",
-        "Short biography": "Emma has a decade’s experience researching health and social care and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change.\n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services.",
         "Slug": "emma-diamond"
       }
     },
@@ -428,49 +428,49 @@
       "id": "recAFMG90I2MLyfLx",
       "createdTime": "2023-07-15T18:21:22.000Z",
       "fields": {
-        "Long biography": "Rufai came to user research through Made Tech’s Academy.\n\nAs well as getting hands-on in projects, Rufai develops himself through pursuing advice from mentors, self-learning and seeking out constructive feedback.\n\nRufai’s motivation to work in the public sector is a combination of working towards impactful change to the general public. Followed with the ability to work in many different industries widening his general knowledge and transferable insights. \n\nBefore user research, Rufai studied accounting through ACCA and worked at HMRC as a tax advisor. During Covid-19, he was a key worker in communications with the NHS.",
-        "Former clients": [
-          "Made Tech",
-          "Ofgem",
-          "DCMS"
-        ],
         "Name": "Rufai Munye",
         "Disciplines": [
           "Research"
         ],
+        "Email": "rufai@interrobang.coop",
         "Photo": [
           {
             "id": "attgYfkBrl3hsnc2e",
             "width": 400,
             "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/QfBXJl6CECi3KFK4RvGbpw/cqgtDFaEB_W5QUtMbkeqBg609DXp330c1T-FX9EUay183k4yA_0Cjgj_p1oyuLNUkkJcfv322BtrRSYs5vj8p_QKU3xN1Qq3omL-a23VXgo/KonT5GprAY-0MsNjOcj6-rooa2xuxPgOLTvp1nvaJ0Y",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/9lNIqhGWuOzzNRbsd3TIeQ/gQNAzqAhbc0YfR5P7Wl5q_Vyxy-TWoiulsHNeE0nJBEle20DJqFqLQLiIetaRItA-deTiakK7CysLgY9JkIEvzQtwVQQfSwCEiJ456YVhXU/WC2q3mMhWqNy8ruKf3crNZsBMWOL_ltnkKDaSXh5Kwg",
             "filename": "convert.jpg",
             "size": 25872,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/wIZRTiW5-eSU2lFhzWwynA/3f5oUtgDkavXfjKkUngOkS48Os3NmE6VLe1Y6pJa3JIvFWB68qcwsxkLABMQTyIv6Rtwc7G6gbYcrX1nqkGviQ/pIdc1lAAq_PwL01k8cGXZs9sliFidNB4LmIyojSBo5M",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/lSnBFkMCNYhghr2IB8OX6g/WXXcr85wojYEWDTOthnU0fd5Cd1PURCwa7hzYVZFjE1FDCnuk531bfTzKu1427Abbyw1Hcb1WsvldvSzxbP-Bg/kugNpkV5AcJ3XSv9qjASmS46vSv8qjkBs8Ym5AoHcFY",
                 "width": 36,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/Oa3RDl8aWidMM5HNlc8TzQ/F6-aXyKAgiqxpmVHMVtNnu5LpaaeSKn5tawZsu7U2v98h-AiD-1YUTrt3MbmWeW6aWdwMlPM8zwYOCbmw3A_Xw/FQQS5fTP6D5ip0KKzHg1ov530JYz5AGN8Ji6qidQUVA",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/D7D4UYNZV73LRPDJrfPwTQ/KPndkqihcaTkaDXHDfu9ksqBT-BHsiOrDPbuNjdrnujKFsf8Bb1UAaBiNA3XFT6xBMmwkiprx2IKw33qQhYqAQ/FmpQr6-7r7Pxs1IbBQEJZROjeegltNsZLKBZG8kZTYY",
                 "width": 400,
                 "height": 400
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/d2jzBsxeS1XY37TxX4cYFg/nIe7gkbY9qL7D0X2KTE32itPprAjhBxwj04o8PVM6QjXZgipWlfSFSA8XpsbrFqXQFDx9hxKATVCTwFSXuHoJw/rL0rFQhjy0JTtkqoGoL8jDu1zbRHD-U8oDXrQ3HvPik",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/SjtbBqT_sLGv3lBVbjosHQ/sNqG6c5SEWbM7b65J6qEpalts2RNiLBwYorc5x23T3NSXAP0o328ij0Y2r68clsIdn8rlFK_uAHrSk4oZHrdkA/Ee2SkOcOD050zamI1yL6H3OizgGAgPT6T_tO-TPWxg8",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
+        "Long biography": "Rufai came to user research through Made Tech’s Academy.\n\nAs well as getting hands-on in projects, Rufai develops himself through pursuing advice from mentors, self-learning and seeking out constructive feedback.\n\nRufai’s motivation to work in the public sector is a combination of working towards impactful change to the general public. Followed with the ability to work in many different industries widening his general knowledge and transferable insights. \n\nBefore user research, Rufai studied accounting through ACCA and worked at HMRC as a tax advisor. During Covid-19, he was a key worker in communications with the NHS.",
+        "Former clients": [
+          "Made Tech",
+          "Ofgem",
+          "DCMS"
+        ],
+        "Short biography": "Rufai is a relatively new researcher who graduated MadeTech’s academy in 2021. Before the career change, he was a tax advisor with HMRC, and worked with the NHS during the coronavirus pandemic.\n\nRufai will amplify the amount of people we’re practically able to engage with during the project, helping our co-design approach succeed.",
+        "Pronouns": "he/him",
         "LinkedIn": "https://www.linkedin.com/in/rufai-munye/",
         "Role": "Research",
-        "Email": "rufai@interrobang.coop",
-        "Pronouns": "he/him",
-        "Short biography": "Rufai is a relatively new researcher who graduated MadeTech’s academy in 2021. Before the career change, he was a tax advisor with HMRC, and worked with the NHS during the coronavirus pandemic.\n\nRufai will amplify the amount of people we’re practically able to engage with during the project, helping our co-design approach succeed.",
         "Slug": "rufai-munye"
       }
     },
@@ -478,60 +478,60 @@
       "id": "recKHgXJ9bsDkGrPS",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
-        "Long biography": "Jaye is one of the co-founders of Interrobang, and has a track record of delivering real, tangible change quickly on difficult, knotty problems.\n\nJaye has a background in journalism, but pivoted to the civil service early in their career, picking up design on the job in early roles with HMRC and DWP. They then moved into agencies, spending time on a range of public and charity sector projects, along with a career break to work in startups.\n\nNowadays, Jaye focuses less on day-to-day design and more on building happy, effective design teams at scale, with a focus on the processes and practices that make those teams succeed.\n\nJaye also teaches design to career changers in their spare time.",
-        "Former clients": [
-          "Government Digital Service",
-          "FutureGov/TPXImpact",
-          "Samaritans"
-        ],
-        "Examples of work": [
-          "reczdVqZFPn8RYCco"
-        ],
         "Name": "Jaye Hackett",
         "Disciplines": [
           "Research",
           "Design",
           "Technology"
         ],
+        "Email": "jaye@interrobang.coop",
         "Photo": [
           {
             "id": "attVGjDXGhi6mDzuq",
             "width": 4160,
             "height": 6240,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/yoksJaCui3DWJPzr_yRCQQ/OYehY3g1eBaLvP1lxER8T5qOz7sb-2gQa6KN7d2ZTbwwF4DLoErsjOnBrrWOSiWy3uanMj6rJXs4qUZynGOZnT7qDtBCgn5w_k-SN6lH7kw/_EqQ8EKi9Sx3HYbJW2eWvUgcIbcouMWGXk5rjfjBTtM",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/8Ao2cYeUzopw1VNKqwyBhA/DbM8zwrQ_0iHPmbxppisJQVMBeqKGxZtwFprAQwe6R_oLyOlnYB1PsV1zEnmvlLUg5S_oxj_SCAWPlONJ4GRx4xTCHZFmKsJrQcOq0wIiHk/LTb2llk1bTPaEprBkJXacnuI2xwGsX_ilM9IFFt39tQ",
             "filename": "20230725_Jaye_07.jpg",
             "size": 5129518,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/WGE-7WE5a8VbJLsDK0rkNQ/cJLrZSXes0O56kRwziUvLX-S5yJHA6jzSzRKc_VC0eHLm_IerZh1mtc4minokyOV9xpDAQbKVnXv7GAdeGBF_g/ABAJqT5gvf85WjP3FCnCajmffBYwhJS8EC-Pek57Weg",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/VKTF3B3UxW1p2fpitcHeTQ/2GD2BBRgsCAFH3Vwsabfa-2QuehKH3SXEAUByNVNg7uVFOSc7-bic-0RCa_V9z7VHYNi4KI6Dl9duVy06NJX1Q/yzlux9NS382xZtVSSCTxqls1Co2xW27NqNFcUAItTvI",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/_rNRYyG3iK3Q8BqJVuZLDA/u-1-YCEGccKvtpCf8zUh76TZm0Y2cn61Yrm_A8hb6dVRkgxTq755ZewWz1TRVEfaVsLKpzjlMadrqBrtXev_Zg/99oTj5PA0AU5o-8Ll2qSeDcq8IvVmIrzEZt1lWQQ8e4",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/nfkcWCOJF2AsjzoKJQzrHA/Ondo-AOPdRz5Cuyhmi36-cQtkJgOdb1R78dsiQaOaHiSt6lCnIUkH5yZ60iKdhfxHgQLJvJ1QCCSG7WOmZNCyw/onog1h3IT39SnuQR9Dfdu6XG16yDN7msfoCy9Uy-9pE",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/cMdNozLUmaR02h3Vo2xzTw/1L6SvC-EyZOQXZe_52v9vcI55b0Jt_rbMZ-kE5TIVPhbkazcCpTyigLAnDQ7Mkv3B2KTvhGp7DvmLOrYM7qWOw/t1_zJNigjp4rlaLC31xDIvNAgS8C2tv4aCgbtJW1oKM",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/F394DynHK1YyBeistDieHQ/8t7jY966Q5sPvAGGWikigGDVGtcnluXxToTXp-6XxEZtBGiiXX_0ADbuSJ9yhLKFlSiDHrq2668q-6ANmBV8sA/lC0jnzr_dNDjjjWIdD45gw_zJXC-M-NCz2xxHvC7ipg",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "LinkedIn": "https://linkedin.com/in/hackettjaye/",
-        "Role": "Founding partner",
         "Specialisms": [
           "Digital strategy",
           "Building design professions and design at scale",
           "Capability building",
           "Design leadership"
         ],
-        "Email": "jaye@interrobang.coop",
-        "Pronouns": "they/them",
+        "Long biography": "Jaye is one of the co-founders of Interrobang, and has a track record of delivering real, tangible change quickly on difficult, knotty problems.\n\nJaye has a background in journalism, but pivoted to the civil service early in their career, picking up design on the job in early roles with HMRC and DWP. They then moved into agencies, spending time on a range of public and charity sector projects, along with a career break to work in startups.\n\nNowadays, Jaye focuses less on day-to-day design and more on building happy, effective design teams at scale, with a focus on the processes and practices that make those teams succeed.\n\nJaye also teaches design to career changers in their spare time.",
+        "Former clients": [
+          "Government Digital Service",
+          "FutureGov/TPXImpact",
+          "Samaritans"
+        ],
         "Short biography": "Jaye is one of Interrobang’s founding partners, and has held nearly every role on a digital team at different points, in charities, creative agencies and the civil service.\n\nOn this project, Jaye will be your first point of contact, and will help you make sure the work is strategically aligned and happening at the right speed.",
+        "Pronouns": "they/them",
+        "LinkedIn": "https://linkedin.com/in/hackettjaye/",
+        "Examples of work": [
+          "reczdVqZFPn8RYCco"
+        ],
+        "Role": "Founding partner",
         "Slug": "jaye-hackett"
       }
     },
@@ -539,6 +539,43 @@
       "id": "recg96UTEDDhyuRWk",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
+        "Name": "Chloe Coleman",
+        "Disciplines": [
+          "Research"
+        ],
+        "Email": "chloe@interrobang.coop",
+        "Photo": [
+          {
+            "id": "att82mo6wBIN8odie",
+            "width": 3825,
+            "height": 5738,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/dLQDBELrobTHcgw0CxXcXA/rquHtk9HvqAw9in0tHbkpJn6QiBbZ7nWOphTRnv88krsWq6Y-futMDhKJYrGhSFm-qZ_AySO2KF2oK9bLq8DivoMnn8-YIx1gjcBwFDLSIA/FZ5AhrYfdD9S1hfzQ4yY6-C-LFOf6ScVh0VYYhSAL_U",
+            "filename": "20230725_Chloe_10.jpg",
+            "size": 2582598,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/3KzI9DgTUfNcx-qjnMC8kQ/lUbygNy7y_0lEwHlxz6QuyPbo4gR-EuGfAKihzXIH9JfbziNlIchgKc8GP3zF83ZCmllvNzwsYAjmJdfQlI10Q/l7m0YEsj-RsZu4c4hAap8ZReuo09hlx7Dpd-ZzqeRIA",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/eRVuBnPZcWORk8tt7z8ZcA/HrGzd0EDJR_JPc0hIT8JVJ7tVN0G7E4Z6BfGcBpANGCicy2uL56nSjP0q1Z8UeSpP99OzigYX9IdnfThLSEfow/VgaHDYo8NHnaTQscrwwzjESMntz02J_ez_ha-yHRXbo",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/5ETywqq_V289dYsOdwaovQ/N79apw5-NVOUxmGNNb-GJK5SzWq7HRY07TbxJxITKqJKj3RK3bC1mhtt-X9Ts2KQCd6w_I1xCacOxe7oV0jzJQ/ommlRmFfccebAik1Zs3aPKN5PKYG94rZaanS28HeFkE",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "Specialisms": [
+          "Designing with vulnerable people",
+          "Disability inclusion"
+        ],
         "Long biography": "Chloe has a plethora of public sector UX and user research experience, specialising in researching with vulnerable users, and designing accessibility-first services.\n\nChloe is a co-founder of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers. At DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.\n\nChloe now mentors, develops and encourages budding UXers in their careers, building teams of enthusiastic, brilliant people and empowering them to do fantastic things.",
         "Former clients": [
           "Ministry of Justice",
@@ -546,6 +583,9 @@
           "Universal Credit",
           "Welsh government"
         ],
+        "Short biography": "Chloe is a founding partner of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers.\n\nAt DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.",
+        "Pronouns": "she/her",
+        "LinkedIn": "https://www.linkedin.com/in/chloe-coleman/",
         "Examples of work": [
           "recFyglFFfOuf6660",
           "recAMPL5CKK8JCcUO",
@@ -553,47 +593,7 @@
           "reccn4WEHEvfFaHd6",
           "recgY7DK1pjT1MgIc"
         ],
-        "Name": "Chloe Coleman",
-        "Disciplines": [
-          "Research"
-        ],
-        "Photo": [
-          {
-            "id": "att82mo6wBIN8odie",
-            "width": 3825,
-            "height": 5738,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/CRioIV5ITemrTaBlldnNgA/3ZCyhH3Xom_74z8YnaC2XUhjB2ABcUUX-uI7Qu334UbggVzewrU1J3k_yIbskNEabeV8LWj8t1uqgSDIf7E4vpTmOexQsR2ssHNAI-rycY4/ZN-tEjnSwzxDGh8EgTotTUhQOvBXQxdCIHAetb_zJY4",
-            "filename": "20230725_Chloe_10.jpg",
-            "size": 2582598,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/Wi6Q-u8l0zMKv_UoG3oGIw/eqrN7Pka0wpPuX9gJiom2VE7hJ2B0DggmZLG18kbPP-akk0tsm-Q-zt0MjsQAMm64Jj5rzbctGWHd6_W3k3V4g/3MtL3B7eSnOtieQ2XKhAeJv_gyyuEY8ck5dNxo-ZjnA",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/fw9opACUiOw4TnC3Y6VpHQ/p342dmlVKvBZU5SLZz6luF45AIC1fuWPM4kQPv4_Qm_ZvtZED7cu1J3SUOGmS6dTTc18Y-Ktns9PH0ZfdDn4Pg/I7SZysIH2FsbmlmQv1u_48t6UzUFe9OKLsfvfh40xvY",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/xyH6EtBtZWMI6nYSKhjpoQ/Qg_rwx94amxVHsx2nb08y5HDz6wqAtxGvTMURjAebvvGYm55XXRewKgmjcORBuX0KV79cEj9tTNiq1EZTwAZJA/9TdVvOSHjV-XFd8VZOUSXEIPqIV0I46uZKlKt7JkTpc",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "LinkedIn": "https://www.linkedin.com/in/chloe-coleman/",
         "Role": "Founding partner",
-        "Specialisms": [
-          "Designing with vulnerable people",
-          "Disability inclusion"
-        ],
-        "Email": "chloe@interrobang.coop",
-        "Pronouns": "she/her",
-        "Short biography": "Chloe is a founding partner of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers.\n\nAt DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.",
         "Slug": "chloe-coleman"
       }
     },
@@ -605,38 +605,39 @@
         "Disciplines": [
           "Business development"
         ],
+        "Email": "aoise@interrobang.coop",
         "Photo": [
           {
             "id": "attFBRQx71djox0RX",
             "width": 3605,
             "height": 5408,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/0tDQeRCVsOMZtpfStyHHjQ/XAHLZ5BsYY9sjBCzWEs_5uRVydRVysntYvMxJ5adSPTqjYyfn7uZOHZgQsg58UXwwYgaGaOscPBg6ULL-snpN7lLxwbEEdFy_EoXu-cvV84/7uWdhtB75_fPkaNYUVCXsFpf8X86oAPqX7D13usq1Hc",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/g93KcR7y82alpwFg9tpcBQ/wsVPH355enrupd2hiFQrwd7aM1BmQBtfcxvXiM8MeZ3ugNxVBc8MDDKxddHYXR4WTV_e1kriiqDSGAvr0uW222MSiQZJRO-fNToPJYiL2lM/2QCy-IUIHujBelekWakxo9E457Yt7veu6_QG-GKv_bk",
             "filename": "20230725_Aoise_03.jpg",
             "size": 2841190,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/7CK8Vp-rWh8HspsqYSzAhw/YIStKaKGmwZR_h-u5RfJUGfO-ReQ0qvN0JsmwzTuNwEJCxm6-QiVafRCi_kh59Gimh8naReLZ-orQQ7RNkGpBw/2Qrpy0YXucQyNJNoawAWtPp1PHSJuKRf1ZO1V1dfIug",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/ex31n-bVNdT_HIDlJen7OA/wR5uiYaMSjUX5saag_Erb8RUlr_iAEU1yCNATfFye7PSFvPRtsE2xKeSJJbvGEPWzM_XysBZ2e0_GI_lwjd2qg/Ap-LvB9jh9JLxVM3HcUfjXO2x5HiMVIm3o8MyOkq0pg",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/B36M8jmWNs4QUFeWU04hEw/MGRx1cRwk3puLBNyHI_8uPgjWSK_SUKZaV7imjBK65_PzGr2_Nx0Z4FoXraNjf_OokJXrWzVedIQUaPBqDGF8w/bzLWGu1pGcAq3h2Sv0thQIFhcpgkTAV3PU_vlEmbVRw",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/c1m5RGSAy_K8MsTGILTdKA/ncAfiV10U21A19dZBMdzuv-07lqM_RlbvzYiO5qEZzcDV_DBh4i5ZqK8VerXod5VrcAx16-uITixv65qh3UQvg/yArYA8uVMgdkpymCEKwm4Qq5xp5C_iQxNk4Vz0oCeeA",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/5gM6MMq_i9-ASB5Q2y8ehw/xzjK-WyzanjIG-TLH7OC5Bjl8NqAoO_uvo8cW9hsk6ZUbXyn5Fg2NRx7-A7TpxgQ1TPwd8-yrYcVz0Ip36_6jQ/Anf4LT0wuaGt4NkxfQyGZsYFFJ_SVfFeQQk0w65q4M0",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/KLBL3sG3JBdKZr2YLb8bsQ/rDWuEdvEr6ohm5PDl1nTBUnRJ8pviarnqMPC49-ksusCTe-Gz2ZtZyOqpu1_JGJO-z1uH8fyYOofshhXIYUfVA/uQfd8n7cAn3xQ7IAIQEdgrP18DQYX2cUTpVIf14pEyI",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
+        "Long biography": "Aoise is COO of Supply Change. She works with clients on significant strategic design projects in the areas of local wealth building, social value, and community assets. She leads the supplier community and has extensive knowledge of the third and VCSE sector.\n\nAoise has worked with teams to co-create solutions, building in multi-stakeholder needs. Her experiences include co-leading an extensive design sprint for the Marie Stopes leadership team in Kampala, which included pre-sprint discovery with key stakeholders, co-designing workshop content, and co-facilitation.\n\nAoise has also led numerous co-design and research processes to improve revenue and funding solutions for small-scale, grass-root, and local initiatives, gathering globally spread social enterprises, funders, and intermediary bodies. ",
+        "Pronouns": "she/her",
         "LinkedIn": "https://www.linkedin.com/in/aoise-keogan-nooshabadi-b41ab570/",
         "Role": "Business development",
-        "Email": "aoise@interrobang.coop",
-        "Pronouns": "she/her",
         "Slug": "aoise-keogan-nooshabadi"
       }
     },
@@ -644,54 +645,54 @@
       "id": "recqofoBEEveQMRAc",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
-        "Long biography": "Ashley is an empathic researcher and facilitator, as well as an effective, highly experimental multimedia storyteller.\n\nShe is an accomplished documentary filmmaker, which she brings to bear in her design work by creating new ways to build empathy with users and make research insights understandable to lay audiences and specialists alike.\n\nAshley previously worked with FutureGov/TPXImpact, where she honed her skills on a variety of local and central government projects.",
-        "Former clients": [
-          "FutureGov/TPXImpact",
-          "Bloomberg Philanthropies (Mayors’ Challenge)"
-        ],
         "Name": "Ashley O'Callaghan",
         "Disciplines": [
           "Research",
           "Design"
         ],
+        "Email": "ashley@interrobang.coop",
         "Photo": [
           {
             "id": "attQdbmhH1lObTWLB",
             "width": 400,
             "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/lD4MURfzCkfz1sR6u6lOqQ/XGHPyubcBa4bEMlSr818gN5K9Bu9PdtpzsxTwJlRyfd5LGYjKwim8IuaqRRma7PprxyTkDr411JKCw08jOAQJmbu9D4FzdMMXMxDau1lYv4/UOzXkor4wvp2YejnMTJ9HPIP8YVDAFtGcMDJvASYIvU",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/5IPqWgzmtx4Z0oYKK2ILgA/0A-uRvu5fsE2ux1ZwNhC3xRzI2WrMJuw7w8VXao0Nqdqr0YkCAIf_poQGvUM1ah4FHnNDZ1HcX3onBA-I9kg1P2u31uq82hO7gWZOkOKtC0/rxtWNfae3FrQBPLx1EfEN28hbefYIYLtsMqQxI4-M2Q",
             "filename": "convert.jpg",
             "size": 21042,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/Sp04g1iIYYXi0mkoP828xg/FyB10hLWMDfoWzTgbGwap8v-Djcbpi6C9a-wapxlWQrDh3FusXdW2KkDgB6d1YbZqF4_UELkKXZ2u--ftCcZ8A/hEpHmRkkzOO1dqVTaW7lCIgk13Z6wrXzh-Heoc_SQa0",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/JycwPPRb54Wer3XJkqBTgg/oblOikgWFecco0HJ12Un4zqN9sw-ggaI_1NpY-AqNBw5WIOcrpP_d6_OgMfE0g_3A6-FpFSIswrsJDE_ibRuMA/CfAi7RX9LV4TGXAslJQ1nbqDpxaIs2Ji-HtfRCOPs8k",
                 "width": 36,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/HEhgMovdTmVWyjtcbub4Nw/FRJ0ZDjRhYuNZ_BW5XeZXY42mh5scPWVmTmSkJMlNRGK5g7SA2v3YIandbN_SdXS5ZR_3zJNsK8u8-nVrJ3m_A/Vo_b6EvUszqfJXWQUhdtBnGT_9Bc37FdvW5u4C9_qQI",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/vnU9pimcJzUPN1sS67fIrw/6uTzEJrk0wul9pprz-7JwBYiyvtv3k_HR9yZ15FVzS0ragPNWn9QB2kWwbql0IRF7QjW4qPBkq_EHWcXTJdfkQ/TSjFFcuYgTm7XG_vi8SVFuF9HCOI1MoPR_xWLWbrSpE",
                 "width": 400,
                 "height": 400
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/fuC1r3K1etLw_IPlHz3Qpg/4Sj20K1tKq9EjVzTmAey3mqaa_F4SUoYRj4c4pMaZUYs7oXBAOuGlGuJcq14eN5ksMxcuVbXZqKjJqTJls_LmA/Z4SKSiBM8B3ghObJqisop1Ms9IWzBQm1IUqXdR6Dl7g",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/Umh7O0HoTzSLcnTmk1alfg/uPf5KxhJQFiz8A_qzknDmiL3ScWADdGYxUE6sand1Zu0Kf0MAxgj5XM2WTbTU0KiOQzS6SoIehzuULVaxNWw4g/1Ph5vkOxHpbgnWDRcmiF7LyBmwz2UqIYTI-8G1_Dg9c",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "LinkedIn": "https://www.linkedin.com/in/ashley-o-callaghan-612296201/",
-        "Role": "Design",
         "Specialisms": [
           "Workshop facilitation",
           "Documentary filmmaking",
           "Multimedia storytelling"
         ],
-        "Email": "ashley@interrobang.coop",
-        "Pronouns": "she/her",
+        "Long biography": "Ashley is an empathic researcher and facilitator, as well as an effective, highly experimental multimedia storyteller.\n\nShe is an accomplished documentary filmmaker, which she brings to bear in her design work by creating new ways to build empathy with users and make research insights understandable to lay audiences and specialists alike.\n\nAshley previously worked with FutureGov/TPXImpact, where she honed her skills on a variety of local and central government projects.",
+        "Former clients": [
+          "FutureGov/TPXImpact",
+          "Bloomberg Philanthropies (Mayors’ Challenge)"
+        ],
         "Short biography": "Ashley is a designer, researcher, technologist and facilitator with extensive experience in health, as well as social care, housing and climate.\n\nOn this project, Ashley will be expressing the needs and ideas of your users in a variety of media, starting at low, then increasingly high levels of detail.\n\nAshley is also an independent documentary filmmaker.",
+        "Pronouns": "she/her",
+        "LinkedIn": "https://www.linkedin.com/in/ashley-o-callaghan-612296201/",
+        "Role": "Design",
         "Slug": "ashley-ocallaghan"
       }
     },
@@ -699,53 +700,53 @@
       "id": "recwEyewiheL1vvRR",
       "createdTime": "2023-07-15T18:21:17.000Z",
       "fields": {
-        "Long biography": "Sarah is an experienced researcher and evaluator in the non-profit and public sector working across adult and youth organisations to deliver impactful research and evaluation activities. She is passionate about bringing trauma and culturally informed approaches to research and evaluation and ensuring those with lived experience are the heart of projects through using participatory and co-produced approaches.\n\nSarah is also a published academic and recently received a distinction in MSc Health and Social Care Management and Policy.\n\nShe has subject matter expertise in homelessness, mental health, violence against women and girls, drug & alcohol, multiple disadvantage, learning disabilities, youth sector, criminal justice system.",
-        "Former clients": [
-          "NHS",
-          "Rethink Mental Illness",
-          "London Borough of Lambeth"
-        ],
         "Name": "Sarah Tayleur",
         "Disciplines": [
           "Research"
         ],
+        "Email": "sarah@interrobang.coop",
         "Photo": [
           {
             "id": "attA9WlNs23dJOgGq",
             "width": 3964,
             "height": 5946,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/IUmFtVZePvfmqodsHZ4ruQ/sTufAMDLRnUo4DKHBAxpCeoiR4l7Lem1xEuaGq3qyYKaTOpI1PBp6w5XUh_hAAX9YgElSJktidY-fuwdoYHzQ0N8FWaikc99HVGxfRaHD5w/xNx9Cb4C6jfUQtlbiJwCygGHEJ3p4hdtjhtwbj2bU1Y",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/6ptrxj45lEb88LTjblggjQ/z7r_d7BFwC7fTZ-z26JhkB0b22uSGfyXrOwXy20qsq5qXx3q2wjw02M6MpSXWSyX_QLBUL6VQZb1ObcrK2FUnE6y0bxQHiVG3dUR7khwMdo/CHQb8Ny4QkW3MuiPuhdOGcNNfZsB-xgqMX1S9A_nbcE",
             "filename": "20230725_Sarah_10.jpg",
             "size": 3330940,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/wU_u17_yUdnqwiNw2ChzFA/54CHCBMncRYmcJ4QpT5J-w1GMwRb_8JxVcuUQqdcfW4vruimJroOeiO44gw2ezu7n1i7et23y4FI3ItAzdiQZA/7Ww8JTqp2AO7L_LhLRrRAmG31yiUQZd4e2mktgfg0I8",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/QukB9l6RdHVDmjyXJYDQEg/rXneya8RShb6r8c2cb-BzXKjFsKOvKzuRQnfydBfM7QS82387ltKYugubikrMneb70s9cSqHtsbumeOP6G6vzA/KDM60gSqV2HlZl-lrrCiL5hIVjFQcaGG5CjVAhfUZNw",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/b3ecQ6FRNFVft-B3-nLH3Q/IUW9j2-2mIfbWWMegrY7U9rKydirRONHzzytBXAIW9jJ19IaCnmhhg2TsU8b1Rk8S3ZlYBkDZuALOyqYAAAmGg/XaItAR3J3AVGttbdm0SGASiYrzily6QtGnN47pciU-Q",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/bIkPEnMO_K3LGcki48GCyg/G7Q9pXlYWmxEyGnzMYXJAqQP22Et7lXuLL8Saj8GxKeRtMXrK5gdIyUwY2fxo1FuwF_8EHoKatvI7BWx4FhR3A/4NMkFaHob1x_znK6elnVpToSJ0tRWuemXnFd0XX2AJI",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/0UEOkt6f44W5uzYjclllTQ/OnM6NeU-xZR54IvE-6a39zFQLZCnLDZ31qbMYHpfHnN6MAwh7t6DoetM5CAC9Ux1ll-muVYsex3aqSvCVuV1xw/T86qYVnax_mGFGjdperUQ87CvGm6dp_uJLoJuXs-YuU",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/BA322sLHTrcFLJ7Lo_IzCQ/CMrehhvwwYU3qwTq-B7b49dRO3mEui_SYzUP-hSCeQ1r7871cZM9VJuPbvsYxH9UvywMof2NmwkTk6cqLK7b3Q/7dQCt9DMgdU1o0rVdaxtKG7AzY7AzpQI7zwLj5TrI8I",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "LinkedIn": "https://www.linkedin.com/in/sarahtayleur/",
-        "Role": "Research",
         "Specialisms": [
           "Co-produced evaluation",
           "Qualitative research design and analysis",
           "Trauma, gender and culturally informed approaches"
         ],
-        "Email": "sarah@interrobang.coop",
+        "Long biography": "Sarah is an experienced researcher and evaluator in the non-profit and public sector working across adult and youth organisations to deliver impactful research and evaluation activities. She is passionate about bringing trauma and culturally informed approaches to research and evaluation and ensuring those with lived experience are the heart of projects through using participatory and co-produced approaches.\n\nSarah is also a published academic and recently received a distinction in MSc Health and Social Care Management and Policy.\n\nShe has subject matter expertise in homelessness, mental health, violence against women and girls, drug & alcohol, multiple disadvantage, learning disabilities, youth sector, criminal justice system.",
+        "Former clients": [
+          "NHS",
+          "Rethink Mental Illness",
+          "London Borough of Lambeth"
+        ],
         "Pronouns": "she/her",
+        "LinkedIn": "https://www.linkedin.com/in/sarahtayleur/",
+        "Role": "Research",
         "Slug": "sarah-tayleur"
       }
     },
@@ -753,59 +754,59 @@
       "id": "recx9YQCjKSc3qSCq",
       "createdTime": "2023-07-15T18:20:47.000Z",
       "fields": {
-        "Long biography": "Amy is a product designer and user researcher with more than seven years of experience working with tech companies. She has a background in Computer Science, bringing a structured, technical mindset to her design and research processes.\n\nOver her career, Amy has worked with smaller start-ups as well as established medium-sized companies, bringing design methods to teams that have no prior experience with them. She works alongside non-designers, showing them the benefits of creating products with user-driven research methods and rapid prototype testing.\n\nShe is adept at creating comprehensive design systems, helping to create coherency and speed up delivery for both designers and developers; she knows that strong design systems makes consistent interfaces that make them easier for users to use.",
-        "Former clients": [
-          "Yoti",
-          "Cinapsis",
-          "University of Warwick"
-        ],
-        "Examples of work": [
-          "rec3yKCWdY5dLwEA0"
-        ],
         "Name": "Amy Rogers",
         "Disciplines": [
           "Design",
           "Technology"
         ],
+        "Email": "amy@interrobang.coop",
         "Photo": [
           {
             "id": "attLCYaLOK6AbCudR",
             "width": 3931,
             "height": 5897,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/De8sX2qkDWv9CsmCwNeIIA/QxNNOwglg6vUOvR1Ywrq0_VXIQKlUdBGvmSS14T7Mj4-6d9zHwzzNdP0ZgqWZFAT23MYZQAh9tXNfEq3GStiw_m5fAkwmm8O7qecMlrN4dE/_xBrq_AFMPoBNGqBW2H0X5EA0oLvUYmKPqV4m61fVAI",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/efMWxQJ2lsEp8bmPy4zqdw/9y1OFvGqPjWsvtQT_G1yozP7T_YJ-_D81G49uut0N6pjvLunO6r-i793UPBEv3BZMSXEEpJsxz1I8vjania1kw1i14QTtp9b7DGcksOdrIU/FUKLYjd9_tBxTAXJIBPkv3egIQoIrGIXaqtpD0EPTfw",
             "filename": "20230725_Amy_06.jpg",
             "size": 2595127,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/Eje_VpmcdN9ae82dYWFYig/djP2qMt8K92bhmzCFZSUi5B3w9FKaeZ2tbTVTQPNhmOTNiZ00TNF5Vj0cwdraxoBzJjzGRqLrhyNDKdsQu-TnQ/Ukkwv-SZhdDBNIJmQFcwSAw0cZbP75c5x7tRQlrdEZc",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/vCCswFciIiUAvUiDg2cniA/zur33a8axOzNQ-hHZIimRei-X0nbE8ebxlRXseGbY8xt2WS9pyeEksXr0eXAFkLymBSf5l1FqGWI40Q_jPZVbg/RhF-VFNFeyMfGyjCctZpDQ-sWTn114BGVUwZKIm5oEE",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/HE_NlceJ5YKMOlSC_UGrbA/hTuyuUprJqqMjTNalL1HWMlCgx9wkEVDctLQZTzcvEyTrBlOaW0YRyOHYrP-Kv71a2oTg-3c3oJ2dFbv1J5XIQ/CTqe9e9RWImC_V1LWtzLyCTJeZZQSUmzXaH7B4AuinI",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/tIDMZERfzLecl4npCMaKng/vcf9CuLbELWeoSeXD4AZjDZtu1VZTfRn6h9M16AYpGheIdKBVGPMAHSpwzbsNyiFSvjbD4okj7IasF00Eu4jbQ/yJdpBSk4IwA2VPoliefNagz4TzkqR_cvnlyGHlIp2sQ",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693706400000/9yR0nxK0Us7HfRRakdEr9Q/r02Uqm-JdZUiYvVOV_VGjdBsYRjY_AhaRGNV06VasRpzQwKlXwvsc-XDaoN3CJiFsjIEraTYWr1_e9d9ssN1ug/rbs49djAE1p5yfHpQ_7sH0iFXZd1oJDapHV43aLbJSk",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/rPYbm9rrDHH2592u_Lelew/rxEAS_NWIjYhVC9lJZcpWYOrv6QqyooxAgPAraO1G_vqQFc_IG45r0cy_kt-vut9hgrz3HYWvx-7ZszyEfDiLw/Dx-URdpZGMUEXCYKVg1lpT7YkG8Wmw4IB9PlJt8irGQ",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "LinkedIn": "https://www.linkedin.com/in/amymaude/",
-        "Role": "Technology",
         "Specialisms": [
           "Rapid prototyping",
           "Design systems",
           "Workshop facilitation",
           "Digital strategy"
         ],
-        "Email": "amy@interrobang.coop",
-        "Pronouns": "she/her",
+        "Long biography": "Amy is a product designer and user researcher with more than seven years of experience working with tech companies. She has a background in Computer Science, bringing a structured, technical mindset to her design and research processes.\n\nOver her career, Amy has worked with smaller start-ups as well as established medium-sized companies, bringing design methods to teams that have no prior experience with them. She works alongside non-designers, showing them the benefits of creating products with user-driven research methods and rapid prototype testing.\n\nShe is adept at creating comprehensive design systems, helping to create coherency and speed up delivery for both designers and developers; she knows that strong design systems makes consistent interfaces that make them easier for users to use.",
+        "Former clients": [
+          "Yoti",
+          "Cinapsis",
+          "University of Warwick"
+        ],
         "Short biography": "Amy is an ex-computer scientist and educator who has worked for small charities, startups like Yoti. She is a low- and no-code expert, specialising in tools like Notion, Airtable and Webflow.",
+        "Pronouns": "she/her",
+        "LinkedIn": "https://www.linkedin.com/in/amymaude/",
+        "Examples of work": [
+          "rec3yKCWdY5dLwEA0"
+        ],
+        "Role": "Technology",
         "Slug": "amy-rogers"
       }
     }
@@ -817,12 +818,12 @@
       "fields": {
         "Title": "Safeguarding",
         "Slug": "safeguarding",
-        "Show in footer menu?": true,
         "Content": "The purpose of this policy statement is: \n- to protect children and young people who receive Interrobang’s services from harm. This includes the children of adults who use our services \n- to provide staff, as well as children and young people and their families, with the overarching principles that guide our approach to child protection. \n- This policy applies to anyone working on behalf of Interrobang, including senior managers and the board of trustees, paid staff, volunteers, sessional workers, agency staff and students.\n## Legal framework\nThis policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England, Scotland, Wales & Northern Ireland. A summary of the key legislation and guidance is available from nspcc.org.uk/childprotection.\nWe recognise that: \n- the welfare of children, young people and vulnerable adults is paramount in all the work we do and in all the decisions we take \n- working in partnership with children, young people, their parents, carers and other agencies is essential in promoting young people’s welfare \n- all children, regardless of age, disability, gender reassignment, race, religion or belief, sex, or sexual orientation have an equal right to protection from all types of harm or abuse \n- some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues \n- extra safeguards may be needed to keep children who are additionally vulnerable safe from abuse.\nWe will seek to keep children and young people safe by: \n- DBS checking all of our research staff\n- valuing, listening to and respecting them \n- appointing a nominated child protection lead for children and young people (Chloe Coleman) and a deputy (Ashley O’Callaghan)\n- adopting child protection and safeguarding best practice through our policies, procedures and code of conduct for staff and volunteers \n- developing and implementing an effective online safety policy and related procedures \n- providing effective management for staff and volunteers through supervision, support, training and quality assurance measures so that all staff and volunteers know about and follow our policies, procedures and behaviour codes confidently and competently\n- recruiting and selecting staff and volunteers safely, ensuring all necessary checks are made\n- recording and storing and using information professionally and securely, in line with data protection legislation and guidance [more information about this is available from the Information Commissioner’s Office: ico.org.uk/fororganisations] \n- sharing information about safeguarding and good practice with children and their families via leaflets, posters, group work and one-to-one discussions \n- making sure that children, young people and their families know where to go for help if they have a concern  \n- using our safeguarding and child protection procedures to share concerns and relevant information with agencies who need to know, and involving children, young people, parents, families and carers appropriately \n- using our procedures to manage any allegations against staff and volunteers appropriately \n- creating and maintaining an anti-bullying environment and ensuring that we have a policy and procedure to help us deal effectively with any bullying that does arise \n- ensuring that we have effective complaints and whistleblowing measures in place \n- ensuring that we provide a safe physical environment for our children, young people, staff and volunteers, by applying health and safety measures in accordance with the law and regulatory guidance \n- building a safeguarding culture where staff and volunteers, children, young people and their families, treat each other with respect and are comfortable about sharing concerns.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/safeguarding"
-        }
+        },
+        "Show in footer menu?": true
       }
     },
     {
@@ -844,12 +845,12 @@
       "fields": {
         "Title": "Equality, diversity and inclusion",
         "Slug": "equality",
-        "Show in footer menu?": true,
         "Content": "Interrobang exists to make our communities more resilient to the interconnected, worsening crises of the coming decades.\nBig, systemic problems like climate, housing and social care criss-cross the public, private, charity and voluntary sectors.\nNo one organisation can fix them, and there is no single fix that works for every community.\nSo, we want to give people the confidence and skills to pursue their own ideas rather than enforce our own.\nA diverse and inclusive team is the most important single thing we can do to make this happen.\nWe’ve been vocal about these issues in [our newsletter](https://interrobanguk.substack.com).\nInterrobang has a 100% queer and non-male founding team, and our core membership of ten people is 90% non-male.\nThis page was last updated on 20 August 2023.\n## What we're already doing\nTo get here, we:\n- pay a fair rate to our team members that is well above the market average. When we last benchmarked our margin, it was half that of comparative businesses.\n- encourage people to work flexibly and remotely, around family and personal commitments\n- fairly compensate research participants for their time, and bring them onto our team as peer researchers whenever practical\n- use inclusive recruitment that doesn’t expect things like university degrees from applicants\n- became a [Living Wage](https://www.livingwage.org.uk/accredited-living-wage-employers) accredited employer\n- became a [Disability Confident](https://www.gov.uk/government/collections/disability-confident-campaign) employer\n## What we want to do\nAs we grow, we also want to:\n- offer more training, coaching and mentoring on a “pay what you can” basis, with sponsored places for people of marginalised groups\n- offer apprenticeships in junior roles on our teams\n- conduct equality and diversity surveys twice annually as our membership grows so we can more precisely track how we're doing\n- form a [member circle](https://www.sociocracyforall.org/sociocracy/) with particular interest in and responsibility for equality, diversity and inclusion issues.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/equality"
-        }
+        },
+        "Show in footer menu?": true
       }
     },
     {
@@ -858,12 +859,12 @@
       "fields": {
         "Title": "Our standard terms",
         "Slug": "terms",
-        "Show in footer menu?": true,
         "Content": "If you hire us and we don't provide a specific agreement for you to sign, then these terms are the ones that will apply:\n## Regarding digital products and services\nWe’ll create responsive designs which adapt to the capabilities of many devices and screen sizes. To give you a better understanding of our designs, we’ll use Figma or a similar design tool. Sometimes, we’ll use visuals to indicate a creative direction (colour, texture and typography.)\nYou’ll have plenty of opportunities to review our work and provide feedback. We’ll share a Google Drive folder, Github repository or a development site with you. We’ll have regular, possibly daily, contact by email, phone, Slack, or Google Meet.\nIf, at any stage, you change your mind about our deliverables or aren’t happy with our work, you’ll pay us in full for the time we’ve spent working with you. Then, we agree to terminate this contract.\n### Written content\nUnless agreed separately, we’re not responsible for uploading text or images to your website or creating every page. We provide professional copywriting and editing services, so if you’d like us to create, edit, or input content for you, we’ll provide a separate estimate.\n### Graphics and photographs\nYou will supply graphic files in an editable, vector digital format including Adobe Illustrator (.ai) or .svg. You will provide high resolution digital photographs. If your design requires stock images, these assets—and the time we spend selecting them—aren’t included in our price. We can provide a separate estimate for stock images and research.\n### Changes and revisions\nWe won’t limit your ability to change your mind. Our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve. If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.\n### Testing\nYou understand that browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. You agree it does mean ensuring someone’s experience of a design should be appropriate to the capabilities of their browser or device.\nWe will test our work only in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), and Mozilla (Firefox.) We won’t test in older versions unless agreed separately. If you need an enhanced design for an older browser or specific device, we will provide a separate estimate for that. We will test your design using the latest versions of:\n- iOS: Safari on iPhone and iPad\n- Android: Google Chrome\nWe won’t test specific Android devices, or other mobile browsers unless we agreed separately. If you need us to test using alternative devices, we will provide a separate estimate.\n### Search engine optimisation (SEO)\nYou understand we don’t guarantee improvements to your search engine ranking, but that the websites we develop are accessible to search engines.\n### Hosting\nWe’re not a hosting company—so we don’t offer support for website hosting, email, or other technical services. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t already have hosting, we’ll recommend a provider and ask you to set up an account.\n## Liability\nWe carry out work in accordance with good industry practice and at the standard expected from qualified people with relevant experience.\nThat said, we can’t guarantee our work will be free from errors. We won’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them.\nIn return, your liability to us will be limited only to the price stated in this contract. You won’t be liable to us or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we’ve advised you of them.\nFinally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.\n## Intellectual property rights\nYou guarantee the written content you provide is original, or that you have the rights to use it.\nYou also guarantee you have licences to use images which are owned by photographers or have been purchased from stock libraries.\nYou agree to protect us from any claim by owners of copyrighted material. When our work requires licensed fonts or images from stock libraries, we’ll ask you to purchase them so you’ll be licensed to use them.\nIn return, we guarantee our work is original. When you’ve paid us in full—and if this contract hasn’t been terminated—we’ll assign intellectual property rights to you as follows:\nYou’ll own the graphic files and any other artefacts we produce during your project. We’ll give you permission to use these files for any purpose.\n## Working in the open\nWe reserve the right to display any aspect of our work as long as doing so doesn’t breach any separate confidentiality agreement. This may include sketches, work-in-progress designs and the finished project on our newsletter, website, in magazine articles, or in books.\nWe may want to do this while our project is still ongoing. We’ll always discuss this with you first to make sure that we protect your confidentiality.\n## Payment schedule\nYou understand how important it is for a small business that you pay your bills promptly. We’re also sure you’ll want to stay friends, so you agree to stick tightly to the following payment schedule:\nWe’ll invoice you every month, in arrears for all hours worked that month. Our payment terms are 30 days from the date of invoice. We issue invoices electronically and our bank account details will be included. Our invoices will be in GBP. If your currency is different, you agree your payments will be the same value.\nYou agree to pay all charges associated with international transfers of funds. We reserve the right to charge you interest on all overdue debts.\n## Small print\nNeither of us can transfer this contract to anyone else without the other’s permission.\nWe both agree to adhere to laws and regulations in relation to our activities under this contract and not to cause the other to breach any relevant laws or regulations.\nThis contract stays in place and need not be renewed. Although its language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\nAlthough the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n## To sum up\nYou have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project. You’ll do this when we ask and provide the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule earlier in this contract.\nWe have the experience and ability to deliver everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll try to meet every deadline that’s set and on top of that we’ll maintain the confidentiality of everything you give us.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/terms"
-        }
+        },
+        "Show in footer menu?": true
       }
     },
     {
@@ -872,12 +873,12 @@
       "fields": {
         "Title": "How we use data",
         "Slug": "privacy",
-        "Show in footer menu?": true,
         "Content": "Interrobang is a not-for-profit cooperative, registered as a limited company in England and Wales. We run this website and any subdomains.\nWe are [Cyber Essentials](https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/) certified.\nThis page was last updated on 1 July 2023.\n## Our website\nWe don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.\n## Our newsletter and social media\nOur newsletter is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).\nWe sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.\nIf you’d like content about you removed from our newsletter or social media, contact **data@interrobang.coop**.\n## Research participants\nOur work involves researching with vulnerable people about difficult topics. Part of how we protect them is treating their data with care.\nWe collect the following information from research participants:\n- Full name\n- Phone number\n- Email address\n- Address\n### Consent forms\n- Full name\n- Signature\n### Research material\n- Interview recordings (audio or video)\n- Quotes and transcripts\n- Notes\n- Photos\n### Why we collect this data\nWe collect participant information to identify participants, and arrange sessions and follow-ups.\nAll research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.\nWe collect research material to reference during project work.\n### How long we keep research data\nParticipant information is deleted at the end of the project.\nWe scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for six years. All notes and digital files are destroyed or deleted two years after the research session. We delete any personal information provided to us from the research recruiter when the project has finished.\n### Where research data is processed and stored\nResearch material is separated from any identifiable information, such as consent forms, while we are working with it.\nWe use Google Drive to track participants with no identifying information (eg. 'participant 1'), unless consent has been given. Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by members involved in the research.\nWe may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.\nWe may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.\nSometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.\n### Opt-out of collection\nParticipants can withdraw their information from a project at any time. To do this, contact **data@interrobang.coop**.\n## Software we run for clients\nSometimes we'll build and run software on behalf of our clients.\nWe host these on:\n- [Digital Ocean](https://www.digitalocean.com) ([privacy policy](https://www.digitalocean.com/legal/privacy-policy))\n- [Netlify](https://www.netlify.com/privacy/) ([privacy policy](https://www.netlify.com/privacy/))\nEach product we run will have its own privacy policy detailing exactly what it stores, how and why.\n## Clients and partners\nDuring the course of our work, we'll collect information about client representatives, partners and potential new members, including:\n- Name\n- Company\n- Phone number\n- Job title and employer\n- Company address\n- Working hours and flexible working arrangements\n- Testimonials\n- Day rates\nAt the moment, we don't collect any [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/special-category-data/) during our recruitment process for new members.\n### Third party services\nWe use several third-party services to do our work, which involves processing this data:\n- [Google Docs](https://docs.google.com) ([privacy policy](https://support.google.com/docs/answer/10381817?hl=en))\n- [Figma](https://www.figma.com) ([privacy policy](https://www.figma.com/privacy/))\n- [Trello](https://trello.com) ([privacy policy](https://www.atlassian.com/legal/privacy-policy))\n- [Slack](https://slack.com) ([privacy policy](https://slack.com/intl/en-gb/trust/privacy/privacy-policy))\n## Things we don’t do\nWe don't:\n- sell or buy data from third parties, including mailing lists\n- do telephone or postal marketing\n## How we keep data safe\nWe carefully choose our tools and make sure they have security features appropriate to what we're using them for. We only use tools that:\n- default to secure (HTTPS) connections\n- allow multi-factor authentication\n- work with our password managers, so we can use strong, unique passwords by default\n## Data breaches\nIf we ever have a data breach, we'll tell the Information Commissioner’s Office according to [their guidance](https://ico.org.uk/for-organisations-2/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/).\n## Exemptions\nThere are exemptions to data protection regulations that might force us to share data about you, including requests by law enforcement. The ICO has a [full list](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/exemptions/a-guide-to-the-data-protection-exemptions/) of these exemptions.\n## Reviewing this policy\nInterrobang is growing quickly, so we frequently use new tools and services to do our work.\nWe'll review and update this policy at least every six months.\n## Your rights and getting in touch\nThe General Data Protection Regulation gives EU citizens the [following rights](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/):\n- right to be informed\n- right of access\n- right to rectification\n- right to erasure\n- right to restrict processing\n- right to data portability\n- right to object\n- rights related to automated decision-making, including profiling\nTo exercise any of these rights, let us know at **data@interrobang.coop**. We will respond to all requests within 28 days of receiving them.\nOur postal address is Interrobang, c/o Birch, 126 Addington Rd, South Croydon, CR2 8YA.\nIf you aren’t satisfied by our response, you can contact the Information Commissioner’s Office.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/privacy"
-        }
+        },
+        "Show in footer menu?": true
       }
     }
   ]

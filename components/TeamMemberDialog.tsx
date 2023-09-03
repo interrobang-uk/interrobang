@@ -1,11 +1,12 @@
 import { Dialog } from "@reach/dialog"
 import Link from "next/link"
+import { AirtableRecord, TeamMemberFields } from "../airtable.types"
 
 const TeamMemberDialog = ({
   member,
   onDismiss,
 }: {
-  member
+  member: AirtableRecord<TeamMemberFields>
   onDismiss: () => void
 }) => {
   return (
@@ -46,7 +47,7 @@ const TeamMemberDialog = ({
       <div className="team-dialog__content">
         <aside>
           <div className="team-dialog__portrait">
-            <img src={member.fields.Photo?.[0].thumbnails.large.url} alt="" />
+            <img src={`/team/${member.id}.jpg`} alt="" />
             <span> {member.fields.Pronouns}</span>
           </div>
 

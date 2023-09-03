@@ -30,7 +30,7 @@ const TeamPage = ({
               id={member.fields?.Slug}
               className="team-list__member"
             >
-              <img src={member.fields.Photo?.[0].thumbnails?.large?.url} />
+              <img src={`/team/${member.id}.jpg`} />
 
               <button onClick={() => setSelected(member.fields?.Slug)}>
                 <h2>{member.fields?.Name}</h2>

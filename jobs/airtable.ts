@@ -13,6 +13,20 @@ const run = async (): Promise<void> => {
     await getPages(),
   ])
 
+  // TODO download pictures
+  for (let i = 0; i < data[1].length; i++) {
+    const member = data[1][i]
+
+    const downloadUrl = member.fields.Photo?.[0].thumbnails.large.url
+    const filename = member.fields.Photo?.[0].filename
+    const res = await fetch(downloadUrl)
+    const blob = await res.blob()
+
+    let buffer = await blob.arrayBuffer()
+    buffer = Buffer.from(buffer)
+    fs.createWriteStream(`public/team/${member.id}.jpg`).write(buffer)
+  }
+
   fs.writeFileSync(
     "data/airtable-content.json",
     JSON.stringify(
