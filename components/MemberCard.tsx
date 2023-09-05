@@ -3,7 +3,7 @@ import { AirtableRecord, TeamMemberFields } from "../airtable.types"
 
 const MemberCard = (member: AirtableRecord<TeamMemberFields>) => (
   <div className="member-card">
-    <img src={member.fields.Photo[0].thumbnails.large.url} alt="" />
+    <img src={`/team/${member.id}.jpg`} alt="" />
     <Link href={`/team#${member.fields.Slug}`}>{member.fields.Name}</Link>
     <em>{member.fields.Role}</em>
 
