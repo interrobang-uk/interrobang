@@ -22,6 +22,8 @@
     display: grid;
     gap: 0.5rem;
     position: relative;
+    justify-content: flex-start;
+    align-items: flex-start;
 
     img {
       width: 100%;
@@ -30,6 +32,8 @@
     }
 
     button {
+      display: inline-block;
+      margin-top: 1rem;
       background: none;
       text-align: left;
       border: none;
@@ -42,11 +46,31 @@
 
       &:focus,
       &:active {
+        color: $white;
         outline: none;
-        background: none;
+
+        &~p,
+        &~p a {
+          color: $white;
+
+        }
+
+        &:before {
+          content: "";
+          display: block;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: $black;
+          pointer-events: none;
+          z-index: -1;
+          outline: 3px solid $black;
+        }
       }
 
-      &:before {
+      &:after {
         content: "";
         display: block;
         position: absolute;
@@ -66,14 +90,12 @@
       text-transform: uppercase;
       font-weight: 900;
       font-size: 1.5rem;
-      margin-top: 1rem;
       word-wrap: anywhere;
     }
 
     p {
       font-size: 1.1rem;
       line-height: 1.5;
-
       word-wrap: anywhere;
     }
 

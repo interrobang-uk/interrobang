@@ -1,6 +1,7 @@
 import { Dialog } from "@reach/dialog"
 import Link from "next/link"
 import { AirtableRecord, TeamMemberFields } from "../airtable.types"
+import airtableData from "../data/airtable-content.json"
 
 const TeamMemberDialog = ({
   member,
@@ -96,6 +97,59 @@ const TeamMemberDialog = ({
                         {item}
                       </li>
                     ))}
+                  </ul>
+                </dd>
+              </div>
+            )}
+
+            {member.fields?.["Examples of work"]?.length > 0 && (
+              <div>
+                <dt>Projects</dt>
+                <dd>
+                  <ul className="project-card-list">
+                    {member.fields?.["Examples of work"]?.map(id => {
+                      const caseStudy = airtableData.caseStudies.find(
+                        cs => cs.id === id
+                      )
+
+                      return (
+                        <li key={id} className="project-card">
+                          <Link href={`/work#${caseStudy.fields.Slug}`}>
+                            <strong> {caseStudy.fields.Project}</strong>
+                            <span>{caseStudy.fields.Client}</span>
+
+                            <svg
+                              width="16"
+                              height="16"
+                              viewBox="0 0 16 16"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <rect
+                                x="16"
+                                width="10"
+                                height="2"
+                                transform="rotate(90 16 0)"
+                                fill="#212121"
+                              />
+                              <rect
+                                x="6"
+                                width="10"
+                                height="2"
+                                fill="#212121"
+                              />
+                              <rect
+                                y="14.5"
+                                width="20"
+                                height="2"
+                                transform="rotate(-45 0 14.5)"
+                                fill="#212121"
+                              />
+                            </svg>
+                          </Link>
+                        </li>
+                      )
+                    })}
                   </ul>
                 </dd>
               </div>
