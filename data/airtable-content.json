@@ -21,7 +21,7 @@
         "Client type": "Central government",
         "Show in list": true,
         "Longer description": "We helped NHS Digital understand the state of the urgent and emergency services within the health system and find opportunities for digital to improve patient experience and service performance.\n\nOver six months, we spoke to over 120 people via a mix of in-depth interviews, on-the-spot interviews in hospitals, GP surgeries and workshops.\n\nWe uncovered insights about the emotional care and agency patients require beyond their clinical needs, as well as how gaps in service delivery and efficiency impact on emotional, psychological needs in ways that ultimately affect overall service performance.\nThese insights informed rich user personas, user needs and a proposed map of what a more intuitive, user-friendly service system could look like.\n\n\n",
-        "Icon": "rapid",
+        "Icon": "medical",
         "Slug": "nhs-digital--improving-urgent-and-emergency-care",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
@@ -174,7 +174,7 @@
         ],
         "Client type": "Local government",
         "Show in list": true,
-        "Longer description": "We helped Torfaen County Council make their digital inclusion services in the Gwent area more effective. We did this by focusing on underserved groups of people who didn’t think these services were for them.\n\nWe started by running assumption mapping and expectation-setting sessions with our stakeholders, and wrote hypotheses based on our previous work.\n\nOur research plan was deliberately written to prove (and disprove) those hypotheses as quickly as possible, so we could focus on the most pressing gaps in our knowledge.\n\nThere was a strong place-based component to our work. Because digitally excluded groups rely on physical touchpoints, we made geographic maps of access points like libraries, compiling KPIs for each one as well as visiting several in person.\nWe made user personas that reflected the deep place-based differences in behaviour and attitudes across the region. This way, Torfaen can make informed decisions about the service offering.\n",
+        "Longer description": "We helped Torfaen County Council make their digital inclusion services in the Gwent area more effective. We did this by focusing on underserved groups of people who didn’t think these services were for them.\n\nWe started by running assumption mapping and expectation-setting sessions with our stakeholders, and wrote hypotheses based on our previous work.\n\nOur research plan was deliberately written to prove (and disprove) those hypotheses as quickly as possible, so we could focus on the most pressing gaps in our knowledge.\n\nThere was a strong place-based component to our work. Because digitally excluded groups rely on physical touchpoints, we made geographic maps of access points like libraries, compiling KPIs for each one as well as visiting several in person.\n\nWe made user personas that reflected the deep place-based differences in behaviour and attitudes across the region. This way, Torfaen can make informed decisions about the service offering.\n",
         "Icon": "sense",
         "Slug": "torfaen-council-digital-inclusion",
         "Created By": {
@@ -290,7 +290,7 @@
         "Client type": "Central government",
         "Show in list": true,
         "Longer description": "We helped DWP make Universal Credit work better for self-employed people.\nSelf-employed claimants were frequently making mistakes in their monthly journal reports, especially on expenses, leading to sanctions and delays in getting their money.\n\nWe used a mix of qualitative and quantitative research methods: usability testing the end-to-end service, shadowed in-person meetings between work coaches and claimants, and reviewed the content of web pages along the user journey. We collated these findings alongside web analytics data.\n\nWe rapidly prototyped new, accessible and inclusive content over three iterative cycles, improving after each round of testing.\n\nWe proved statistically that users were making fewer mistakes, saving DWP money and meaning more people got an accurate UC payment on time and without penalty.\n",
-        "Icon": "divide",
+        "Icon": "outlier",
         "Slug": "dwp-making-universal-credit-work-for-self-employed-people",
         "Created By": {
           "id": "usrCyo26VZP1ufKa2",
