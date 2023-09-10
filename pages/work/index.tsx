@@ -31,7 +31,7 @@ const WorkPage = ({
     <>
       <PageHeader
         className="page-header--full-width"
-        intro="Some of our favourite projects"
+        intro="Some of our team's favourite projects"
       >
         Our work
       </PageHeader>
