@@ -1,5 +1,6 @@
 import Link from "next/link"
-import { useState } from "react"
+import { useRouter } from "next/router"
+import { useEffect, useState } from "react"
 
 const Links = () => (
   <>
@@ -14,6 +15,9 @@ const Links = () => (
 
 const SiteHeader = () => {
   const [open, setOpen] = useState<boolean>(false)
+
+  const { asPath } = useRouter()
+  useEffect(() => setOpen(false), [asPath])
 
   return (
     <>
