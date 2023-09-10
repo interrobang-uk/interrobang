@@ -14,7 +14,7 @@
         ],
         "Client": "NHS Digital ",
         "Summary": "Interrobang colleagues led the research on NHS Digital’s project to understand the state of the urgent and emergency services within the health system and explore opportunities for digital to improve patient experience and service performance.",
-        "Project": "Urgent and emergency care",
+        "Project": "Improving urgent and emergency care",
         "Policy areas": [
           "Health"
         ],
@@ -22,12 +22,13 @@
         "Show in list": true,
         "Longer description": "We helped NHS Digital understand the state of the urgent and emergency services within the health system and find opportunities for digital to improve patient experience and service performance.\n\nOver six months, we spoke to over 120 people via a mix of in-depth interviews, on-the-spot interviews in hospitals, GP surgeries and workshops.\n\nWe uncovered insights about the emotional care and agency patients require beyond their clinical needs, as well as how gaps in service delivery and efficiency impact on emotional, psychological needs in ways that ultimately affect overall service performance.\nThese insights informed rich user personas, user needs and a proposed map of what a more intuitive, user-friendly service system could look like.\n\n\n",
         "Icon": "rapid",
-        "Slug": "nhs-digital--urgent-and-emergency-care",
+        "Slug": "nhs-digital--improving-urgent-and-emergency-care",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/nhs-digital--improving-urgent-and-emergency-care"
       }
     },
     {
@@ -55,7 +56,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/samaritans-self-help-and-webchat-for-samaritans"
       }
     },
     {
@@ -84,7 +86,8 @@
           "id": "usrROSHARE0000000",
           "email": "anonymous@noreply.airtable.com",
           "name": "Anonymous"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/learning-with-parents-designing-a-platform-to-help-children-learn-at-home"
       }
     },
     {
@@ -102,7 +105,7 @@
         "Client": "Now Foster",
         "Summary": "We built a new website and digital “onboarding\" journey for Now Foster to boost their numbers of interested foster carers. ",
         "Read more": "https://interrobanguk.substack.com/p/re-imagining-foster-care-with-now",
-        "Project": "A new approach to foster care",
+        "Project": "A child-centred approach to foster care",
         "Policy areas": [
           "Social care"
         ],
@@ -110,12 +113,13 @@
         "Show in list": true,
         "Longer description": "Now Foster, a social enterprise start-up aiming to provide a community-centric alternative to expensive adoption agencies, wanted to boost their numbers of interested foster carers by broadening the appeal of fostering to a wider profile of people.\n\nWith this in mind, we designed and built for them a website and digital “onboarding journey” for new foster carers to explore their options and register interest.\n\nThis work was strongly hypothesis-led, as colleagues had worked on similar projects before for Buckinghamshire Council, on both adoption and fostering. We quickly discovered transferable knowledge, such as:\n- prospective foster carers thinking the criteria was more stringent than it actually was: only “angels” are accepted\n- more people are eligible for fostering than they think\n- making it possible to book an initial conversation online substantially boosted interest and, eventually, full applications\n\nNow Foster is now piloting the new journey with Newham Council, in East London.\n\n\n",
         "Icon": "support",
-        "Slug": "now-foster-a-new-approach-to-foster-care",
+        "Slug": "now-foster-a-child-centred-approach-to-foster-care",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/now-foster-a-child-centred-approach-to-foster-care"
       }
     },
     {
@@ -144,7 +148,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/hackney-council--redesign-of-housing-services-"
       }
     },
     {
@@ -176,7 +181,8 @@
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/torfaen-council-digital-inclusion"
       }
     },
     {
@@ -200,7 +206,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/university-of-sheffield-innovation-workshops-"
       }
     },
     {
@@ -215,7 +222,7 @@
         "Client": "Greater London Authority",
         "Summary": "We collaborated with the CCSaR to research, design, and implement a theory of change that strengthened their services and revamped their website.",
         "Read more": "https://interrobanguk.substack.com/p/81473df4-cf17-47dc-8342-7cc5eac8f106",
-        "Project": "Cultural and community spaces at risk",
+        "Project": "Helping cultural and community spaces at risk",
         "Policy areas": [
           "Planning"
         ],
@@ -223,12 +230,13 @@
         "Show in list": true,
         "Longer description": "The Community and Culture Spaces at Risk office of the GLA works with communities across London that are at risk of losing their spaces, giving expert advice and tailored support to a huge breadth of groups.\n\nWe worked to understand the impact of their work, how communities and cultures approach the team and what support they need. We ran one-to-one qualitative research interviews with members of resident-led communities who had approached the CCSaR for assistance via a range of means.  We were flexible with our approach, timings and technical set up; recognising that volunteers and community organisers have considerable pressures and differing technical abilities. We met organisers where they were; offering in-person evening and weekend sessions, as well as over video calls. \n\nWe established the overarching needs of the communities, understanding that they needed to be able to navigate through available resources and apply for tailored support quickly and easily. \n\n\n",
         "Icon": "platforms",
-        "Slug": "greater-london-authority-cultural-and-community-spaces-at-risk",
+        "Slug": "greater-london-authority-helping-cultural-and-community-spaces-at-risk",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/greater-london-authority-helping-cultural-and-community-spaces-at-risk"
       }
     },
     {
@@ -253,7 +261,8 @@
           "id": "usrROSHARE0000000",
           "email": "anonymous@noreply.airtable.com",
           "name": "Anonymous"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/lambeth-southwark-lewisham-fulfilling-lives-evaluation"
       }
     },
     {
@@ -287,7 +296,8 @@
           "id": "usrCyo26VZP1ufKa2",
           "email": "jaye.hackett@gmail.com",
           "name": "Jaye H"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/dwp-making-universal-credit-work-for-self-employed-people"
       }
     },
     {
@@ -318,7 +328,8 @@
           "id": "usrCyo26VZP1ufKa2",
           "email": "jaye.hackett@gmail.com",
           "name": "Jaye H"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/nhs-&-digital-social-care-digital-social-care-records"
       }
     },
     {
@@ -351,7 +362,8 @@
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/dwp-getting-universal-credit-without-a-fixed-address"
       }
     },
     {
@@ -382,7 +394,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/nhs-making-the-coronavirus-contact-tracing-app"
       }
     },
     {
@@ -407,7 +420,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/dorset-council--council-family-hubs"
       }
     },
     {
@@ -433,7 +447,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/york-st-john-communities-centre-york-mental-health-hub"
       }
     },
     {
@@ -462,7 +477,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/hackney-council---healthy-living-in-hackney"
       }
     },
     {
@@ -488,7 +504,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/chiaro-technology--elvie-stride"
       }
     },
     {
@@ -516,7 +533,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/british-film-institute-british-film-institute's-new-website-"
       }
     },
     {
@@ -546,7 +564,8 @@
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/home-office--management-information-reporting-at-the-home-office-"
       }
     },
     {
@@ -570,7 +589,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/city-of-london-corporation-voter-registration-campaign-"
       }
     },
     {
@@ -599,7 +619,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/hackney-council-hackney-works-employability-services"
       }
     },
     {
@@ -630,7 +651,8 @@
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/hmcts-multimedia-evidence-viewing-in-crown-courts-and-jury-rooms"
       }
     },
     {
@@ -659,7 +681,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/local-government-association--lga’s-childhood-obesity-trailblazer-programme"
       }
     },
     {
@@ -676,7 +699,7 @@
         ],
         "Client": "Empowering Local",
         "Summary": "We worked with Empowering Local to understand how funders can best support place-based approaches to funding youth provision.",
-        "Project": "Place-based youth funding",
+        "Project": "Fixing place-based youth funding",
         "Policy areas": [
           "Financial"
         ],
@@ -684,12 +707,13 @@
         "Show in list": true,
         "Longer description": "Through this project we worked with Empowering Local, a group of local, regional, and national funders and infrastructure organisations, committed to supporting place-based funding of the VCSE sector that meets the needs of children, young people, and communities, to understand how funders can best support place-based approaches to funding youth provision.\n\nThrough our qualitative research efforts, we engaged directly with community members, listening to their stories, experiences, and aspirations. We conducted one-on-one interviews and facilitated group discussions, ensuring that every voice was heard and valued. This inclusive approach allowed us to gain deep insights into the pressing issues faced by the community, as well as identify areas where Empowering Local’s interventions had the greatest impact. \n\nAnother critical aspect of our work was building community resilience. We recognised that communities are stronger when they come together, supporting and uplifting one another. Through our initiatives, we fostered a sense of belonging, encouraged community collaboration, and provided resources that help communities thrive in the face of challenges.\n\nWe provided recommendations in three main areas; laying the groundwork, design and delivery and sustainability and embedding. We concluded with 8 main calls to action to improve the effectiveness of place-based funding in our recommendations.\n\n\n",
         "Icon": "overlap",
-        "Slug": "empowering-local-place-based-youth-funding",
+        "Slug": "empowering-local-fixing-place-based-youth-funding",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/empowering-local-fixing-place-based-youth-funding"
       }
     },
     {
@@ -717,7 +741,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/gds--strategy-and-vision-for-gds"
       }
     },
     {
@@ -747,7 +772,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/buckinghamshire-council-family-information-service"
       }
     },
     {
@@ -772,7 +798,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/bloomberg-philanthropies-bloomberg-philanthropies’-mayors-challenge-"
       }
     },
     {
@@ -801,7 +828,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/buckinghamshire-council--corporate-website-for-buckinghamshire-council-"
       }
     },
     {
@@ -827,7 +855,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/dcms-full-fibre-research-and-evaluation-for-dcms-"
       }
     },
     {
@@ -845,7 +874,7 @@
         "Client": "Samaritans ",
         "Summary": "We helped Samaritans completely overhaul the recruitment journey for new volunteers, to boost volunteer numbers and help the Samaritans be “there for everyone”.",
         "Read more": "https://samaritans-digital.github.io/",
-        "Project": "Volunteer recruitment\n",
+        "Project": "Hitting volunteer recruitment targets\n",
         "Policy areas": [
           "Social care"
         ],
@@ -853,12 +882,13 @@
         "Show in list": true,
         "Longer description": "Working with Samaritans, we overhauled their recruitment journey and help boost volunteer numbers. This used to involve getting in touch with a branch, either in person or over the phone. \n\nWe made a digital-first journey that met modern expectations: consolidating weeks of manual back-and-forth into a single journey where prospective recruits were introduced to what it’s like being a Samaritans volunteer, reflected on whether it’s right for them, gave their personal details and booked a slot for an initial interview.\n\nThe new recruitment experience was massively successful: it single-handedly led to an explosion in interest from new volunteers, as well as 30% better retention through the process.\n\n\n",
         "Icon": "target",
-        "Slug": "samaritans--volunteer-recruitment",
+        "Slug": "samaritans--hitting-volunteer-recruitment-targets",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/samaritans--hitting-volunteer-recruitment-targets"
       }
     },
     {
@@ -881,7 +911,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/southwark-labour-local-election-campaign"
       }
     },
     {
@@ -897,7 +928,7 @@
         ],
         "Client": "Lost Dot",
         "Summary": "We helped map out Lost Dot's digital needs and built tools to satisfy their requirements.",
-        "Project": "A new website and applicant platform",
+        "Project": "Making a new website and race management platform",
         "Policy areas": [
           "Health"
         ],
@@ -905,12 +936,13 @@
         "Show in list": true,
         "Longer description": "A small non-profit organising trans-continental cycling races needed help overhauling their digital tools.\n\nThey have a complex set of needs: payments, GPS tracking, real-time leaderboards, etc.\n\nIn a month, we delivered an MVP of both a website and bespoke CRM that handles applications from wannabe racers.\n",
         "Icon": "bike",
-        "Slug": "lost-dot-a-new-website-and-applicant-platform",
+        "Slug": "lost-dot-making-a-new-website-and-race-management-platform",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/lost-dot-making-a-new-website-and-race-management-platform"
       }
     },
     {
@@ -938,7 +970,8 @@
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/parkinsons-uk-designing-a-holistic-support-service-for-newly-diagnosed-people"
       }
     },
     {
@@ -972,7 +1005,8 @@
           "id": "usrROSHARE0000000",
           "email": "anonymous@noreply.airtable.com",
           "name": "Anonymous"
-        }
+        },
+        "Public URL": "https://interrobang.coop/work/hackney-council-modern-tools-for-social-care"
       }
     }
   ],
@@ -1003,23 +1037,23 @@
             "id": "attod7a8UfEVxp9oO",
             "width": 3980,
             "height": 5970,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/I2BI3UqknHTQYSJBKunmmw/hH14aRZazk7lYSgITIDsVmbTjJtqo1QE4OurFS622z-LJ_YB6hY0KUss0HaT2qi0PGKrSv74fGReUNvNjZnzZ2pHh7YcmGJ9N25qcoB1EKE/_nlAYqx7lpEcDEWrWMjWvYgvjbaqkxpxWb5ohv6VkII",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/J5hUC7ogKQq5WnlVsYtdwA/fpt84DwRL6MyCMYeY5H2Ib7D16Gs4BnNmk4lgElZt7-WCSTVJDgXKkkWQrlTCnFTsEAt5UeHVQLHx4quj6kj8rBa10xK5NYZCePHKfvOPm4/UKqjsKecvkd-IkNpwSyFvamB8tL0yiekUn0FQtc8U2o",
             "filename": "20230725_Emma_03.jpg",
             "size": 3592374,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/uBn7awNc37x_ICV4OpMs0g/F7B3kWst6PqNOlERSXnGwgVzBq6ujEk4lt_uqyItMfRXbyTyqKw_1OtX0GzgFxinR_DojBFIvSekxbmqedDqlQ/Szoek0L2c6xGV0-28vKGNXoel0ZbdWC9Z2skc3ReiTw",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/TxhM5mMBUwl3x6LTiQofow/UtQmphx0zIm4hZtchjZUkdxSIYkLFCF80YymtLPk3_1_jY4a0d99wvlN61kVbzFwjik5Qs3EpuzhqXMjDrFS7w/4kS_noMHGree1LIX6EOo0kOi785TvQhuJgX5mmcSL6U",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Str8W0rXHtcgK6lGGb6mIA/J1D5di0mk_8cXyyc54geFukP1DJRwl7mVNJvX3pVKSu4oz5O2sNNkh6pFwQw-y1XPsGIn0La4Qzm8VYuCnSNPA/ssUdTDm884ViYyO1TIAdkGWItF1RruVUkmkSvMLzo7E",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/c3_VUCSsA7KmrsyOwCdVKw/kH1QR4RBKJyTYG79sF8My0dqMasdwhyEfWtSWPJM7oadJUsc39UZLpcgH4krGkuf5qMOqLS8aX4o8Q_SrX9FiA/U9X8OXNNEE0wd1yXIPvjwr7cwDH1rPwatRwis8MGvVg",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Ac9esTk7YPWlYSDegeU5sg/ovT-McjB31fkXachjzoPBL8JbjacPvav8KO-z_1AWQ-H2Wy-eEVa-N00JDmDphF3XRN7_mGZihm0exG0NkBXwA/HBUPE00oGKAqxN5Uy99JmfP8S8BmSsCDfE-EGDBMcCw",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/jN9Ex57mzqhV3rKn9kj2Qg/iExQRPdgDvdCwS1qADxL8Ed_gRDbjeAG-_baW7hKRbrBwE4qv_YFik9EbLk1_V6ZSDQc4YGnPgx3A5IQaBijlQ/LId00UzOyEmWybBxkcYXFspcza3LyJWL49LxZ2qB3yQ",
                 "width": 3000,
                 "height": 3000
               }
@@ -1037,7 +1071,8 @@
         "Email": "emma@interrobang.coop",
         "Pronouns": "she/her",
         "Short biography": "Emma has a decade’s experience researching health and social care and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change.\n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services.",
-        "Slug": "emma-diamond"
+        "Slug": "emma-diamond",
+        "Public URL": "https://interrobang.coop/team#emma-diamond"
       }
     },
     {
@@ -1055,23 +1090,23 @@
             "id": "attv9nzduOyPwysfE",
             "width": 2733,
             "height": 3502,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/vb78yIH_p3l87pvxPBoqPg/3zl52OnKN6H7BKVql6E-Jv_bpA5gsm3DmKZGMFyjbjUk7M38w0Ad2W8OnGtDXp2QNYuSKFbfhEV0UaNxElWfxm05MhdIUFvrkf8n33M80po/E5OG4hb0zF0eHoPt5EpOM2c0wcbpxgwdd3u4mPdd4VU",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/C6eq-h2Wllc-SEzcbPDZ4g/jhCo_8jxhqvDNArX2u-lfCT9r9RETuaFNGF7pO4TUX4DPMksJLBY7m6mGTYqh7NURtuZmm_3yJ5iCDVwussymC7lontAVisqsK_JqEj2FJA/7DW5JcOCFB8oitAr1BgkmTf6jnHMyfPpNf_q3yQ0ljM",
             "filename": "Profile 1.jpg",
             "size": 7051138,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/csv1qatAUq_KEqrcKfgICg/QZnSJWsCtT8Ql18NIeISX3fEz8buKPXHN92FvLeesPDS9NKTsXVSlNI5RKkO6z_ivKb6PAfhRowN2ybC9FAmZQ/drdyqe-jN8KGxwyhE8jcH5qKdnM4qAzJ-AgrrXh1fso",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/f0Oo_Inw1agukP9Ua9hrqA/e_PguypE0O6D040ONTAPoxh8P50g1WnYHFHcSal5bc6rEBv0cyiY3C78AcgJb08kRW_GtPAAkjBNPRxEkfCmvQ/l1X8RE4TFE1VowALD8-Qfp9pxbz2TmsnN-QnKPya4Jg",
                 "width": 28,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/pcMFEHIyIK98FQsKyBbdaw/CGKzLY3NCDLMdd0tsGM8pcr6IFagm487QrgSMClfQylEpE73scUrxGCN-cIFgg5OxH9R2Ll04SNTGZn5d07wGw/lxDnuBQdyy58QMSotQ_O3JNRJ3VwV7VK2iQWuXMvJ5c",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/oYM-aUPkWUs7AB5pe5CnZQ/5x6SxraBlNlwHBARlUK11XaCW4FKayZGxHdLJycYcs6f7TW8eWr3RtgHKDPawJMwKeq31l_udlVOyGaVGUeiSQ/h0WQJo6t7GyrQduQ4rfT1CSAQq57sBK9bnpcXU32Hic",
                 "width": 512,
                 "height": 656
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/N8hvsBimJlUcPxYDtSF1ww/vqsP-Lw7GHGeZzO2NoVXjrU7iN1oaamDpm2cSrgZlhxOagWVgv5_4vV2sDjTdGJbyRyuOBKG6NlJQYkHo9qjbg/itAOzz-LK9AyE4WVd63ML2YvbwEcwpbljYzKv2T6lDs",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/EhdSdxrYNjIkGCXlShiW8Q/_JEXjTb8_b8OFU48tTIA1Gnq9lxjEgZQWDTwUA3ccHixuOu7sxb_U2jgO5a3c-ruvUcAyTp7epqfZZF4LNzSgA/8f7nO4UQ4R8ikLD9aJEI-xts7pdTP2Pz2Cuhv1lbEt8",
                 "width": 3000,
                 "height": 3000
               }
@@ -1083,7 +1118,8 @@
         "Email": "antonio@interrobang.coop",
         "Pronouns": "They/them",
         "Short biography": "Product Designer with a passion for creating user-centred designs and a background as a Graphic Designer since 2013 for many European cultural institutions.",
-        "Slug": "antonio-torres"
+        "Slug": "antonio-torres",
+        "Public URL": "https://interrobang.coop/team#antonio-torres"
       }
     },
     {
@@ -1105,23 +1141,23 @@
             "id": "attgYfkBrl3hsnc2e",
             "width": 400,
             "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/BYFkiLFrw9VzebVI2a5m7A/CQD92XuzkGz0TrvL0RUIirKc7ISxK7mpFD-5fUFGNvIYoNPtBFMZwGiRgMhQHw7G4iacvcHCmSDP3NjbMgONhTslcgDyw4tDC0vjKld_P-4/nQhBmSYKG9EHXalvCPyRxTfzd5i2rrfmGTvZ2pNcrTo",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/D4FVQw30OKhxdDHfOD_PuA/Ec2Zr50kwRzCqEv7McbtDaZgZf3Nfz2DiIRviRS4ew3UkDvhRxNwMXlcgX7b90leBi0a0UNeCytSp5FpVDNzHrc7iUt1Q2Pn6jsWDElmJ1c/EMwKuL28qMueO0uETiAFjQ3GebxZ6NFaWhp-94g13Vk",
             "filename": "convert.jpg",
             "size": 25872,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/v_knhZXZMY4CE_k-7VDrXA/ZvXHh0mtssYNnfcfsJAVf59sLIR4nzHgPh1Yj3YzOh0glhpP9cuSZ6wbizAdPu06Sm61T5OgAH6bBe4EFRhOwg/Anu_1KowM6eXcQGIBj-F0lfewcYaZKIblbJQps6G-ig",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/eJA3wwBqngGfzb9_2B8LtQ/aKUtjPxigs9UR5CDRsBV8sGU-uhkPUwSeNqj0eBj_EQjXBIBOtVYjQv9CkmzhALt7oJDgKwj-qvU7yZ9DysveA/RmFwvZ0ePfETVKf2trrWQN-jCEQP9QX6wlVWv9QBlKs",
                 "width": 36,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/xdAkZFV2RWJAhr_bLvtEbw/xaCwuDFlSW6ib-idEMamFHLetOvOgML-3swChCHWZbCoQisJ50oz6JrhzRtLmzd9jkAz_QpwWux_OP0DDQOy5A/skU2Zq5RagSewKkCbOnzyPy2CNehwfsP9DIy5yJg1xs",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/nUuD8xCRzUZUxeG7N4Xbyg/hxAb8JrifBaLiSXvEFrlgJ9t7bB4xwRxIuazdf24a0d6QPNwhthFKr82MAhamnn2AoNAq1UvMAKiMODuMhm6qg/qe9iUrhx99draW6_USvJ9W6OiWuUXjJ39_g5steztWQ",
                 "width": 400,
                 "height": 400
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/VT8uD67-BcBQEYLVi6WpBA/Fc7HOKiKGiQZac8_D5JyCBwPMp04H-xZY3suIE8zNs_EX5GxKXCxsVkZMSiPh7GC2LvvEXnVeU8860jOx9Cq6g/3WrnzUnv0WZSwigUzj5zTmehrLQa3NE8xHEs7OqAucc",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/Np_qRhg9IKH8OXPCnAay4g/GQDP-9ZMfZQkS1Tk9eJu8s0-S1jfN7g1WDJR1n-xQ8iFX9gYTjbk4PrU4ZIiXDWdeRJsCINc21TZbm14ESE75g/-5YmgAUoe1JQ6vx8YT9Vf301n_MvvwpELmp244Buswo",
                 "width": 3000,
                 "height": 3000
               }
@@ -1133,7 +1169,8 @@
         "Email": "rufai@interrobang.coop",
         "Pronouns": "he/him",
         "Short biography": "Rufai is a relatively new researcher who graduated MadeTech’s academy in 2021. Before the career change, he was a tax advisor with HMRC, and worked with the NHS during the coronavirus pandemic.\n\nRufai will amplify the amount of people we’re practically able to engage with during the project, helping our co-design approach succeed.",
-        "Slug": "rufai-munye"
+        "Slug": "rufai-munye",
+        "Public URL": "https://interrobang.coop/team#rufai-munye"
       }
     },
     {
@@ -1172,23 +1209,23 @@
             "id": "attVGjDXGhi6mDzuq",
             "width": 4160,
             "height": 6240,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/OxU9tr-Yi8gpalhAjvkE5g/bvnk2dBDcHdiutai7iomeSvk3lwlN7uRfXfco8eya4qTgIKytw3l_93NPVOwtPaXXxUMsWA0TPGSnDhghuIzg2KRSQKdnJAgNqsxAzkAXvk/KIh77iG9kFduF2K4onfJFyjk_XVqkSbbPd6gsWZJ_Mc",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/JVRuSBxevGsTaVHzDI0-lg/OIRgEZCCInutbm11K6V_MNm6ivkWXYd8h2AiwxJfujBrc9mlW5CwP6-TpHwU3uPYEzqzy0V9V67owssurG_BaBI5GDWL7GvW4vtzKdAzuEo/n4r0DMxt6Z4b7AAuGwYq2MFyXtFEck3NsT-mSQJQuaQ",
             "filename": "20230725_Jaye_07.jpg",
             "size": 5129518,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/shYBEK3L8bFK3DvVxpOIJg/Tok6AzJA4py7vXJ1mlFInPX6g-I3t5WVu2BS9WlfEn9iwyDTR7562Pddgi_QF3Qv3v9qn7hLaqlXfOL_afiOfw/LclIpSV6Py0V-VoZuA2KpVCQmHxoK_ynn34j5RZyR2w",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/FH7cTIW1_KgOBcDPayf3kg/jHvTr66oTIYjAEwQDjbLZO2izhQbeEc-1CqYVUX2ZTe5L_ZWbNgaVOOz2hNe0u6jf_212LMElYbVlIuxhNJHkA/s4OiyuGJbSYpGi5hKNcfVVuP2rXFav0xn-QpU2ooq2A",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/QlP2wd-7KrVQegnCqVTDtQ/fNzyDbnlE-fKppZ9Tl3xPcafTyWR7xXxbdTUaBwTi3pH9x2OlId6paoSVz04oa9LQNv8aDzJkMhr1eEJgxQtFg/JvRKPRd2Tlaejl0WuUDOpVZDcqKh7efw4XzdkADk3WA",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/L63ycXjOdJMtca_ZHUwIRQ/w_ekiPa5VRQQmzPRCixM8kUrR98aShJqg0H00h7bv4RB4umjhdvNPTjmKahD0yoRMsdi1QWqtNmOcQxV0WLjUA/Mf2N7acM-nFJ1udDhohoHjnHSrrkmx_J5F-gezKvl7o",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/dLHPiT8nQwn2oufZSsYnhw/tru28lclBG3zSR4WLlX6GCUMkZGTVB_gHWpVerhKLzFqnz3dA5rozwvipdsHh9vqvfYynuL2e69AKTe5pU0qMQ/4eopQiI6cVFXD9dSt3cQDEMgy92HV-emeip_ziGRVc0",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/xLyf10QRYGNMl3USQwdMyA/ddt41IUtuMyifVXAAILvDH0G-cWqLV301WS0vrBiJiru_N9wBHiM6pnNJVhq7-xk1hADvIA1pUjYHuut1MzagQ/8Xqy47Wp8jclZnA42-Lo8rBNbdC9QKRrvZfLf4p7SNg",
                 "width": 3000,
                 "height": 3000
               }
@@ -1206,7 +1243,8 @@
         "Email": "jaye@interrobang.coop",
         "Pronouns": "they/them",
         "Short biography": "Jaye is one of Interrobang’s founding partners, and has held nearly every role on a digital team at different points, in charities, creative agencies and the civil service.\n\nOn this project, Jaye will be your first point of contact, and will help you make sure the work is strategically aligned and happening at the right speed.",
-        "Slug": "jaye-hackett"
+        "Slug": "jaye-hackett",
+        "Public URL": "https://interrobang.coop/team#jaye-hackett"
       }
     },
     {
@@ -1236,23 +1274,23 @@
             "id": "att82mo6wBIN8odie",
             "width": 3825,
             "height": 5738,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/jgKyEgvrF9ixZHdNvZjSIA/q_vZr77uHHcHmFuG57bCpURBPXkwEjHyHYD1Yzq_idR7dVwfQJJHsvmcel10CYn31TPmM0vzO2_4ffrWNoRojjTiif5phpxk507GDf7KBZQ/7lI7IfoStmzrhdGc7VX9N9AJRr5jjbq-7NIpvPhMpzs",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/XUSxDpndTMM3r1qa2xahbw/msMiciJ2Mono5BcCPXaaHFnQ5sYPMq1nNnbDTApgcgSYJkD5mv6nmOx0QksL2d6C6pmVG2uPfQY0iyYD-4URrvoZdv7mgfaBFSaG0ScPPMY/7JM_yoQ3Ih4sJOy04z1AEq9qHQeSFMYP4cPyLIsAJnw",
             "filename": "20230725_Chloe_10.jpg",
             "size": 2582598,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/GyeERKFpzKkSlUY09wxC2Q/sh4VT2pMrbSn5jplbeBA8R0BZR4xN0QDjxCvJj5gKtlO7dL1RlEQ4BeJidDql_qBirDaM3Ye2D4oNRTxGlLtuA/JmYx1Tc1mM3MO_uMb8bQCqCvgYAMyey8jRH_ysWWBBg",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/dtHg6STHVdxpYqLHlvCQfw/f03OU_su4xe9kQnO7byp5V1DjtZU_oKmLAkS51JTRV692RtmsWYN7dPP_Lb4Zcdtb7NA-vKIaVy78H6G6dB27Q/ZjhlOWgno9TKc4sczgwuMNnEARA0bgjIvVwSgWmKtnQ",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/0e97UEKwwlx47Xe4h7YWfQ/dOJe4F5jgogagb2VRMKrRJIbQYfbP9k6EPc7dm-r1nKwplbIY0rp1v_bgBOoWWcVRuOi7qX0nFfAIpU1gtT0xg/qXltAdXwJ2KySI19BtlonKHxfvtwjSqVoIkQW5JntNY",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/MQQLIkb2led3KZy4wQz3aA/bfl5YWl-_laVQ7Ar9ZUtIPfbeZd5zEtZG3O40yozhXFOnT8mv_x2Pcf-QASpUA1FVZgT_CtuzbvcMsiW-RnskA/LqikQrYEyBDvCqocqh9uFlzERved2Flev6XdpZE1l2Y",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/5JbhfhRznczjwkl_PWmpbw/jQaC5ci4-udPWvIo9h9H_riCaTS1qjhUdvbwsn0JZSMkzy6-XrsILI1BY7JAqDzr8QYBuJ2LYhj9phV_knAjFg/uQNeHvbx50ZiB4HFAOtWohnZ5_8Hc8U-8Hl-qwvrfOs",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/_txleQiUi8byyUZZvp52GA/cvUJxx8l2OGlno41_5LOcimMtkdwEXxSC7aWPtbhGiET5HjWgXVX7rInXvRLrDDqnuBCRuPL0-MJoI8N1aCY5w/lXk-FE8-XcOppqnKfh7-t8MNxvKCdlBAWHi_6W7uFkQ",
                 "width": 3000,
                 "height": 3000
               }
@@ -1269,7 +1307,8 @@
         "Email": "chloe@interrobang.coop",
         "Pronouns": "she/her",
         "Short biography": "Chloe is a founding partner of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers.\n\nAt DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.",
-        "Slug": "chloe-coleman"
+        "Slug": "chloe-coleman",
+        "Public URL": "https://interrobang.coop/team#chloe-coleman"
       }
     },
     {
@@ -1286,23 +1325,23 @@
             "id": "attFBRQx71djox0RX",
             "width": 3605,
             "height": 5408,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/dAhYguBYIX5mbTbYdKjqjA/octXn91G_5GImVAWvAd89yJWgYnin-iaVOGFjk6AjJD5QNDX-iyFNUduJ13eWYAFhptBt1SKzpGzh3nVs601fKMPREET18hKOmayID1Qv9U/sXRrQae2lM0_6ofP_INSmrNLDM5CzRgKR6OosNcL8dE",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/7DqHDdN0KZ65SmbfSnYIqA/zwpIg6WAlv4Cbvlbejq0A3ayLtty7ChCglZW_UkfCfBpq_xo6tke_8_fP-vZtbFRsuW-kYsm4HSCAq9fNLBGsWlwqeki0x4zDcWgWt-Ec7g/JProSkO6gZsDpBfQ_L7QADcHaaQT07tfN_htQj81Png",
             "filename": "20230725_Aoise_03.jpg",
             "size": 2841190,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/7osIqxQJDcpNlB8h8nekrQ/-3lbWRFL7Bsi_Sz6FAATto5rQIRvX-6xvAC3pu9YPIJ6XxUJQzlA2BI0T_oDKKxXNBvvupZqgqx9zjgZi4ij8w/fEbnNYghfF_0dPPzAXM8jwul_FPtBWdSScgewz7Fjts",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/oi6SOmys4rcoE1Yg12UxhA/C7tQtINVN6o4rzB5hi-TOYycA-EL_DIIG4O9Qx_drwRTex153OVRsW_Zs7JN-h-q-PjmtdTVplFCweFb9NtOaA/Bhmyj6GChQOK4hKXm2XpQNoHeOVJimWBLTjhA08tvlw",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/NNo2l5coEQDSshWzozHqeQ/-VrGRdtPXfzhqEN_eca6GSAw_rQSkLHQ6C-LP8t1-e3k-U0aLGOu9CG2kSVWe5AqneNgQEHr6k_U0W7qGPSnfw/gBrgH8ySLwUS7R8-s7swI2KKvhbeG-7PQL7pOwjF6-M",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/JMjBKM-W2eA9V8GaIup-yQ/PlsN4goAEOUwU6q_4_EGn7So_7ACPmvC-ZIkfl70cwNJGASY9qIn2ddpjjVfCbYQRtLAmFcejRk9el_BiEY_yA/GlSaHQPAQYQbo91pKqTnt8-yPwQX56-Dr7JlV5lV8d4",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/WTpFfRG_HkU0Fabh8ODneg/lQJwBdtKpeD9yPm8lHcZFZTLqK2mRit07n9_XO44AI0-YRut3PzDWHJ1ok3I2En7r0VNX-79ZRDtsZVxaNad8A/dfUDgKW9w4c1Dd0jTtFjq4U38HFBrSSHm-OopEu9_zE",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/anzZYrOZ0T4lHsopYqx-4w/2PSJ4la2TLMxHEHoNCHDhWWSWeIF4KzlacP4BTYyFONQcR6dnHFXM4KOVbZO2tHuU_WSi2vi-SNX28okZCyWnQ/maT7_ByvJhz0LYdNYv_K1AmmWMPa9ErGirkmbG3rbCA",
                 "width": 3000,
                 "height": 3000
               }
@@ -1313,7 +1352,8 @@
         "Role": "Business development",
         "Email": "aoise@interrobang.coop",
         "Pronouns": "she/her",
-        "Slug": "aoise-keogan-nooshabadi"
+        "Slug": "aoise-keogan-nooshabadi",
+        "Public URL": "https://interrobang.coop/team#aoise-keogan-nooshabadi"
       }
     },
     {
@@ -1335,23 +1375,23 @@
             "id": "attQdbmhH1lObTWLB",
             "width": 400,
             "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/DmH8gPwtUCkZl8VMV8n1nw/AiBNmQggsxJg7CewxHg_gp3-traQdhrRw2LfvHkmUegp5El2jcUttWrb4c1OKdh5kWhKiD-E-bYPy2AWB_TAWeztM8BZYaSI_Yv9IT4em9Y/I-cYTkcwm4kPdY1677Xfj1ZyrYEBeE9Cxa3Ccp4NdBI",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/P0_RgKTzbhvA5Y_FSs95pg/EyzQR2KSH20tAk5xlglCe2EvhbTBhfh2dm12Dt0HK-i-Pfap6_GpbaX26M10rbncqvlnn9hLrnVcQC5yvB1AfBMXmjYQgcZ0-gYxlo72KV4/QVUsbc096JqYNq91X8aMfvPc_ZW4JY8YVaN-izdrhUw",
             "filename": "convert.jpg",
             "size": 21042,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/mHjoq8xC3TgOQQXsUAJZcw/VVTYfFCy4GJP-B4HgZEa_WMM9jm36YmYVIo1RvdUQU3uosv2r_nSm6WMbadoQ9iTNwethjzpnSd15cfLbC0xsg/2oDStLtFdutY37e7sT7Y-pJMIvKX72I3ucsjdDo4ycI",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/TtzTrm_jS36rQpbMCgbGhg/ygs56mjC9WJSG3-TcH-yuKVFemn1GyMZPYZJg2w57bRb0jT7-PH8OtkpdCEHo9Q6xyv6ykoLsFsgNtbBmuCxAg/8ViHHKXWyjVAgQGfPsPFW9tVp7RhMR6z6BEvw7K6Tck",
                 "width": 36,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/KHRDBojaGm6C8apNF-ClKg/NivTppTPCn5ZR7n_LnH_HIgobDdkOat910Epe2bJWnTb_c96Sb4AncnZYrr1Moa3l2e-Xb1cs7l4rkXD0pjetQ/3mjnHY4rkxNeBdpQvRJw1NdsHeKcjEkgsACfHyqZCAs",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/dTxJyuNFsFrXhcc7JnOMpQ/ead8_jFKK_dBzhD8JXVtudDXPhU1FvoYVJnG_vZpXXQz8I-BgdP6C7tes-EvkruHFtNI2a-_2FhT36Uz7JAbcA/-j9PGYB4RZlCYv9wbe3H5NNgkGwSx9jleqeCcwr21xA",
                 "width": 400,
                 "height": 400
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Kso979NpbBRRLvwPr5KiEQ/7lyjIDXlNeJ3LOzFiwWTmPNRMEjkjvSpgDaXtX6cGCacJaucJrPWpYSaC1Bi3vHDwBBCANEsw3_GRt5yfvFBFA/A9ZdoeH9lXgb9z0xC1EgRvi1unQ-6DfZsdfme4q1Vg0",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/0CsEhZmKcaxW4Ti9EOTkhw/cYGH9qxK37Me4VeVdoX5lcqHplgFKGOuH_CPEpN0e8kgNybEDr0CmiechGKw2l_YKV_4d2oKDR3h9zYI11F1jg/jvUsHoFa4UNP0d5W7KN8ziwlrbJ7ypK2rVPTFDKbgfY",
                 "width": 3000,
                 "height": 3000
               }
@@ -1368,7 +1408,8 @@
         "Email": "ashley@interrobang.coop",
         "Pronouns": "she/her",
         "Short biography": "Ashley is a designer, researcher, technologist and facilitator with extensive experience in health, as well as social care, housing and climate.\n\nOn this project, Ashley will be expressing the needs and ideas of your users in a variety of media, starting at low, then increasingly high levels of detail.\n\nAshley is also an independent documentary filmmaker.",
-        "Slug": "ashley-ocallaghan"
+        "Slug": "ashley-ocallaghan",
+        "Public URL": "https://interrobang.coop/team#ashley-ocallaghan"
       }
     },
     {
@@ -1393,23 +1434,23 @@
             "id": "attA9WlNs23dJOgGq",
             "width": 3964,
             "height": 5946,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/cBJQPpJxySvaWFZCC0d-uQ/WvMyUXgZq5mhTJKnPGRNE4NwvxUiBWcPuSg5etANIqd8zD8DdYUCGlm5twN1yw2AjNRUfE1uLa6xbAkkD-JDKDHgaLv8Q5cPVFnZKWXRF0k/L0NX-R3cdGiv0tpR1M8ZzeztZyGzyxgJ0h2T0eoeuJE",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/w9O0WhCZMc34djsyioUbeg/aicCXQ0bHCOJ6_zsJXl5diZlpPCJ_eTgD6FXyAIHcqwq8sGCHHwiBCRYE0dyU7owbttHTfdCuLTHc13QKdc3LVBuIs6I2uLM1HXeuXSfC4Y/3GuAJLyg31nmwYmswoVRqnzlANMQOhDcdcdNl0R7caE",
             "filename": "20230725_Sarah_10.jpg",
             "size": 3330940,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/kjZaj8sNd39n1KHM2KOrSQ/pkS1HlIM02Dz-YlfiSwrkINWJ4BckHIM8sCTh_XZ2lQGLNbD8PnKj-VrNsjvpXqqFnxbqYLQfPbDeqRdIWVuDw/209xhPPp2ojCNdwjafYZWSbJVVwiW9Pndml7w_HKBno",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/_Q2BRQ4tAMPSKdMw5OVx0A/6awV0MSVbddiwYVqo__Jr5Pf14QkffncWwvWeMisNNVGQs-0PpRB_0qM-K1krcg7n4l781tLkLEKEbVkDhpkUA/RJ8KkH6tFQL9Sb76T6mgrlZpEFpzCi1XgSoTCuR1u4o",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/CX0Z_EtSv-e3xNEVFbk5zQ/iyFEAJq4f7liC4G-Wg_LAfYbfOKEx6GPblD7bEtaGNeYz7GPYskHgdgDXvhO3LJsy_9Gl-0aIV5-UzrXw-qZ4A/mV_vwwFZyhXUbDFtKFBbiQZHqPyc6RxUdy5_6mjCdpA",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/qzhyIIKue7aVfjMjTrlHkQ/Pk9mHqJqNxdVEVT8ugrmO8zUSNcE1O7dvyOry5ZCDYZiXCbL65vkghB6TCC1DfyYb43ujIz1x7ppfVIwv9feng/y2I7wG7gAIVCHtWrbhwMo6OOSdt-aZoF7-2u0_GeDBU",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/6SKpxCjWxsUCVfbagwHalQ/dM1m1PnBaUfJSJ195rL1yyCieY7wVu7Pu13y1e3VcmBXP94qH-xD589iJ06xjc7O4H2o6noAH37zNb54WxuPnQ/HJV8ULnMB_bG96Ztb9BcQVTg9fvtUVzCGiu-3efOOTM",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/Tpb5lJpk6Offfz0B4HJZ5w/tqyaMH_8vFe14Y0NxNK4VsIqfFE3W7a5N-xdF0vSKi4P9Ns6ihI-MzaugcVQ9n1l6SR65NDbg2p81j5Iye88ag/dBwNxfKetk3PwGQJzBaasxytXtl6qeU1_cSevjlh1bY",
                 "width": 3000,
                 "height": 3000
               }
@@ -1425,7 +1466,8 @@
         ],
         "Email": "sarah@interrobang.coop",
         "Pronouns": "she/her",
-        "Slug": "sarah-tayleur"
+        "Slug": "sarah-tayleur",
+        "Public URL": "https://interrobang.coop/team#sarah-tayleur"
       }
     },
     {
@@ -1451,23 +1493,23 @@
             "id": "attLCYaLOK6AbCudR",
             "width": 3931,
             "height": 5897,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/im3mM66N53UPBrRnHWd2YQ/xaEq3MzX37kFiWHqubcDwhgxadcMyovGCYA_klwTPaSVQhB1ibopTTMl3Xr0atCdO8Yun64iCr8w4zGwJTc2mgd0tUuzPiLDjbuGsnkx4uU/zKitfuN4OknMcA1bi9P0Ij7R7jJFF6YxDlaKvvXJNkY",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/EDNY5s8IzVXPRSKg61AYkw/ZBO56noh2f-dYI0PIrqiJNIo2BqBXL9QfbPycfUn4wiZeaEAmv3MgdzsoQxfgHpku9VDmTislfy-zpJSIuAM6Xmpowjj4M7bJYksDQqBSX0/kcpLB0AkLwCRX49ihfbIL0dx1qHexbTUxUvK_hFsVog",
             "filename": "20230725_Amy_06.jpg",
             "size": 2595127,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/uz_RcopoDcmdVB-lQIsE1g/x19qioxmI0cHzd8Ph8-y_wFE9WQh-IXQCpSxzIT9yvUZhjAXZjbpdfKV6Hyy92CAnQH6ARJsk73JPFSLC2QqDg/5nPfholvZir5ydGwxFs4BnBS1yDf_o3_ShCJtzYiPYI",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/kP8lL_8gnbTqhFjGgbgddw/DQ7Qqn17S2p3H67LSj5ariGGHPqYKt_8UI5sAyFs_omC_zqFs_9T8-XHYhqPdG2ooHCYlzxMmzAbiwLOdknFDg/cd_gzBS-k1uaBuyO9CyvnAsnxX1TInH5TnGVokoMlng",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/2R9Ssf2qSh522vsLWnf-wA/HLjpGpBh9lul3Hcx_xaZrskL-pMkGldF39NIZQCQJQfrQ4Ieq_cyX6t_Nu1uXVf8BjJ7V8AYNJPcOoDH8ODtSg/UXImqJFXVck82v-IvVvwqKG51R08BEWIV86SVW_t_BQ",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/e-61TpXS4CiqeIfKEP88BA/sFZ66aMbS3PYZY-mvPpNDMuO4drDedBMabexB1eu-Oisa6l7T6jg3Nv2NviV_C4DP8qdwd4FyiuR9s0RgXtl3w/qbG30tDkYHgxTCxz6Uq1lo3yXOsrfQC0zpOvD1v6OL0",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/I26PxaY9qXWvZ8dm_q6aZg/QrTQfSfidT5MS0G5H88rfCPQbvUSNHVFoxITLccg4eTDd4ASJzvxMJxC3rXzJ8w28hVAEDA4r1PtdEOICI5Law/onqDiBOlfzfK_3sdB0Yx1pXFd-jXXToF4Lcm9ghaV6g",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694361600000/7aIfPFZ6yxH4vX-X5A3Gbg/5f5cp1_R0HJvlfOCLamSiX_iYdNaiwlwggpzC86tm4nDAzKujt5koEEy86UzkwQ03BRO_7rjuElTKngkeBiOOQ/w7KvVt_ZQzQ63XIic1AQX9GNbPSoYVfW7mHCdOEiKkk",
                 "width": 3000,
                 "height": 3000
               }
@@ -1485,91 +1527,74 @@
         "Email": "amy@interrobang.coop",
         "Pronouns": "she/her",
         "Short biography": "Amy is an ex-computer scientist and educator who has worked for small charities, startups like Yoti. She is a low- and no-code expert, specialising in tools like Notion, Airtable and Webflow.",
-        "Slug": "amy-rogers"
+        "Slug": "amy-rogers",
+        "Public URL": "https://interrobang.coop/team#amy-rogers"
       }
     }
   ],
   "pages": [
     {
-      "id": "recEK89aPIK769n3n",
-      "createdTime": "2023-09-02T17:13:34.000Z",
+      "id": "rec2WbFBnhghuIwQp",
+      "createdTime": "2023-09-10T12:07:05.000Z",
       "fields": {
         "Title": "Safeguarding",
         "Slug": "safeguarding",
-        "Show in footer menu?": true,
-        "Content": "The purpose of this policy statement is: \n- to protect children and young people who receive Interrobang’s services from harm. This includes the children of adults who use our services \n- to provide staff, as well as children and young people and their families, with the overarching principles that guide our approach to child protection. \n- This policy applies to anyone working on behalf of Interrobang, including senior managers and the board of trustees, paid staff, volunteers, sessional workers, agency staff and students.\n\n## Legal framework\nThis policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England, Scotland, Wales & Northern Ireland. A summary of the key legislation and guidance is available from [NSPCC](http://nspcc.org.uk/childprotection).\n\nWe recognise that: \n- the welfare of children, young people and vulnerable adults is paramount in all the work we do and in all the decisions we take \n- working in partnership with children, young people, their parents, carers and other agencies is essential in promoting young people’s welfare \n- all children, regardless of age, disability, gender reassignment, race, religion or belief, sex, or sexual orientation have an equal right to protection from all types of harm or abuse \n- some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues \n- extra safeguards may be needed to keep children who are additionally vulnerable safe from abuse.\n\nWe will seek to keep children and young people safe by: \n- DBS checking all of our research staff\n- valuing, listening to and respecting them \n- appointing a nominated child protection lead for children and young people (Chloe Coleman) and a deputy (Ashley O’Callaghan)\n- adopting child protection and safeguarding best practice through our policies, procedures and code of conduct for staff and volunteers \n- developing and implementing an effective online safety policy and related procedures \n- providing effective management for staff and volunteers through supervision, support, training and quality assurance measures so that all staff and volunteers know about and follow our policies, procedures and behaviour codes confidently and competently\n- recruiting and selecting staff and volunteers safely, ensuring all necessary checks are made\n- recording and storing and using information professionally and securely, in line with data protection legislation and guidance [more information about this is available from the Information Commissioner’s Office: ico.org.uk/fororganisations] \n- sharing information about safeguarding and good practice with children and their families via leaflets, posters, group work and one-to-one discussions \n- making sure that children, young people and their families know where to go for help if they have a concern  \n- using our safeguarding and child protection procedures to share concerns and relevant information with agencies who need to know, and involving children, young people, parents, families and carers appropriately \n- using our procedures to manage any allegations against staff and volunteers appropriately \n- creating and maintaining an anti-bullying environment and ensuring that we have a policy and procedure to help us deal effectively with any bullying that does arise \n- ensuring that we have effective complaints and whistleblowing measures in place \n- ensuring that we provide a safe physical environment for our children, young people, staff and volunteers, by applying health and safety measures in accordance with the law and regulatory guidance \n- building a safeguarding culture where staff and volunteers, children, young people and their families, treat each other with respect and are comfortable about sharing concerns.\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/safeguarding"
-        }
+        "Content": "The purpose of this policy statement is: \n- to protect children and young people who receive Interrobang’s services from harm. This includes the children of adults who use our services \n- to provide staff, as well as children and young people and their families, with the overarching principles that guide our approach to child protection. \n- This policy applies to anyone working on behalf of Interrobang, including senior managers and the board of trustees, paid staff, volunteers, sessional workers, agency staff and students.\n\n## Legal framework\nThis policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England, Scotland, Wales & Northern Ireland. A summary of the key legislation and guidance is available from [NSPCC](http://nspcc.org.uk/childprotection).\n\nWe recognise that: \n- the welfare of children, young people and vulnerable adults is paramount in all the work we do and in all the decisions we take \n- working in partnership with children, young people, their parents, carers and other agencies is essential in promoting young people’s welfare \n- all children, regardless of age, disability, gender reassignment, race, religion or belief, sex, or sexual orientation have an equal right to protection from all types of harm or abuse \n- some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues \n- extra safeguards may be needed to keep children who are additionally vulnerable safe from abuse.\n\nWe will seek to keep children and young people safe by: \n- DBS checking all of our research staff\n- valuing, listening to and respecting them \n- appointing a nominated child protection lead for children and young people (Chloe Coleman) and a deputy (Ashley O’Callaghan)\n- adopting child protection and safeguarding best practice through our policies, procedures and code of conduct for staff and volunteers \n- developing and implementing an effective online safety policy and related procedures \n- providing effective management for staff and volunteers through supervision, support, training and quality assurance measures so that all staff and volunteers know about and follow our policies, procedures and behaviour codes confidently and competently\n- recruiting and selecting staff and volunteers safely, ensuring all necessary checks are made\n- recording and storing and using information professionally and securely, in line with data protection legislation and guidance [more information about this is available from the Information Commissioner’s Office: ico.org.uk/fororganisations] \n- sharing information about safeguarding and good practice with children and their families via leaflets, posters, group work and one-to-one discussions \n- making sure that children, young people and their families know where to go for help if they have a concern  \n- using our safeguarding and child protection procedures to share concerns and relevant information with agencies who need to know, and involving children, young people, parents, families and carers appropriately \n- using our procedures to manage any allegations against staff and volunteers appropriately \n- creating and maintaining an anti-bullying environment and ensuring that we have a policy and procedure to help us deal effectively with any bullying that does arise \n- ensuring that we have effective complaints and whistleblowing measures in place \n- ensuring that we provide a safe physical environment for our children, young people, staff and volunteers, by applying health and safety measures in accordance with the law and regulatory guidance \n- building a safeguarding culture where staff and volunteers, children, young people and their families, treat each other with respect and are comfortable about sharing concerns.\n\n",
+        "Public URL": "https://interrobang.coop/safeguarding",
+        "Show in footer menu?": true
       }
     },
     {
-      "id": "recLZxpExaERofHCi",
-      "createdTime": "2023-09-02T18:20:00.000Z",
+      "id": "recSiub3Ezi599gdN",
+      "createdTime": "2023-09-10T12:07:05.000Z",
+      "fields": {
+        "Title": "How we use data",
+        "Slug": "privacy",
+        "Content": "Interrobang is a not-for-profit cooperative, registered as a limited company in England and Wales. We run this website and any subdomains.\n\nWe are [Cyber Essentials](https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/) certified.\n\nThis page was last updated on 1 July 2023.\n\n## Our website\nWe don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.\n\n## Our newsletter and social media\nOur newsletter is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).\n\nWe sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.\n\nIf you’d like content about you removed from our newsletter or social media, contact **data@interrobang.coop**.\n\n## Research participants\nOur work involves researching with vulnerable people about difficult topics. Part of how we protect them is treating their data with care.\n\nWe collect the following information from research participants:\n\n- Full name\n- Phone number\n- Email address\n- Address\n\n### Consent forms\n- Full name\n- Signature\n\n### Research material\n- Interview recordings (audio or video)\n- Quotes and transcripts\n- Notes\n- Photos\n\n### Why we collect this data\nWe collect participant information to identify participants, and arrange sessions and follow-ups.\n\nAll research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.\n\nWe collect research material to reference during project work.\n\n### How long we keep research data\nParticipant information is deleted at the end of the project.\n\nWe scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for six years. All notes and digital files are destroyed or deleted two years after the research session. We delete any personal information provided to us from the research recruiter when the project has finished.\n\n### Where research data is processed and stored\nResearch material is separated from any identifiable information, such as consent forms, while we are working with it.\n\nWe use Google Drive to track participants with no identifying information (eg. 'participant 1'), unless consent has been given. Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by members involved in the research.\n\nWe may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.\n\nWe may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.\n\nSometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.\n\n### Opt-out of collection\nParticipants can withdraw their information from a project at any time. To do this, contact **data@interrobang.coop**.\n\n## Software we run for clients\nSometimes we'll build and run software on behalf of our clients.\n\nWe host these on:\n- [Digital Ocean](https://www.digitalocean.com) ([privacy policy](https://www.digitalocean.com/legal/privacy-policy))\n- [Netlify](https://www.netlify.com/privacy/) ([privacy policy](https://www.netlify.com/privacy/))\n\nEach product we run will have its own privacy policy detailing exactly what it stores, how and why.\n\n## Clients and partners\nDuring the course of our work, we'll collect information about client representatives, partners and potential new members, including:\n- Name\n- Company\n- Phone number\n- Job title and employer\n- Company address\n- Working hours and flexible working arrangements\n- Testimonials\n- Day rates\n\nAt the moment, we don't collect any [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/special-category-data/) during our recruitment process for new members.\n\n### Third party services\nWe use several third-party services to do our work, which involves processing this data:\n- [Google Docs](https://docs.google.com) ([privacy policy](https://support.google.com/docs/answer/10381817?hl=en))\n- [Figma](https://www.figma.com) ([privacy policy](https://www.figma.com/privacy/))\n- [Trello](https://trello.com) ([privacy policy](https://www.atlassian.com/legal/privacy-policy))\n- [Slack](https://slack.com) ([privacy policy](https://slack.com/intl/en-gb/trust/privacy/privacy-policy))\n\n## Things we don’t do\nWe don't:\n- sell or buy data from third parties, including mailing lists\n- do telephone or postal marketing\n\n## How we keep data safe\nWe carefully choose our tools and make sure they have security features appropriate to what we're using them for. We only use tools that:\n- default to secure (HTTPS) connections\n- allow multi-factor authentication\n- work with our password managers, so we can use strong, unique passwords by default\n\n## Data breaches\nIf we ever have a data breach, we'll tell the Information Commissioner’s Office according to [their guidance](https://ico.org.uk/for-organisations-2/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/).\n\n## Exemptions\nThere are exemptions to data protection regulations that might force us to share data about you, including requests by law enforcement. The ICO has a [full list](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/exemptions/a-guide-to-the-data-protection-exemptions/) of these exemptions.\n\n## Reviewing this policy\nInterrobang is growing quickly, so we frequently use new tools and services to do our work.\n\nWe'll review and update this policy at least every six months.\n\n## Your rights and getting in touch\nThe General Data Protection Regulation gives EU citizens the [following rights](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/):\n- right to be informed\n- right of access\n- right to rectification\n- right to erasure\n- right to restrict processing\n- right to data portability\n- right to object\n- rights related to automated decision-making, including profiling\n\nTo exercise any of these rights, let us know at **data@interrobang.coop**. We will respond to all requests within 28 days of receiving them.\n\nOur postal address is Interrobang, c/o Birch, 126 Addington Rd, South Croydon, CR2 8YA.\n\nIf you aren’t satisfied by our response, you can contact the Information Commissioner’s Office.\n",
+        "Public URL": "https://interrobang.coop/privacy",
+        "Show in footer menu?": true
+      }
+    },
+    {
+      "id": "recTElRUOaQRVyBuq",
+      "createdTime": "2023-09-10T12:07:05.000Z",
+      "fields": {
+        "Title": "Our standard terms",
+        "Slug": "terms",
+        "Content": "If you hire us and we don't provide a specific agreement for you to sign, then these terms are the ones that will apply:\n\n## Regarding digital products and services\nWe’ll create responsive designs which adapt to the capabilities of many devices and screen sizes. To give you a better understanding of our designs, we’ll use Figma or a similar design tool. Sometimes, we’ll use visuals to indicate a creative direction (colour, texture and typography.)\n\nYou’ll have plenty of opportunities to review our work and provide feedback. We’ll share a Google Drive folder, Github repository or a development site with you. We’ll have regular, possibly daily, contact by email, phone, Slack, or Google Meet.\n\nIf, at any stage, you change your mind about our deliverables or aren’t happy with our work, you’ll pay us in full for the time we’ve spent working with you. Then, we agree to terminate this contract.\n\n### Written content\nUnless agreed separately, we’re not responsible for uploading text or images to your website or creating every page. We provide professional copywriting and editing services, so if you’d like us to create, edit, or input content for you, we’ll provide a separate estimate.\n\n### Graphics and photographs\nYou will supply graphic files in an editable, vector digital format including Adobe Illustrator (.ai) or .svg. You will provide high resolution digital photographs. If your design requires stock images, these assets—and the time we spend selecting them—aren’t included in our price. We can provide a separate estimate for stock images and research.\n\n### Changes and revisions\nWe won’t limit your ability to change your mind. Our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve. If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.\n\n### Testing\nYou understand that browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. You agree it does mean ensuring someone’s experience of a design should be appropriate to the capabilities of their browser or device.\n\nWe will test our work only in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), and Mozilla (Firefox.) We won’t test in older versions unless agreed separately. If you need an enhanced design for an older browser or specific device, we will provide a separate estimate for that. We will test your design using the latest versions of:\n- iOS: Safari on iPhone and iPad\n- Android: Google Chrome\n\nWe won’t test specific Android devices, or other mobile browsers unless we agreed separately. If you need us to test using alternative devices, we will provide a separate estimate.\n\n### Search engine optimisation (SEO)\nYou understand we don’t guarantee improvements to your search engine ranking, but that the websites we develop are accessible to search engines.\n\n### Hosting\nWe’re not a hosting company—so we don’t offer support for website hosting, email, or other technical services. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t already have hosting, we’ll recommend a provider and ask you to set up an account.\n\n## Liability\nWe carry out work in accordance with good industry practice and at the standard expected from qualified people with relevant experience.\n\nThat said, we can’t guarantee our work will be free from errors. We won’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them.\n\nIn return, your liability to us will be limited only to the price stated in this contract. You won’t be liable to us or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we’ve advised you of them.\n\nFinally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.\n\n## Intellectual property rights\nYou guarantee the written content you provide is original, or that you have the rights to use it.\n\nYou also guarantee you have licences to use images which are owned by photographers or have been purchased from stock libraries.\n\nYou agree to protect us from any claim by owners of copyrighted material. When our work requires licensed fonts or images from stock libraries, we’ll ask you to purchase them so you’ll be licensed to use them.\n\nIn return, we guarantee our work is original. When you’ve paid us in full—and if this contract hasn’t been terminated—we’ll assign intellectual property rights to you as follows:\n\nYou’ll own the graphic files and any other artefacts we produce during your project. We’ll give you permission to use these files for any purpose.\n## Working in the open\nWe reserve the right to display any aspect of our work as long as doing so doesn’t breach any separate confidentiality agreement. This may include sketches, work-in-progress designs and the finished project on our newsletter, website, in magazine articles, or in books.\n\nWe may want to do this while our project is still ongoing. We’ll always discuss this with you first to make sure that we protect your confidentiality.\n\n## Payment schedule\nYou understand how important it is for a small business that you pay your bills promptly. We’re also sure you’ll want to stay friends, so you agree to stick tightly to the following payment schedule:\n\nWe’ll invoice you every month, in arrears for all hours worked that month. Our payment terms are 30 days from the date of invoice. We issue invoices electronically and our bank account details will be included. Our invoices will be in GBP. If your currency is different, you agree your payments will be the same value.\n\nYou agree to pay all charges associated with international transfers of funds. We reserve the right to charge you interest on all overdue debts.\n\n## Small print\nNeither of us can transfer this contract to anyone else without the other’s permission.\n\nWe both agree to adhere to laws and regulations in relation to our activities under this contract and not to cause the other to breach any relevant laws or regulations.\n\nThis contract stays in place and need not be renewed. Although its language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\nAlthough the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\n## To sum up\nYou have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project. You’ll do this when we ask and provide the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule earlier in this contract.\n\nWe have the experience and ability to deliver everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll try to meet every deadline that’s set and on top of that we’ll maintain the confidentiality of everything you give us.\n",
+        "Public URL": "https://interrobang.coop/terms",
+        "Show in footer menu?": true
+      }
+    },
+    {
+      "id": "receviW6FvmzGII9I",
+      "createdTime": "2023-09-10T12:07:05.000Z",
+      "fields": {
+        "Title": "Modern slavery",
+        "Slug": "modern-slavery",
+        "Content": "# Introduction\nWe are committed to eliminating acts of modern-day slavery and human trafficking within our business and from within our supply chains. \nAlthough we are not legally obliged to report on slavery and human trafficking, this statement is made in accordance with section 54(1) of the Modern Slavery Act 2015 and is our slavery and human trafficking statement for the financial year ending 31 March 2023. \n\n## Organisational structure, business and supply chains\nWe are a user research and design company and are an independent company operating solely within the UK.\n\nWe use independent sub-contractors in order to conduct some of our research and design. \n\n## Policy on slavery and human trafficking\nWe are committed to ensuring that there is no modern slavery or human trafficking in any part of our business or in our supply chains. This policy reflects our commitment to acting ethically and with integrity in all our business relationships and to implementing and enforcing effective systems and controls to ensure slavery and human trafficking is not taking place anywhere within our company. \n\n## Due diligence\nWe consider ourselves to be a ‘low risk’ business with regard to slavery and human trafficking. However, we foster a culture that encourages the identification and reporting of any such risks within our business. We do not recruit from outside the UK or use agency workers. \n\n## Assessing and managing risk\nWe have a whistleblowing policy in place and, as part of our efforts to identify and mitigate risks within our company. \n\nEffectiveness in combating slavery and human trafficking \n\nWe have zero tolerance to slavery and human trafficking. To ensure that all those in our supply chains comply with our values we are putting in place a supply chain compliance programme that will require our suppliers to confirm that they have a slavery and human trafficking policy in place and that they require the same from their suppliers.\n",
+        "Public URL": "https://interrobang.coop/modern-slavery"
+      }
+    },
+    {
+      "id": "recmX15UQ3proBFxA",
+      "createdTime": "2023-09-10T12:07:05.000Z",
       "fields": {
         "Title": "Environment",
         "Slug": "planet",
         "Content": "Interrobang is a child of the climate emergency. We’re doing this work because we know the future needs new ideas, not more of the same.\n\nOur mission is to make our communities more resilient to the interconnected crises of the coming decades.\n\nOur team is made up of people who don’t believe we’re doing enough to prepare for the climate crisis.\n\nThat belief will be apparent in all our work.\n\nInterrobang already works almost entirely remotely and paperlessly.\n## \n## Technology projects\nOn technology projects, we’ll:\n- only use cloud providers with the most favourable net-zero ratings (AWS scores quite badly)\n- use caching and edge computing to reduce the cost of transferring data for central processing\n- send static, pre-rendered web pages to users’ devices where we can\n- avoid making features from scratch where a good third-party service can be integrated with\n\nThese approaches are also the best for:\n- accessibility, because we minimise computation on the user’s end, which can be tough on slower or older devices\n- performance, because doing more closer to the user means there are fewer long round-trips to a distant server\n- cost, because reducing unnecessary data transfer and computation reduces cloud bills\n\nWe have an attitude of continuous improvement to these issues. If a better provider or technology comes onto the market, we’ll adopt it.\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/planet"
-        }
+        "Public URL": "https://interrobang.coop/planet"
       }
     },
     {
-      "id": "recOv51CBNNZkgV2m",
-      "createdTime": "2023-09-02T18:19:01.000Z",
+      "id": "recqvuWOoqdhRmv0L",
+      "createdTime": "2023-09-10T12:07:05.000Z",
       "fields": {
         "Title": "Equality, diversity and inclusion",
         "Slug": "equality",
-        "Show in footer menu?": true,
-        "Content": "Interrobang exists to make our communities more resilient to the interconnected, worsening crises of the coming decades.\n\nBig, systemic problems like climate, housing and social care criss-cross the public, private, charity and voluntary sectors.\n\nNo one organisation can fix them, and there is no single fix that works for every community.\n\nSo, we want to give people the confidence and skills to pursue their own ideas rather than enforce our own.\n\nA diverse and inclusive team is the most important single thing we can do to make this happen.\n\nWe’ve been vocal about these issues in [our newsletter](https://interrobanguk.substack.com).\n\nInterrobang has a 100% queer and non-male founding team, and our core membership of ten people is 90% non-male.\n\nThis page was last updated on 20 August 2023.\n## \n## What we're already doing\nTo get here, we:\n- pay a fair rate to our team members that is well above the market average. When we last benchmarked our margin, it was half that of comparative businesses.\n- encourage people to work flexibly and remotely, around family and personal commitments\n- fairly compensate research participants for their time, and bring them onto our team as peer researchers whenever practical\n- use inclusive recruitment that doesn’t expect things like university degrees from applicants\n- became a [Living Wage](https://www.livingwage.org.uk/accredited-living-wage-employers) accredited employer\n- became a [Disability Confident](https://www.gov.uk/government/collections/disability-confident-campaign) employer\n## \n## What we want to do\nAs we grow, we also want to:\n- offer more training, coaching and mentoring on a “pay what you can” basis, with sponsored places for people of marginalised groups\n- offer apprenticeships in junior roles on our teams\n- conduct equality and diversity surveys twice annually as our membership grows so we can more precisely track how we're doing\n- form a [member circle](https://www.sociocracyforall.org/sociocracy/) with particular interest in and responsibility for equality, diversity and inclusion issues.\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/equality"
-        }
-      }
-    },
-    {
-      "id": "recU4zvR44Vt9btpS",
-      "createdTime": "2023-09-03T13:57:54.000Z",
-      "fields": {
-        "Title": "Modern Slavery",
-        "Slug": "modernslavery",
-        "Content": "**Introduction **\n\nWe are committed to eliminating acts of modern-day slavery and human trafficking within our  business and from within our supply chains. \nAlthough we are not legally obliged to report on slavery  and human trafficking, this statement is made in accordance with section 54(1) of the Modern Slavery Act 2015 and is our slavery and human trafficking statement for the financial year ending 31 March  2023. \n\n**Organisational structure, business and supply chains **\n\nWe are a user research and design company and are an independent  company operating solely within the UK.. \nWe use independent sub-contractors in order to conduct some of our research and design. \n\n**Policy on slavery and human trafficking **\n\nWe are committed to ensuring that there is no modern slavery or human trafficking in any part of our  business or in our supply chains. This policy reflects our commitment to acting ethically and with  integrity in all our business relationships and to implementing and enforcing effective systems and  controls to ensure slavery and human trafficking is not taking place anywhere within our company. \n\n**Due diligence **\n\nWe consider ourselves to be a ‘low risk’ business with regard to slavery and human trafficking.  However, we foster a culture that encourages the identification and reporting of any such risks within  our business. We do not recruit from outside the UK  or use agency workers. \n\n**Assessing and managing risk **\n\nWe have a whistleblowing policy in place and, as part of our efforts to identify and mitigate risks within our company. \n\n**Effectiveness in combating slavery and human trafficking **\n\nWe have zero tolerance to slavery and human trafficking. To ensure that all those in our supply  chains comply with our values we are putting in place a supply chain compliance programme that will  require our suppliers to confirm that they have a slavery and human trafficking policy in place and that  they require the same from their suppliers. \n\n\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/modernslavery"
-        }
-      }
-    },
-    {
-      "id": "recbmPQmUN7HUj8jK",
-      "createdTime": "2023-09-02T18:18:00.000Z",
-      "fields": {
-        "Title": "Our standard terms",
-        "Slug": "terms",
-        "Show in footer menu?": true,
-        "Content": "If you hire us and we don't provide a specific agreement for you to sign, then these terms are the ones that will apply:\n\n## Regarding digital products and services\nWe’ll create responsive designs which adapt to the capabilities of many devices and screen sizes. To give you a better understanding of our designs, we’ll use Figma or a similar design tool. Sometimes, we’ll use visuals to indicate a creative direction (colour, texture and typography.)\n\nYou’ll have plenty of opportunities to review our work and provide feedback. We’ll share a Google Drive folder, Github repository or a development site with you. We’ll have regular, possibly daily, contact by email, phone, Slack, or Google Meet.\n\nIf, at any stage, you change your mind about our deliverables or aren’t happy with our work, you’ll pay us in full for the time we’ve spent working with you. Then, we agree to terminate this contract.\n\n### Written content\nUnless agreed separately, we’re not responsible for uploading text or images to your website or creating every page. We provide professional copywriting and editing services, so if you’d like us to create, edit, or input content for you, we’ll provide a separate estimate.\n\n### Graphics and photographs\nYou will supply graphic files in an editable, vector digital format including Adobe Illustrator (.ai) or .svg. You will provide high resolution digital photographs. If your design requires stock images, these assets—and the time we spend selecting them—aren’t included in our price. We can provide a separate estimate for stock images and research.\n\n### Changes and revisions\nWe won’t limit your ability to change your mind. Our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve. If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.\n\n### Testing\nYou understand that browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. You agree it does mean ensuring someone’s experience of a design should be appropriate to the capabilities of their browser or device.\n\nWe will test our work only in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), and Mozilla (Firefox.) We won’t test in older versions unless agreed separately. If you need an enhanced design for an older browser or specific device, we will provide a separate estimate for that. We will test your design using the latest versions of:\n- iOS: Safari on iPhone and iPad\n- Android: Google Chrome\n\nWe won’t test specific Android devices, or other mobile browsers unless we agreed separately. If you need us to test using alternative devices, we will provide a separate estimate.\n\n### Search engine optimisation (SEO)\nYou understand we don’t guarantee improvements to your search engine ranking, but that the websites we develop are accessible to search engines.\n\n### Hosting\nWe’re not a hosting company—so we don’t offer support for website hosting, email, or other technical services. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t already have hosting, we’ll recommend a provider and ask you to set up an account.\n\n## Liability\nWe carry out work in accordance with good industry practice and at the standard expected from qualified people with relevant experience.\n\nThat said, we can’t guarantee our work will be free from errors. We won’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them.\n\nIn return, your liability to us will be limited only to the price stated in this contract. You won’t be liable to us or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we’ve advised you of them.\n\nFinally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.\n\n## Intellectual property rights\nYou guarantee the written content you provide is original, or that you have the rights to use it.\n\nYou also guarantee you have licences to use images which are owned by photographers or have been purchased from stock libraries.\n\nYou agree to protect us from any claim by owners of copyrighted material. When our work requires licensed fonts or images from stock libraries, we’ll ask you to purchase them so you’ll be licensed to use them.\n\nIn return, we guarantee our work is original. When you’ve paid us in full—and if this contract hasn’t been terminated—we’ll assign intellectual property rights to you as follows:\n\nYou’ll own the graphic files and any other artefacts we produce during your project. We’ll give you permission to use these files for any purpose.\n## Working in the open\nWe reserve the right to display any aspect of our work as long as doing so doesn’t breach any separate confidentiality agreement. This may include sketches, work-in-progress designs and the finished project on our newsletter, website, in magazine articles, or in books.\n\nWe may want to do this while our project is still ongoing. We’ll always discuss this with you first to make sure that we protect your confidentiality.\n\n## Payment schedule\nYou understand how important it is for a small business that you pay your bills promptly. We’re also sure you’ll want to stay friends, so you agree to stick tightly to the following payment schedule:\n\nWe’ll invoice you every month, in arrears for all hours worked that month. Our payment terms are 30 days from the date of invoice. We issue invoices electronically and our bank account details will be included. Our invoices will be in GBP. If your currency is different, you agree your payments will be the same value.\n\nYou agree to pay all charges associated with international transfers of funds. We reserve the right to charge you interest on all overdue debts.\n\n## Small print\nNeither of us can transfer this contract to anyone else without the other’s permission.\n\nWe both agree to adhere to laws and regulations in relation to our activities under this contract and not to cause the other to breach any relevant laws or regulations.\n\nThis contract stays in place and need not be renewed. Although its language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\nAlthough the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\n## To sum up\nYou have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project. You’ll do this when we ask and provide the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule earlier in this contract.\n\nWe have the experience and ability to deliver everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll try to meet every deadline that’s set and on top of that we’ll maintain the confidentiality of everything you give us.\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/terms"
-        }
-      }
-    },
-    {
-      "id": "recr4CdhKtRKKv8Ks",
-      "createdTime": "2023-09-02T18:17:00.000Z",
-      "fields": {
-        "Title": "How we use data",
-        "Slug": "privacy",
-        "Show in footer menu?": true,
-        "Content": "Interrobang is a not-for-profit cooperative, registered as a limited company in England and Wales. We run this website and any subdomains.\n\nWe are [Cyber Essentials](https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/) certified.\n\nThis page was last updated on 1 July 2023.\n## \n## Our website\nWe don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.\n\n## Our newsletter and social media\nOur newsletter is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).\n\nWe sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.\n\nIf you’d like content about you removed from our newsletter or social media, contact **data@interrobang.coop**.\n\n## Research participants\nOur work involves researching with vulnerable people about difficult topics. Part of how we protect them is treating their data with care.\n\nWe collect the following information from research participants:\n\n- Full name\n- Phone number\n- Email address\n- Address\n\n### Consent forms\n- Full name\n- Signature\n\n### Research material\n- Interview recordings (audio or video)\n- Quotes and transcripts\n- Notes\n- Photos\n\n### Why we collect this data\nWe collect participant information to identify participants, and arrange sessions and follow-ups.\n\nAll research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.\n\nWe collect research material to reference during project work.\n\n### How long we keep research data\nParticipant information is deleted at the end of the project.\n\nWe scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for six years. All notes and digital files are destroyed or deleted two years after the research session. We delete any personal information provided to us from the research recruiter when the project has finished.\n\n### Where research data is processed and stored\nResearch material is separated from any identifiable information, such as consent forms, while we are working with it.\n\nWe use Google Drive to track participants with no identifying information (eg. 'participant 1'), unless consent has been given. Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by members involved in the research.\n\nWe may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.\n\nWe may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.\n\nSometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.\n\n### Opt-out of collection\nParticipants can withdraw their information from a project at any time. To do this, contact **data@interrobang.coop**.\n\n## Software we run for clients\nSometimes we'll build and run software on behalf of our clients.\n\nWe host these on:\n- [Digital Ocean](https://www.digitalocean.com) ([privacy policy](https://www.digitalocean.com/legal/privacy-policy))\n- [Netlify](https://www.netlify.com/privacy/) ([privacy policy](https://www.netlify.com/privacy/))\n\nEach product we run will have its own privacy policy detailing exactly what it stores, how and why.\n\n## Clients and partners\nDuring the course of our work, we'll collect information about client representatives, partners and potential new members, including:\n- Name\n- Company\n- Phone number\n- Job title and employer\n- Company address\n- Working hours and flexible working arrangements\n- Testimonials\n- Day rates\n\nAt the moment, we don't collect any [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/special-category-data/) during our recruitment process for new members.\n\n### Third party services\nWe use several third-party services to do our work, which involves processing this data:\n- [Google Docs](https://docs.google.com) ([privacy policy](https://support.google.com/docs/answer/10381817?hl=en))\n- [Figma](https://www.figma.com) ([privacy policy](https://www.figma.com/privacy/))\n- [Trello](https://trello.com) ([privacy policy](https://www.atlassian.com/legal/privacy-policy))\n- [Slack](https://slack.com) ([privacy policy](https://slack.com/intl/en-gb/trust/privacy/privacy-policy))\n\n## Things we don’t do\nWe don't:\n- sell or buy data from third parties, including mailing lists\n- do telephone or postal marketing\n\n## How we keep data safe\nWe carefully choose our tools and make sure they have security features appropriate to what we're using them for. We only use tools that:\n- default to secure (HTTPS) connections\n- allow multi-factor authentication\n- work with our password managers, so we can use strong, unique passwords by default\n\n## Data breaches\nIf we ever have a data breach, we'll tell the Information Commissioner’s Office according to [their guidance](https://ico.org.uk/for-organisations-2/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/).\n\n## Exemptions\nThere are exemptions to data protection regulations that might force us to share data about you, including requests by law enforcement. The ICO has a [full list](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/exemptions/a-guide-to-the-data-protection-exemptions/) of these exemptions.\n\n## Reviewing this policy\nInterrobang is growing quickly, so we frequently use new tools and services to do our work.\n\nWe'll review and update this policy at least every six months.\n\n## Your rights and getting in touch\nThe General Data Protection Regulation gives EU citizens the [following rights](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/):\n- right to be informed\n- right of access\n- right to rectification\n- right to erasure\n- right to restrict processing\n- right to data portability\n- right to object\n- rights related to automated decision-making, including profiling\n\nTo exercise any of these rights, let us know at **data@interrobang.coop**. We will respond to all requests within 28 days of receiving them.\n\nOur postal address is Interrobang, c/o Birch, 126 Addington Rd, South Croydon, CR2 8YA.\n\nIf you aren’t satisfied by our response, you can contact the Information Commissioner’s Office.\n",
-        "Open URL": {
-          "label": "Visit webpage",
-          "url": "https://interrobang.coop/privacy"
-        }
+        "Content": "Interrobang exists to make our communities more resilient to the interconnected, worsening crises of the coming decades.\n\nBig, systemic problems like climate, housing and social care criss-cross the public, private, charity and voluntary sectors.\n\nNo one organisation can fix them, and there is no single fix that works for every community.\n\nSo, we want to give people the confidence and skills to pursue their own ideas rather than enforce our own.\n\nA diverse and inclusive team is the most important single thing we can do to make this happen.\n\nWe’ve been vocal about these issues in [our newsletter](https://interrobanguk.substack.com).\n\nInterrobang has a 100% queer and non-male founding team, and our core membership of ten people is 90% non-male.\n\nThis page was last updated on 20 August 2023.\n## \n## What we're already doing\nTo get here, we:\n- pay a fair rate to our team members that is well above the market average. When we last benchmarked our margin, it was half that of comparative businesses.\n- encourage people to work flexibly and remotely, around family and personal commitments\n- fairly compensate research participants for their time, and bring them onto our team as peer researchers whenever practical\n- use inclusive recruitment that doesn’t expect things like university degrees from applicants\n- became a [Living Wage](https://www.livingwage.org.uk/accredited-living-wage-employers) accredited employer\n- became a [Disability Confident](https://www.gov.uk/government/collections/disability-confident-campaign) employer\n## \n## What we want to do\nAs we grow, we also want to:\n- offer more training, coaching and mentoring on a “pay what you can” basis, with sponsored places for people of marginalised groups\n- offer apprenticeships in junior roles on our teams\n- conduct equality and diversity surveys twice annually as our membership grows so we can more precisely track how we're doing\n- form a [member circle](https://www.sociocracyforall.org/sociocracy/) with particular interest in and responsibility for equality, diversity and inclusion issues.\n\n",
+        "Public URL": "https://interrobang.coop/equality",
+        "Show in footer menu?": true
       }
     }
   ]

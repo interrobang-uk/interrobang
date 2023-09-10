@@ -31,4 +31,4 @@ export const getTeamMembers = async () =>
   await getBaseFields<TeamMemberFields>("app7BQQGtlXjcwjQW/Team%20members")
 
 export const getPages = async () =>
-  await getBaseFields<PageFields>("appMTMhO4nu9hJIac/All")
+  await getBaseFields<PageFields>("app7BQQGtlXjcwjQW/Pages")

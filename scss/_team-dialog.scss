@@ -40,11 +40,11 @@
 
     h1 {
       font-size: 1.5rem;
-      font-weight: 500;
+      font-weight: 600;
 
       @media screen and (min-width: 800px) {
-        font-size: 1.75rem;
-        font-weight: 600;
+        font-size: 2rem;
+
       }
     }
 
@@ -96,11 +96,13 @@
     aside {
       display: grid;
       gap: .5rem;
+      align-content: flex-start;
+      justify-items: center;
+      text-align: center;
 
       @media screen and (min-width: 800px) {
-        align-content: flex-start;
-        justify-items: center;
-        text-align: center;
+        font-size: 1.1rem;
+        gap: .75rem;
       }
     }
 
@@ -111,7 +113,6 @@
   }
 
   &__bio {
-    // white-space: pre-wrap;
     margin-bottom: 1rem;
   }
 
