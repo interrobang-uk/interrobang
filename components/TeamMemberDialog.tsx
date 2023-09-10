@@ -114,7 +114,7 @@ const TeamMemberDialog = ({
 
                       return (
                         <li key={id} className="project-card">
-                          <Link href={`/work#${caseStudy.fields.Slug}`}>
+                          <Link href={`/work/${caseStudy.fields.Slug}`}>
                             <strong> {caseStudy.fields.Project}</strong>
                             <span>{caseStudy.fields.Client}</span>
 

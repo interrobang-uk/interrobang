@@ -4,6 +4,10 @@ export interface AirtableRecord<T> {
   fields: T
 }
 
+export interface AirtableRecordWithHTML<T> extends AirtableRecord<T> {
+  html: string
+}
+
 export interface CaseStudyFields {
   Project: string
   Client: string
@@ -15,6 +19,8 @@ export interface CaseStudyFields {
   "Policy areas": string[]
   "Team members who worked on this": string[]
   "Longer description": string
+  "Show in list": boolean
+  Icon?: string
 }
 
 export interface PageFields {

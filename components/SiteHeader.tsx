@@ -4,7 +4,7 @@ import { useState } from "react"
 const Links = () => (
   <>
     <Link href="/services">Our services</Link>
-    {/* <Link href="/work">Work</Link> */}
+    <Link href="/work">Our work</Link>
     <Link href="/team">Team</Link>
     <Link href="https://interrobanguk.substack.com">Newsletter</Link>
     <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>

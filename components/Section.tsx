@@ -9,7 +9,7 @@ const Section = ({
 }: {
   title?: ReactElement | string
   actions?: ReactElement | string
-  children: ReactElement | string
+  children: ReactElement | ReactElement[] | string
   className?: string
   id?: string
 }) => (

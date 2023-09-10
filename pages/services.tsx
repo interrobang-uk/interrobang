@@ -1,7 +1,6 @@
 import React from "react"
 import PageHeader from "../components/PageHeader"
 import Collage from "../components/Collage"
-import NewsletterSection from "../components/NewsletterSection"
 import AccordionSection from "../components/AccordionSection"
 import Box from "../components/Box"
 import ClientGridSection from "../components/ClientGrid"

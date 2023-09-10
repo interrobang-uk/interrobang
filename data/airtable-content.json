@@ -19,8 +19,38 @@
           "Health"
         ],
         "Client type": "Central government",
-        "Longer description": "We helped NHS Digital understand the state of the urgent and emergency services within the health system and find opportunities for digital to improve patient experience and service performance.\nOver six months, we spoke to over 120 people via a mix of in-depth interviews, on-the-spot interviews in hospitals, GP surgeries and workshops.\nWe uncovered insights about the emotional care and agency patients require beyond their clinical needs, as well as how gaps in service delivery and efficiency impact on emotional, psychological needs in ways that ultimately affect overall service performance.\nThese insights informed rich user personas, user needs and a proposed map of what a more intuitive, user-friendly service system could look like.\n\n\n",
+        "Show in list": true,
+        "Longer description": "We helped NHS Digital understand the state of the urgent and emergency services within the health system and find opportunities for digital to improve patient experience and service performance.\n\nOver six months, we spoke to over 120 people via a mix of in-depth interviews, on-the-spot interviews in hospitals, GP surgeries and workshops.\n\nWe uncovered insights about the emotional care and agency patients require beyond their clinical needs, as well as how gaps in service delivery and efficiency impact on emotional, psychological needs in ways that ultimately affect overall service performance.\nThese insights informed rich user personas, user needs and a proposed map of what a more intuitive, user-friendly service system could look like.\n\n\n",
+        "Icon": "rapid",
         "Slug": "nhs-digital--urgent-and-emergency-care",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "rec3nqzQVoicpQnQX",
+      "createdTime": "2023-09-04T14:02:56.000Z",
+      "fields": {
+        "Our involvement": [
+          "Service design",
+          "User research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Samaritans",
+        "Summary": "We worked with Samaritans to offer alternative provisions that fitted the needs of their underserved audiences better.",
+        "Read more": "https://www.samaritans.org/how-we-can-help/contact-samaritan/self-help/",
+        "Project": "Self-help and webchat for Samaritans",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Charity",
+        "Longer description": "The traditional Samaritan's phone helpline is used by people who tend to be older, white, and middle class. We helped them review how the service was working and offer alternatives that were a better fit for their underserved audiences, including ethnic minorities.\n\nWe co-designed webchat and self-help services with panels of young people that represented a diverse profile of potential users. We guided the panels to make prototypes of how the services could look and work.\n\nIt’s unethical to bring traditional research methods like A/B testing to this kind of high-risk intervention into people’s lives. Doing trauma-informed co-design with peer experts meant we could reduce the likelihood of harm and get deeper insights into how the service should work.\n\nSamaritans is a federated organisation: each branch is an independent charity with its own priorities and ways of working. They are experts on their local area, but this makes it more difficult to provide new services in a consistent, joined-up way.\n\nWe addressed this by running a closed pilot in a small geographic area where we could work closer with the branches involved, giving a small number of users an option to opt into the trial from the Samaritans website.\n\n[Self-help is now a core part](https://www.samaritans.org/how-we-can-help/contact-samaritan/self-help/) of what Samaritans do, and they are gradually bringing the [webchat service](https://www.samaritans.org/how-we-can-help/contact-samaritan/chat-online/) to more groups of people.\n",
+        "Slug": "samaritans-self-help-and-webchat-for-samaritans",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
@@ -48,12 +78,72 @@
           "Education and learning"
         ],
         "Client type": "Charity",
-        "Longer description": "Learning with Parents is a charity helping families to learn together at home. Over the pandemic, the need for at-home learning skyrocketed, and the team wanted to upgrade their platform to support the increase in users.\nWe led the redesign of their web app and website, prioritising responsive and accessible design patterns. This included both the pupil's learning experience and the teacher's admin views.\nAfter the rebuild, families with mobile devices can use the materials for the first time, increasing their access to education at home. The teachers can also keep an eye on their class progress both in and out of the classroom.\n",
+        "Longer description": "Learning with Parents is a charity helping families to learn together at home. Over the pandemic, the need for at-home learning skyrocketed, and the team wanted to upgrade their platform to support the increase in users.\n\nWe led the redesign of their web app and website, prioritising responsive and accessible design patterns. This included both the pupil's learning experience and the teacher's admin views.\n\nAfter the rebuild, families with mobile devices can use the materials for the first time, increasing their access to education at home. The teachers can also keep an eye on their class progress both in and out of the classroom.\n",
         "Slug": "learning-with-parents-designing-a-platform-to-help-children-learn-at-home",
         "Created By": {
           "id": "usrROSHARE0000000",
           "email": "anonymous@noreply.airtable.com",
           "name": "Anonymous"
+        }
+      }
+    },
+    {
+      "id": "rec4sphjy5I2QGe9H",
+      "createdTime": "2023-09-04T14:30:41.000Z",
+      "fields": {
+        "Our involvement": [
+          "Research",
+          "Technology",
+          "Content design"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Now Foster",
+        "Summary": "We built a new website and digital “onboarding\" journey for Now Foster to boost their numbers of interested foster carers. ",
+        "Read more": "https://interrobanguk.substack.com/p/re-imagining-foster-care-with-now",
+        "Project": "A new approach to foster care",
+        "Policy areas": [
+          "Social care"
+        ],
+        "Client type": "Charity",
+        "Show in list": true,
+        "Longer description": "Now Foster, a social enterprise start-up aiming to provide a community-centric alternative to expensive adoption agencies, wanted to boost their numbers of interested foster carers by broadening the appeal of fostering to a wider profile of people.\n\nWith this in mind, we designed and built for them a website and digital “onboarding journey” for new foster carers to explore their options and register interest.\n\nThis work was strongly hypothesis-led, as colleagues had worked on similar projects before for Buckinghamshire Council, on both adoption and fostering. We quickly discovered transferable knowledge, such as:\n- prospective foster carers thinking the criteria was more stringent than it actually was: only “angels” are accepted\n- more people are eligible for fostering than they think\n- making it possible to book an initial conversation online substantially boosted interest and, eventually, full applications\n\nNow Foster is now piloting the new journey with Newham Council, in East London.\n\n\n",
+        "Icon": "support",
+        "Slug": "now-foster-a-new-approach-to-foster-care",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "rec7PJuOQFetzt1a6",
+      "createdTime": "2023-09-04T14:10:15.000Z",
+      "fields": {
+        "Our involvement": [
+          "User research",
+          "Technology",
+          "Design",
+          "Service design"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Hackney Council ",
+        "Summary": "We helped Hackney Council redesign their housing services for over 5,000 homes.\n",
+        "Project": "Redesign of Housing Services ",
+        "Policy areas": [
+          "Housing"
+        ],
+        "Client type": "Local government",
+        "Longer description": "In 2020, colleagues helped Hackney Council redesign their housing services. This was a massive operation, affecting hundreds of staff members and over 5,000 homes across the borough.\n\nWe did it by working closely with the experts to break an enormous service up into small, manageable chunks, like:\n- Talk to my housing officer\n- Make a shared housing plan \n- Check my position on the social housing waiting list\n\nWe treated each of these chunks as a mini-service in itself, designing digital tools that solved the problem really well in isolation but also could be strung together, sharing data behind the scenes to provide a consistent, high-quality experience for residents.\n\nWe did all this during the most chaotic part of the coronavirus pandemic, as services groaned under the pressure of being provided remotely for the first time.\nThis “divide and conquer” strategy meant we could make pragmatic, short-term gains without tackling the complexity of overhauling the entire service.\n\nAs Hackney Council’s strategic partner, we partnered to reimagine their housing services. This involved:\n- researching, designing and building new digital services for residents, including applying for temporary accommodation and reporting repairs\n- researching, designing and building new staff-facing case management tools to more effectively administer their services\n- forming a new technology strategy reliant on open source software and standards-compliant APIs rather than expensive supplier contracts\n- providing strategic consultancy services to help Hackney reorganise their teams around user needs rather than business needs\n- engaging the entire housing system beyond the council with workshops and research interviews, including landlords, residents and housing associations\n- \nHackney’s digital housing services are now acknowledged as some of the best in the country.\n",
+        "Slug": "hackney-council--redesign-of-housing-services-",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
         }
       }
     },
@@ -78,7 +168,9 @@
           "Financial"
         ],
         "Client type": "Local government",
-        "Longer description": "We helped Torfaen County Council make their digital inclusion services in the Gwent area more effective. We did this by focusing on underserved groups of people who didn’t think these services were for them.\n\nWe started by running assumption mapping and expectation-setting sessions with our stakeholders, and wrote hypotheses based on our previous work.\n\nOur research plan was deliberately written to prove (and disprove) those hypotheses as quickly as possible, so we could focus on the most pressing gaps in our knowledge.\n\nThere was a strong place-based component to our work. Because digitally excluded groups rely on physical touchpoints, we made geographic maps of access points like libraries, compiling KPIs for each one as well as visiting several in person.\nWe made user personas that reflected the deep place-based differences in behaviour and attitudes across the region. This way, Torfaen can make informed decisions about the service offering.\n\n\n",
+        "Show in list": true,
+        "Longer description": "We helped Torfaen County Council make their digital inclusion services in the Gwent area more effective. We did this by focusing on underserved groups of people who didn’t think these services were for them.\n\nWe started by running assumption mapping and expectation-setting sessions with our stakeholders, and wrote hypotheses based on our previous work.\n\nOur research plan was deliberately written to prove (and disprove) those hypotheses as quickly as possible, so we could focus on the most pressing gaps in our knowledge.\n\nThere was a strong place-based component to our work. Because digitally excluded groups rely on physical touchpoints, we made geographic maps of access points like libraries, compiling KPIs for each one as well as visiting several in person.\nWe made user personas that reflected the deep place-based differences in behaviour and attitudes across the region. This way, Torfaen can make informed decisions about the service offering.\n",
+        "Icon": "sense",
         "Slug": "torfaen-council-digital-inclusion",
         "Created By": {
           "id": "usrDANz94sv88vhki",
@@ -88,32 +180,79 @@
       }
     },
     {
-      "id": "recEx3miGVmQpDo2I",
-      "createdTime": "2023-09-01T18:51:11.000Z",
+      "id": "recATQKtkIaLCuAtJ",
+      "createdTime": "2023-09-04T13:42:25.000Z",
       "fields": {
         "Our involvement": [
-          "User research",
-          "Data Analysis",
-          "Design",
-          "Research"
+          "Content design",
+          "Facilitation"
         ],
-        "Team members who worked on this": [
-          "rec08Eq7b1s9VXbhX"
-        ],
-        "Client": "NHSx and Digital Social Care",
-        "Summary": "We helped NHSx and Digital Social Care launch a DPS which made it easier for local authorities and NHS trusts to adopt digital tools from modern suppliers.",
-        "Project": "NHSx and Digital Social Care Dynamic Purchasing System (DPS)",
+        "Client": "University of Sheffield",
+        "Summary": "We helped design and deliver a series of workshops to help Researchers at the University of Sheffield explore the future of digital technology with a teenage audience. ",
+        "Project": "Innovation Workshops ",
         "Policy areas": [
-          "Data",
-          "Technology"
+          "Education and learning"
         ],
-        "Client type": "Central government",
-        "Longer description": "NHSx and Digital Social Care were launching a dynamic purchasing system (DPS) to make it easier for local authorities and NHS trusts to adopt digital tools from modern suppliers.\nWe helped them understand the user needs of care providers, carers and patients around digital social care plans and wider records, by interviewing nine care providers and surveying their staff. We supplemented this with a round of interviews with ten expert NHS stakeholders.\nWe found serious systemic barriers, like existing products on the market usually being too broad to work out-of-the-box, and there being lots of risk but minimal incentives for care providers to use digital tools in the first place.\nWe also made a list of the most crucial user needs, which were turned into the evaluation and success criteria for the DPS.\n\n\n\n\n",
-        "Slug": "nhsx-and-digital-social-care-nhsx-and-digital-social-care-dynamic-purchasing-system-(dps)",
+        "Client type": "Education ",
+        "Longer description": "Researchers at the University of Sheffield were interested in exploring the future of digital technology, in particular the Internet of Things, with a teenage audience. They especially wanted to explore teenagers’ understanding of ethics, privacy, and the potential impact on day-to-day life in the future.\n\nSince this was a potentially dry and complicated topic that could be challenging for teenagers to enthusiastically engage, the University wished to engage in design-thinking methods to ensure the best possible output from their sessions.\n\nWe were consulted to lead the development and delivery of a series of collaborative workshops with teenagers at a local school to gather relevant data. We combined typical design sprint activities with methods for collaboration and co-design, for example in order to envision a future state for the Internet of Things, participants crafted utopian and dystopian storylines extrapolating the impact of this technology on the day-to-day life of a secondary school student. Bespoke activities like this one were leveraged to engage the students in design thinking and provide a rich output of insights and deliverables for the researchers to build on.\n\n\n",
+        "Slug": "university-of-sheffield-innovation-workshops-",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
           "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recAgBOM1Nh376tmE",
+      "createdTime": "2023-09-04T14:56:25.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Research",
+          "Content design"
+        ],
+        "Client": "Greater London Authority",
+        "Summary": "We collaborated with the CCSaR to research, design, and implement a theory of change that strengthened their services and revamped their website.",
+        "Read more": "https://interrobanguk.substack.com/p/81473df4-cf17-47dc-8342-7cc5eac8f106",
+        "Project": "Cultural and community spaces at risk",
+        "Policy areas": [
+          "Planning"
+        ],
+        "Client type": "Local government",
+        "Show in list": true,
+        "Longer description": "The Community and Culture Spaces at Risk office of the GLA works with communities across London that are at risk of losing their spaces, giving expert advice and tailored support to a huge breadth of groups.\n\nWe worked to understand the impact of their work, how communities and cultures approach the team and what support they need. We ran one-to-one qualitative research interviews with members of resident-led communities who had approached the CCSaR for assistance via a range of means.  We were flexible with our approach, timings and technical set up; recognising that volunteers and community organisers have considerable pressures and differing technical abilities. We met organisers where they were; offering in-person evening and weekend sessions, as well as over video calls. \n\nWe established the overarching needs of the communities, understanding that they needed to be able to navigate through available resources and apply for tailored support quickly and easily. \n\n\n",
+        "Icon": "platforms",
+        "Slug": "greater-london-authority-cultural-and-community-spaces-at-risk",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recFR00i5n9rDzsrD",
+      "createdTime": "2023-09-06T16:34:06.000Z",
+      "fields": {
+        "Our involvement": [
+          "Research"
+        ],
+        "Client": "Lambeth Southwark Lewisham",
+        "Summary": "Sarah led the Fulfilling Lives evaluation team, identified core barriers to the access of services and co-designed improvements to services. ",
+        "Read more": "https://fulfillingliveslsl.london/wp-content/uploads/2022/03/Co-produced-recommendations-3.pdf",
+        "Date commenced": "2021-01-01",
+        "Project": "Fulfilling Lives evaluation",
+        "Policy areas": [
+          "Inclusion"
+        ],
+        "Client type": "Local government",
+        "Longer description": "At[ Fulfilling Lives Lambeth Southwark Lewisham](https://fulfillingliveslsl.london/wp-content/uploads/2021/12/Re-thinking-Outcomes-Guide-for-Commissioners.pdf), Sarah led the research and evaluation team. The Fulfilling Lives programme supported those experiencing multiple disadvantage (defined in this context as a combination of homelessness, mental ill-health, drug and alcohol use and criminal justice involvement, all of whom experienced financial hardship alongside these needs) and sought to identify systemic barriers facing this group and co-design solutions. She captured a range of data to inform our work including case management notes, outcomes data, systems mapping, and speaking to people we supported.\n\nSarah conducted interviews and focus groups with people experiencing multiple disadvantage who were or had been experiencing hardship and difficulty getting the support they needed; it was essential that we heard directly from people with lived experience. \n\nThis gave us a comprehensive understanding of their journeys and the barriers and challenges that they faced, which gave insight into what could improve their journey through the system. It was essential that this work was carried out in a sensitive, trauma-informed way and we used participatory methods to ensure that participants felt in control of their own narrative. \n\nShe undertook training in trauma, gender and culturally informed approaches that she applies in all of her work. Interviews took place on the phone, in-person and on Zoom and had to be delivered in an accessible and adaptable way to respond to individual circumstances and needs.\n\nThrough capturing this information, we were able to identify core barriers within the local system, for example, women were struggling to access drug and alcohol support in one particular borough. We were then able to advocate for these women and liaise with the local drug service, which led to a mixed group of service users and staff at the service coming together to co-design improvements to the service to enable women to access the drug and alcohol support they needed.\n\n",
+        "Slug": "lambeth-southwark-lewisham-fulfilling-lives-evaluation",
+        "Created By": {
+          "id": "usrROSHARE0000000",
+          "email": "anonymous@noreply.airtable.com",
+          "name": "Anonymous"
         }
       }
     },
@@ -140,7 +279,9 @@
           "Financial"
         ],
         "Client type": "Central government",
+        "Show in list": true,
         "Longer description": "We helped DWP make Universal Credit work better for self-employed people.\nSelf-employed claimants were frequently making mistakes in their monthly journal reports, especially on expenses, leading to sanctions and delays in getting their money.\n\nWe used a mix of qualitative and quantitative research methods: usability testing the end-to-end service, shadowed in-person meetings between work coaches and claimants, and reviewed the content of web pages along the user journey. We collated these findings alongside web analytics data.\n\nWe rapidly prototyped new, accessible and inclusive content over three iterative cycles, improving after each round of testing.\n\nWe proved statistically that users were making fewer mistakes, saving DWP money and meaning more people got an accurate UC payment on time and without penalty.\n",
+        "Icon": "divide",
         "Slug": "dwp-making-universal-credit-work-for-self-employed-people",
         "Created By": {
           "id": "usrCyo26VZP1ufKa2",
@@ -162,7 +303,7 @@
           "rec08Eq7b1s9VXbhX"
         ],
         "Client": "NHS & Digital Social Care",
-        "Summary": "We helped NHSx and Digital Social Care launch a dynamic purchasing system (DPS) to make it easier for local authorities and NHS trusts to adopt digital tools from modern suppliers.",
+        "Summary": "We helped NHSx and Digital Social Care launch a DPS which made it easier for local authorities and NHS trusts to adopt digital tools from modern suppliers.",
         "Read more": "https://example.com",
         "Date commenced": "2020-01-01",
         "Project": "Digital social care records",
@@ -202,12 +343,179 @@
           "Benefits"
         ],
         "Client type": "Central government",
+        "Show in list": true,
         "Longer description": "Working with Universal Credit, we were given the challenge of designing a service for users who could not open a bank account, alongside creating the communication strategy, translating and iterating the branding into a physical medium, and disseminating materials to those in need through the best possible means.\n\nOne of the most common reasons why a person could not open a bank account was having no ‘fixed address’, which in practice often translates to users who are experiencing homelessness.\n\nWe ran qualitative, semi-structured interviews with homelessness charities, people who had formerly been experiencing homelessness, and people currently living with no fixed address. \n\nThese interviews formed a foundation of our work informing the design of a user-centric service that not only met the functional requirements but also took into account the specific circumstances and limitations faced by individuals without a fixed address. We incorporated their feedback, suggestions, and lived experiences to ensure that the service was accessible, intuitive, and met their specific needs.\n\nThroughout the project, we embraced an iterative approach, continuously refining and adapting our solutions based on user feedback and emerging insights. By adopting this iterative process, we ensured that the service and communication strategy were responsive to the evolving needs of the target audience, allowing for ongoing improvement and optimization.\n\nBy combining qualitative research, collaborative engagement with stakeholders, and an iterative design approach, we were able to create a tailored service and communication strategy that directly addressed the challenges faced by individuals without a fixed address. Our commitment to understanding the unique circumstances and perspectives of this vulnerable group allowed us to deliver a solution that was empathetic, effective, and responsive to their needs.\n\n\n",
+        "Icon": "motion",
         "Slug": "dwp-getting-universal-credit-without-a-fixed-address",
         "Created By": {
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
+        }
+      }
+    },
+    {
+      "id": "recYCvDH6O4fqRDYw",
+      "createdTime": "2023-09-04T14:51:14.000Z",
+      "fields": {
+        "Our involvement": [
+          "User research",
+          "Service design",
+          "Design",
+          "Technology"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "NHS",
+        "Summary": "In February 2020, on the eve of the pandemic, colleagues were engaged to deliver a workable product concept for what would eventually become the NHS contact tracing app.",
+        "Project": "Making the coronavirus contact tracing app",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Central government",
+        "Show in list": true,
+        "Longer description": "Working from the NHS building in Elephant and Castle, we rapidly came up with the now-familiar proposition of privacy-preserving, Bluetooth-based contact tracing. We proved the concept with a field test of a prototype app on the London Underground.\n\nOur early user research found that people were willing to click “agree” on anything the app asked, on the grounds that they trust the NHS. The ethical issues of balancing individual privacy with community benefit were clear to us. We advocated for bringing in experts on trust, data and privacy to advise the project, and despite the incredible time pressures, we were able to do so.\n\nGovernment services are usually fairly static and unchanging, so we invented and tested new design patterns to help users understand exactly what the app was doing, and how, in real time.\n\nOur rapid prototyping and visual communication work meant that important stakeholders could quickly converge on a common understanding, and we presented our work to meetings of senior NHS and government figures.\n\n\n",
+        "Icon": "germ",
+        "Slug": "nhs-making-the-coronavirus-contact-tracing-app",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recYINAi9lVuCXCWs",
+      "createdTime": "2023-09-04T14:15:18.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Data Analysis",
+          "Service design"
+        ],
+        "Client": "Dorset Council ",
+        "Summary": "We have worked with Dorset Council to extend their Family Hubs offer, creating a website for parents and carers of SEN children and redesigning existing web content.",
+        "Project": "Council Family Hubs",
+        "Policy areas": [
+          "Housing"
+        ],
+        "Client type": "Local government",
+        "Longer description": "Working alongside the team at Dorset Council, we reimagined existing web content for their Family Hubs Offer. \n\nWe worked to gain an understanding of the problems within this area by running interviews with internal and external stakeholders to establish user needs, business goals and technical limitations; internal being Council colleagues, teams within the Council, and anyone who would be employed via or working for organisations involved in Dorset’s Family Hubs.\n\nOne of the main stakeholders we consulted were parents. We gathered their feedback, past experiences of accessing Family Hubs, and unmet requirements to build our knowledge of the challenges, and enable us to consider them from a multitude of perspectives. Alongside stakeholder engagement, we analysed usage data of Dorset’s online Family Hubs to understand user behaviours. \n\nAfter collecting usage data and collating information from user research interviews and consultations, we established what users needed from the Dorset Family Hub, and began designing the service to reflect the needs of stakeholders and users.\n\nWe designed the website to reflect the comms strategy, ethos and branding of Dorset Council’s family hub; created accessible online materials to fulfil what parents needed and give pertinent information around events and support. \n\nWe redesigned the user journeys using a ‘life events’ approach, to understand at what points, after what changes in their lives citizens needed to approach Dorset County Council, and furthermore, understand how this was communicated to them and the methods through which they received this information.\n\nThroughout the design process, we ran sessions to update stakeholders internal to the Council, liaising regularly to ensure they had oversight of our process, were kept updated on the progress of the work and could share interesting insights from our research and data analysis. \n",
+        "Slug": "dorset-council--council-family-hubs",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recZlEL13oU9neTUc",
+      "createdTime": "2023-09-04T13:31:59.000Z",
+      "fields": {
+        "Our involvement": [
+          "User research",
+          "Service design"
+        ],
+        "Client": "York St John Communities Centre",
+        "Summary": "Inspired by a pioneering model in Trieste, the Connecting our Cities project in York wanted to develop a community and place-based model for mental health care.",
+        "Project": "York Mental Health Hub",
+        "Policy areas": [
+          "Health",
+          "Social care",
+          "Inclusion"
+        ],
+        "Client type": "Charity",
+        "Longer description": "Laura led the design of a mental health hub pilot in York alongside a blended team that included clinical staff, voluntary sector and social prescribers, council representatives, and members of the community with lived experience of the mental health care system in York.\n\nLaura employed participatory design methods to help address imbalances in power across the representative groups and to build involvement from community members who had lost trust in their local providers.\n\nThe team were encouraged to consider the wider system as well as their pilot, and open working sessions with system leaders and representatives helped to engage decision-makers and break down barriers (like criteria for accessing support, arduous processes, or risk-averse policies that excluded community members).\n\n\n",
+        "Slug": "york-st-john-communities-centre-york-mental-health-hub",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recaK3ecWcPX2h0wL",
+      "createdTime": "2023-09-04T15:02:42.000Z",
+      "fields": {
+        "Our involvement": [
+          "User research",
+          "Service design",
+          "Design",
+          "Research"
+        ],
+        "Team members who worked on this": [
+          "rec08Eq7b1s9VXbhX"
+        ],
+        "Client": "Hackney Council ",
+        "Summary": "We worked with Hackney Council and their Public Health team to identify ways to support all communities with their health. ",
+        "Project": " Healthy Living in Hackney",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Local government",
+        "Longer description": "Interrobang colleagues led a place-based project to support the public health team in Hackney Council to identify ways to support the Black Caribbean, Black African and Turkish communities in the area to improve their health behaviours. \n\nAware of the tricky power dynamics and systemic health inequalities at play, we wanted to focus our research and subsequent design solutions on those most at risk of exclusion. This involved:\n- Recruiting people most impacted by poor health outcomes and excluded from services due to unequal investment in healthcare.\n- Engaging with community champions who could connect with and represent people unlikely to engage with us directly / the council and who are often most excluded from research initiatives.\n- Running diary study activities with participants over a 2 week period before conducting reflective, ethnographic interviews in cafes / their homes / over the phone, according to where participants felt most comfortable. \n- Building the research capability of community champions to conduct research with their peers and get a level of nuance we wouldn’t be able to otherwise. \n\nWorking with participants from the research, in a final group workshop, we co-created a communications framework and rich personas to reflect the context and needs of the community. This helped the public health team build empathy and improve their outreach to local communities so they could more effectively land important health behaviour messages. \n",
+        "Slug": "hackney-council---healthy-living-in-hackney",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recaurnJ5whaduKuM",
+      "createdTime": "2023-09-04T13:36:50.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Research",
+          "User research"
+        ],
+        "Client": "Chiaro Technology ",
+        "Summary": "Hannah supported Chiaro Technology to design and test a new Bluetooth connected, hospital-grade, ultra-quiet breast pump for the American insurance market.",
+        "Read more": "https://time.com/collection/best-inventions-2021/6113091/elvie-stride/",
+        "Project": "Elvie Stride",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Private sector ",
+        "Longer description": "Following the success of the Elvie Pump, Chiaro Technology decided to create a new Bluetooth connected, hospital-grade, ultra-quiet breast pump for the American insurance market. Elvie Stride is free to millions of women at the point of purchase through their insurance whilst still maintaining the extremely high standards set by the Elvie Pump; as quiet and discreet as possible and easy and effective to use. Inception to market was over the course of about 18 months, almost all of them over the working from home during COVID. \n\nOur colleague Hannah was part of the leadership team, alongside a design and project manager. Her primary focus was to bring the voice of use to decision making whilst driving new product development. Her expert user knowledge enabled her to bring user voice across a variety of teams to ensure that product development kept a sharp focus on the user, as a counter balance to Engineering, Product Design and Commercial points of view. \n\nDay to day she worked with a team of developers to ensure that Elvie Stride could work with the existing mobile app. Additionally, she worked alongside product designers and engineers from initial prototyping right through to product launch on the hardware. In a highly collaborative team her role was to ensure that development was user, not technology, led. \n\nElvie Stride was included in the TIME 100 Best Inventions of 2021. It also won a Reddot award in 2022 and was Highly commended in Dezeen’s Wearable Design of the Year 2022.\n",
+        "Slug": "chiaro-technology--elvie-stride",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "reccJ855zhdWHDgGf",
+      "createdTime": "2023-09-04T14:39:37.000Z",
+      "fields": {
+        "Our involvement": [
+          "Technology",
+          "Content design",
+          "Design"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "British Film Institute",
+        "Summary": "We worked with the British Film Institute to deliver an overhauled public website and design system. ",
+        "Project": "British Film Institute's new website ",
+        "Policy areas": [
+          "Arts and culture"
+        ],
+        "Client type": "Charity",
+        "Longer description": "We replaced BFI’s decade-old website with a new philosophy: viewing their website as a platform to provide services, rather than an advertisement. We used interviews, group workshops as well as niche methods like diary studies.\n\nWe lobbied BFI for wider access to their teams so we could follow problems to their source. The old website was caked in ads. Rather than accepting this as a “requirement”, we found that it cost the same to administer the ads as the revenue they made, so we convinced BFI to scrap them for a saner user experience.\n\nBFI offers support to film students and educators. People struggled to understand what they could get and how to apply for it. We prioritised these services by popularity and ran research with the teams providing them to explain them in a simpler way and truncate the application processes.\n\nWe wanted to galvanise BFI into adopting a new user-centric mentality. We went beyond the ‘usual suspects’, engaging IT, accountants, lawyers and policymakers, using the project as a wedge to transform teams and processes to fit modern expectations.\n\nBFI wanted to model accessibility from day one, so we avoided a top-down “creative direction” approach, and let these elements emerge organically from meeting user needs. In the end, we tested a minimal, elegant visual brand that lets films speak for themselves.\n\nTo de-risk the project, we used the London Film Festival (#LFF) as a pilot. We continuously evaluated: using small workshops and interviews supplemented by web analytics, judging success with a theory of change.\n\n\n",
+        "Slug": "british-film-institute-british-film-institute's-new-website-",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
         }
       }
     },
@@ -238,6 +546,59 @@
           "id": "usrDANz94sv88vhki",
           "email": "chloe@interrobang.coop",
           "name": "Chloe Coleman"
+        }
+      }
+    },
+    {
+      "id": "receeMsQ0J1J9vjRi",
+      "createdTime": "2023-09-04T13:54:17.000Z",
+      "fields": {
+        "Our involvement": [
+          "Service design",
+          "User research"
+        ],
+        "Client": "City of London Corporation",
+        "Summary": "In 2021, we were tasked by the City of London Corporation with producing print and digital material for residents to encourage voter registration.",
+        "Project": "Voter Registration Campaign ",
+        "Policy areas": [
+          "Civic Participation "
+        ],
+        "Client type": "Local government",
+        "Longer description": "Given the City’s small population, unusual voting system and lack of knowledge about the Corporation’s responsibilities, this project focussed on the need to encourage voter participation, civic engagement and voter registration. Given this, we used a dedicated brand identity and unusual messaging, including incentivisation through prize draws for registering.\n\nWe identified several different user groups, including service workers, financial services employees, renters and business owners. The print aspect of the campaign involved direct mail, distribution to businesses and handouts at public events.\n\nDespite the pandemic-related disruption, turnout in the 2022 elections increased by 5%, largely attributable to this campaign.\n\n",
+        "Slug": "city-of-london-corporation-voter-registration-campaign-",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recfj3Tn8ODCdOUHa",
+      "createdTime": "2023-09-04T15:00:35.000Z",
+      "fields": {
+        "Our involvement": [
+          "Service design",
+          "User research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Hackney Council",
+        "Summary": "Interrobang colleagues worked with Hackney Council to conceive, build and run a converged employment skills service for residents of the borough.",
+        "Project": "Hackney Works employability services",
+        "Policy areas": [
+          "Education and learning",
+          "Local Economy",
+          "Employment"
+        ],
+        "Client type": "Local government",
+        "Longer description": "Interrobang colleagues worked with Hackney Council to conceive, build and run a converged employment skills service for residents of the borough.\n\nHackney’s prior offering was fragmented and largely ineffective, relying on direct, in-person interventions that couldn’t scale.\n\nWe used co-design, user research and rapid prototyping to create a digital service that combined adult learning, career coaching, apprenticeships and other work placement schemes into a single package of integrated support.\n\nHackney Works was forced to take on an expanded remit during the coronavirus pandemic. We helped them shift away from direct, in-person support and to facilitating voluntary and community groups active in Hackney, providing them with resources and linking them up with the residents who most needed help.\n\n\n",
+        "Slug": "hackney-council-hackney-works-employability-services",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
         }
       }
     },
@@ -292,8 +653,150 @@
           "Social care"
         ],
         "Client type": "Local government",
-        "Longer description": "Through this project, we supported trailblazer councils; working with them in workshops and ongoing 1:1s; to build their design capabilities to use in their innovation projects, particularly for the LGA’s COTP. The Programme seeks innovative action to tackle childhood obesity at local level. The programme is funded by the [Department of Health and Social Care](https://www.gov.uk/search/all?keywords=childhood+obesity&order=relevance) and managed by the Local Government Association with support from Public Health England.\nWe also supported the broader project team to reflect and iterate on how they ran the programme, taking learning from the council team’s experiences and the outputs from the evaluation team. \n[This blog](https://blog.wearefuturegov.com/the-systemic-challenge-of-childhood-obesity-60b89355bd0b) demonstrates the place-based and systemic approach we took in supporting the project teams in the councils to identify and define the problem they were going to focus on in their innovation projects.[ ](https://blog.wearefuturegov.com/the-systemic-challenge-of-childhood-obesity-60b89355bd0b)\n",
+        "Longer description": "Through this project, we supported trailblazer councils; working with them in workshops and ongoing 1:1s; to build their design capabilities to use in their innovation projects, particularly for the LGA’s COTP. The Programme seeks innovative action to tackle childhood obesity at local level. The programme is funded by the [Department of Health and Social Care](https://www.gov.uk/search/all?keywords=childhood+obesity&order=relevance) and managed by the Local Government Association with support from Public Health England.\n\n\nWe also supported the broader project team to reflect and iterate on how they ran the programme, taking learning from the council team’s experiences and the outputs from the evaluation team. \n\n[This blog](https://blog.wearefuturegov.com/the-systemic-challenge-of-childhood-obesity-60b89355bd0b) demonstrates the place-based and systemic approach we took in supporting the project teams in the councils to identify and define the problem they were going to focus on in their innovation projects.[ ](https://blog.wearefuturegov.com/the-systemic-challenge-of-childhood-obesity-60b89355bd0b)\n",
         "Slug": "local-government-association--lga’s-childhood-obesity-trailblazer-programme",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "reciBmMdhesK4LGKE",
+      "createdTime": "2023-09-04T13:27:39.000Z",
+      "fields": {
+        "Our involvement": [
+          "User research",
+          "Design",
+          "Research"
+        ],
+        "Team members who worked on this": [
+          "recwEyewiheL1vvRR"
+        ],
+        "Client": "Empowering Local",
+        "Summary": "We worked with Empowering Local to understand how funders can best support place-based approaches to funding youth provision.",
+        "Project": "Place-based youth funding",
+        "Policy areas": [
+          "Financial"
+        ],
+        "Client type": "Funder",
+        "Show in list": true,
+        "Longer description": "Through this project we worked with Empowering Local, a group of local, regional, and national funders and infrastructure organisations, committed to supporting place-based funding of the VCSE sector that meets the needs of children, young people, and communities, to understand how funders can best support place-based approaches to funding youth provision.\n\nThrough our qualitative research efforts, we engaged directly with community members, listening to their stories, experiences, and aspirations. We conducted one-on-one interviews and facilitated group discussions, ensuring that every voice was heard and valued. This inclusive approach allowed us to gain deep insights into the pressing issues faced by the community, as well as identify areas where Empowering Local’s interventions had the greatest impact. \n\nAnother critical aspect of our work was building community resilience. We recognised that communities are stronger when they come together, supporting and uplifting one another. Through our initiatives, we fostered a sense of belonging, encouraged community collaboration, and provided resources that help communities thrive in the face of challenges.\n\nWe provided recommendations in three main areas; laying the groundwork, design and delivery and sustainability and embedding. We concluded with 8 main calls to action to improve the effectiveness of place-based funding in our recommendations.\n\n\n",
+        "Icon": "overlap",
+        "Slug": "empowering-local-place-based-youth-funding",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "reck99Pjzg162ldJm",
+      "createdTime": "2023-09-04T13:45:43.000Z",
+      "fields": {
+        "Our involvement": [
+          "Service design",
+          "Org design",
+          "User research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "GDS ",
+        "Summary": "We worked with a GDS to provide a bold ten year vision for the future, considering how user needs might be met by emerging technologies and a changing political landscape.",
+        "Project": "Strategy and Vision for GDS",
+        "Policy areas": [
+          "Organisational Strategy "
+        ],
+        "Client type": "Central government",
+        "Longer description": "To help define a bold new ten-year vision, our team, which consisted of researchers, designers and technologists, began by interviewing over a dozen stakeholders at the deputy director level and above, hearing about their work and opinions about the future. Reeling from recent redundancies and with the unit’s reputation suffering, we discovered a crisis of confidence and a lack of new ideas from stakeholders at all levels.\n\nWe turned to external experts from the public, private and third sectors: speaking to public intellectuals, writers, community leaders, artists, investors and innovators. With a time frame of 2033 in mind, we synthesised the common themes of these conversations and used them to generate new concepts to test.\n\nWe then prototyped these future-facing concepts with a variety of means, from flashcards to clickable prototypes, to working software. We then used them as provocations in several more rounds of research with stakeholders, citizens and external experts. We focused not only on individual attitudes but on the community and society-level consequences of these interventions, both positive and negative.\n\nWe packaged these concepts into a user-centric narrative with a mix of storytelling methods, including journey mapping, storyboarding and new techniques we invented for the project. \n\nWe provided template business cases and policy documents to allow the client to hit the ground running with implementation. We involved stakeholders in our day-to-day work, as part of our blended team, and had them deliver our milestone show-and-tells so that the ideas were felt to have come from within. The client is now converting this vision into their official strategy.\n\n\n",
+        "Slug": "gds--strategy-and-vision-for-gds",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recljAMZWXPCWNieq",
+      "createdTime": "2023-09-04T14:35:42.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Technology",
+          "Content design"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Buckinghamshire Council",
+        "Summary": "We were commissioned by Buckinghamshire Council to design a new front door for their social care services.",
+        "Project": "Family Information Service",
+        "Policy areas": [
+          "Social care",
+          "Benefits",
+          "Technology"
+        ],
+        "Client type": "Local government",
+        "Longer description": "Interrobang colleagues recently partnered with Buckinghamshire Council’s Family Information Service to deliver a new digital comms experience for their users. This new experience comprises:\n- a website of information, advice and guidance\n- a public directory of signposted external services, which also serves part of as Buckinghamshire’s local offer\n- the staff-facing tools for staff to make changes to directory listings, including approving or rejecting changes proposed by members of the public\n- new tools, processes and guidelines for FIS officers to send newsletter digests out to segmented mailing lists\n\nWe significantly improved public engagement, as measured through click-through rates and public sign-ups. Buckinghamshire were previously using commercial off-the-shelf software to meet these needs, but by co-designing this bespoke, modern replacement, we saved them many hours in time and frustration.\n\nThe ability for members of the public to propose new listings or suggest changes by itself freed up the equivalent of several FTE roles, while also providing a better, more targeted service to residents\n\n",
+        "Slug": "buckinghamshire-council-family-information-service",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recmoSZvhOed3tLGV",
+      "createdTime": "2023-09-04T14:26:33.000Z",
+      "fields": {
+        "Our involvement": [
+          "Technology",
+          "Design",
+          "Service design"
+        ],
+        "Client": "Bloomberg Philanthropies",
+        "Summary": "Interrobang worked with Bloomberg Philanthropies’ Mayors Challenge to spark interesting innovations of new place-based interventions. ",
+        "Project": "Bloomberg Philanthropies’ Mayors Challenge ",
+        "Policy areas": [
+          "Financial"
+        ],
+        "Client type": "Funder",
+        "Longer description": "For Bloomberg Philanthropies we led the delivery of a team of 25 designers, researchers and technologists on a $5.2m dollar programme of work funded by Bloomberg Philanthropies. We were accountable for the strategic planning and execution of our work, as well as the operation delivery to support it. \n\nWorking with the Mayor, Chief Digital Officer and digital teams in 8 EU capital cities, alongside a range of international partners such as Harvard University and the Centre for Public Impact, we led the transformation of culture, ways of working and technology across a range of service areas, including health, social care, housing and planning. \n\nOne example of this is the project to design and implement a new city-level employment service in Helsinki, Finland. Between 2020 and 2022, Helsinki was one of 8 cities in Finland selected to take part in ‘The Experiment’, the transfer of national employment services to a municipal level in an attempt to provide more person-centred support and reduce unemployment. We designed and tested 3 prototypes across onboarding to the new service, communication with service users, and digital tools to support front-line staff.\n\nThrough a mixture of ways of working, technology and content design we designed a new service which was more centred around the hopes and aspirations of job seekers than the box-ticking of administrators who focused on quantity over quality. This resulted in a 10% increase in completed employment plans during the beta phase of our work. This was a good indicator for clients being matched with more appropriate roles, as well as enabling employment specialists to prioritise clients more effectively. \n## \n\n\n",
+        "Slug": "bloomberg-philanthropies-bloomberg-philanthropies’-mayors-challenge-",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recnYVnxoIzQgGwnt",
+      "createdTime": "2023-09-04T13:23:37.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "User research",
+          "Content design"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Buckinghamshire Council ",
+        "Summary": "For Buckinghamshire Council, we redesigned their website for adult and children's services as part of their redormation into a unitary authority. ",
+        "Project": "Corporate website for Buckinghamshire Council ",
+        "Policy areas": [
+          "Social care",
+          "Benefits"
+        ],
+        "Client type": "Local government",
+        "Longer description": "As part of their reformation into a unitary authority, we helped redesign the front door for adult and children’s services in Buckinghamshire Council.\n\nThere was a particular emphasis on signposting users to voluntary and community groups more able to meet their needs than overstretched statutory services.\n\nThis involved a top-to-bottom redesign of the information, advice and guidance content of their website. After identifying priority user needs through our early research, we chose a subset of “exemplar” pages to focus on redesigning during the project.\n\nWe “pair prototyped” new versions of each of these pages and then tested them in forums of community groups across Buckinghamshire.\n\nWe set the team up to succeed after the end of the project by forming a community of practice for content design. We supplemented their hands-on experience of co-writing pages with us with style guides, an information architecture skeleton and other “living documents” for them to keep referring back to.\n",
+        "Slug": "buckinghamshire-council--corporate-website-for-buckinghamshire-council-",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
@@ -318,8 +821,119 @@
           "Local Economy"
         ],
         "Client type": "Central government",
-        "Longer description": "The project with Building Digital UK focused on piloting different methods of increasing commercial deployment of fibre in local authority areas.\nWorking with their team, we managed the research contract and wider research-related activities to understand the impact of the initiative. \nAs part of this, bespoke qualitative research was undertaken to comprehend the socio-economic impact of LFFN on tourism in Blackpool. Prior to this, little was known about the potential benefits associated with tourism and fibre broadband. \nThrough the interviews and observations undertaken, a case study was developed and published. \nWe also ran a showcase allowing local authorities receiving LFFN funding to share benefits, disbenefits, and lessons learned associated with the initiative.\n",
+        "Longer description": "The project with Building Digital UK focused on piloting different methods of increasing commercial deployment of fibre in local authority areas.\n\nWorking with their team, we managed the research contract and wider research-related activities to understand the impact of the initiative. \n\nAs part of this, bespoke qualitative research was undertaken to comprehend the socio-economic impact of LFFN on tourism in Blackpool. Prior to this, little was known about the potential benefits associated with tourism and fibre broadband. \n\nThrough the interviews and observations undertaken, a case study was developed and published. \n\nWe also ran a showcase allowing local authorities receiving LFFN funding to share benefits, disbenefits, and lessons learned associated with the initiative.\n",
         "Slug": "dcms-full-fibre-research-and-evaluation-for-dcms-",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recsueoqcPHrc7yg6",
+      "createdTime": "2023-09-04T14:41:40.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Technology",
+          "User research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Samaritans ",
+        "Summary": "We helped Samaritans completely overhaul the recruitment journey for new volunteers, to boost volunteer numbers and help the Samaritans be “there for everyone”.",
+        "Read more": "https://samaritans-digital.github.io/",
+        "Project": "Volunteer recruitment\n",
+        "Policy areas": [
+          "Social care"
+        ],
+        "Client type": "Charity",
+        "Show in list": true,
+        "Longer description": "Working with Samaritans, we overhauled their recruitment journey and help boost volunteer numbers. This used to involve getting in touch with a branch, either in person or over the phone. \n\nWe made a digital-first journey that met modern expectations: consolidating weeks of manual back-and-forth into a single journey where prospective recruits were introduced to what it’s like being a Samaritans volunteer, reflected on whether it’s right for them, gave their personal details and booked a slot for an initial interview.\n\nThe new recruitment experience was massively successful: it single-handedly led to an explosion in interest from new volunteers, as well as 30% better retention through the process.\n\n\n",
+        "Icon": "target",
+        "Slug": "samaritans--volunteer-recruitment",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recwfhNSp1aIqLOWQ",
+      "createdTime": "2023-09-04T13:58:54.000Z",
+      "fields": {
+        "Our involvement": [
+          "Content design"
+        ],
+        "Client": "Southwark Labour",
+        "Summary": "In 2021, we worked with the Labour group on Southwark Borough Council to produce print materials for the May 2022 elections. ",
+        "Project": "Local election campaign",
+        "Policy areas": [
+          "Civic Participation "
+        ],
+        "Client type": "Local government",
+        "Longer description": "Working with Southwark Borough Council to produce print materials for the May 2022 elections, we developed a local party brand distinct from the national party, and localising material for each ward.\n\nSouthwark Labour had historically performed well, with good results in previous elections and a three-term incumbent administration. There was both little room for improvement, and, paradoxically, growing voter discontent.\n\nWe produced a borough-wide manifesto document which served as the visual basis for future publications. We followed up with campaign material for each ward in the borough, tailoring messages locally. Distribution was a combination of direct mail and handouts during door-knocking campaigns.\n\nAt the May 2022 elections, Southwark Labour increased its number of seats from 49 to 52, and improved its share of the vote to 56%.\n\n\n",
+        "Slug": "southwark-labour-local-election-campaign",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recwjYWdI3rCAna8b",
+      "createdTime": "2023-09-04T14:20:34.000Z",
+      "fields": {
+        "Our involvement": [
+          "Technology",
+          "Research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Lost Dot",
+        "Summary": "We helped map out Lost Dot's digital needs and built tools to satisfy their requirements.",
+        "Project": "A new website and applicant platform",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Charity",
+        "Show in list": true,
+        "Longer description": "A small non-profit organising trans-continental cycling races needed help overhauling their digital tools.\n\nThey have a complex set of needs: payments, GPS tracking, real-time leaderboards, etc.\n\nIn a month, we delivered an MVP of both a website and bespoke CRM that handles applications from wannabe racers.\n",
+        "Icon": "bike",
+        "Slug": "lost-dot-a-new-website-and-applicant-platform",
+        "Created By": {
+          "id": "usrkJZoqrDXyRWjoI",
+          "email": "aoise@supplychange.co.uk",
+          "name": "Aoise Keogan-Nooshabadi"
+        }
+      }
+    },
+    {
+      "id": "recx4Uh01k19IIyK4",
+      "createdTime": "2023-09-04T14:53:45.000Z",
+      "fields": {
+        "Our involvement": [
+          "Design",
+          "Research",
+          "User research"
+        ],
+        "Team members who worked on this": [
+          "recKHgXJ9bsDkGrPS"
+        ],
+        "Client": "Parkinsons UK",
+        "Summary": "We helped Parkinsons UK design and build a new end-to-end personalised service to provide holistic support to Parkinsons sufferers and their loved ones.",
+        "Project": "Designing a holistic support service for newly diagnosed people",
+        "Policy areas": [
+          "Health"
+        ],
+        "Client type": "Charity",
+        "Longer description": "We helped Parkinsons UK design and build what is the new headline support offering of the charity, and enabled them to scale their work to support the increasing incidence of Parkinson's in the country’s ageing population.\n\nAs well as UI and UX design, we provided strategic org and service design capability, helping the charity to reorganise itself in order to rise to the challenge of delivering joined-up support.\n\nWe also consulted on technological tools—assembling requirements for a new CRM, and looking at generative and predictive AI tools to multiply the charity’s over-stretched human staff.\n\nParkinson’s Direct, as the service became called, now proactively contacts every newly diagnosed Parkinson’s sufferer in the country, leading to better health outcomes from day one.\n\n\n",
+        "Slug": "parkinsons-uk-designing-a-holistic-support-service-for-newly-diagnosed-people",
         "Created By": {
           "id": "usrkJZoqrDXyRWjoI",
           "email": "aoise@supplychange.co.uk",
@@ -350,7 +964,9 @@
           "Social care"
         ],
         "Client type": "Local government",
-        "Longer description": "From 2021, colleagues helped Hackney Council’s social care service recover from a devastating cyber attack. Vital case management software was taken offline, and all production data was encrypted and held for ransom.\nHackney was using old legacy technology, and restoring it was a years-long process. So, we worked to decrypt the lost data at the same time as building a new suite of modern, collaborative tools for social workers.\nOur approach was fast, nimble and agile, designing and building product features in days that would normally take weeks or months. We worked under incredible uncertainty in a risk-averse environment to deliver an ambitious collection of tools that improved on what came before, rather than just reproducing it.\nWe took inspiration from other sectors and introduced product design patterns that were novel to social care, such as the kanban board interface common to tools like Trello and Jira.\nWe also saw this as an opportunity to deliver bottom-up, “small c” change in the social care service itself. Our service design approach used a “trojan mouse” philosophy: often teams have their hands tied by old legacy software, so by breaking that constraint we can encourage new ways of working without the expense and inertia of a large, formal change programme.\nFor months, Hackney’s strategy had been purely to restore their original compromised systems, but the speed and quality of our work encouraged them to see the cyber-attack as a once-in-a-generation chance to bring real, transformative improvements to social care practice.\n",
+        "Show in list": true,
+        "Longer description": "From 2021, colleagues helped Hackney Council’s social care service recover from a devastating cyber attack. Vital case management software was taken offline, and all production data was encrypted and held for ransom.\n\nHackney was using old legacy technology, and restoring it was a years-long process. So, we worked to decrypt the lost data at the same time as building a new suite of modern, collaborative tools for social workers.\n\nOur approach was fast, nimble and agile, designing and building product features in days that would normally take weeks or months. We worked under incredible uncertainty in a risk-averse environment to deliver an ambitious collection of tools that improved on what came before, rather than just reproducing it.\nWe took inspiration from other sectors and introduced product design patterns that were novel to social care, such as the kanban board interface common to tools like Trello and Jira.\n\nWe also saw this as an opportunity to deliver bottom-up, “small c” change in the social care service itself. Our service design approach used a “trojan mouse” philosophy: often teams have their hands tied by old legacy software, so by breaking that constraint we can encourage new ways of working without the expense and inertia of a large, formal change programme.\n\nFor months, Hackney’s strategy had been purely to restore their original compromised systems, but the speed and quality of our work encouraged them to see the cyber-attack as a once-in-a-generation chance to bring real, transformative improvements to social care practice.\n",
+        "Icon": "bucket",
         "Slug": "hackney-council-modern-tools-for-social-care",
         "Created By": {
           "id": "usrROSHARE0000000",
@@ -365,45 +981,6 @@
       "id": "rec08Eq7b1s9VXbhX",
       "createdTime": "2023-07-15T18:21:04.000Z",
       "fields": {
-        "Name": "Emma Diamond",
-        "Disciplines": [
-          "Research"
-        ],
-        "Email": "emma@interrobang.coop",
-        "Photo": [
-          {
-            "id": "attod7a8UfEVxp9oO",
-            "width": 3980,
-            "height": 5970,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/9tqn5B9v24M2nHPTrglqGQ/3CKifUoc4GqP8HRr-pcJxk4q1zl_d10i1owzRoA8lc_UcllzpTfGkZmEyyjycQGt5PDq_qMBvORjDlrGc2DAJCvy5CVc1mxlt1v16yebNxw/hz72kYT29dF9740aTUQvuN3rQ1LR9e9mGRRpmkRah88",
-            "filename": "20230725_Emma_03.jpg",
-            "size": 3592374,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/zcHpXDW2WtF1seeX9bKgjQ/XD7b-AeIjhGD3KBKtJt3UU4wttKfYtmC_WT10FTN8jaJ04RaZKDUEVkP1A1dEB5nhM9KnubPbVXukBfkQLyfaQ/4BX6DDEACroH_offYOLkid6ylPalfWGL6vzRJqya19s",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/FolehtzzKcDN_AQpu0J2MA/KtBONWy87_jayIQlLofPNhSq7KLmCJK9HJO1jviQkoiT_sEPW-K3x_A6y0_uRBiuo8AdZ7OQjJFdb_8XLc2EMg/0Apq1joNwm_zZ3-az8x9gpoP_s8EyQqUaeLo4-XFu1U",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/TnDygrr-I-Izsq4zSwXI1g/EyARSsmLd0DFCV38z_S5neG9pSpJKaJFHvvAvB9WJbu3mNNdXPDxA13R_NgXB3DllXnGwMWY91rg1tBB69KKyQ/lVpP5s2zjxZt-3qbkmbebuVYHWAGakRIrGpZK94eYU4",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "Specialisms": [
-          "Inclusive and participatory research",
-          "Systemic design practices",
-          "Trauma, gender and culturally informed approaches",
-          "Capability building"
-        ],
         "Long biography": "Emma is a design researcher of nearly a decade and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change. \n\nHaving played senior and lead design researcher roles in multiple research and design agencies in London and Manchester, Emma now works as a freelancer for mainly public and charity sector clients, supporting them to create positive change based on the needs and experiences of their users, residents or audiences.\n\nTo do this she leans on a creative, yet rigorous research practice cultivated over several years of critical self-reflection, personal growth and from working in multiple design teams. \n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services. Her role is to facilitate a partnership between them and service providers so they can more easily get the support they need. ",
         "Former clients": [
           "NHS/Healthcare sector",
@@ -411,66 +988,151 @@
           "FutureGov/TPXimpact",
           "Noisy Cricket"
         ],
-        "Short biography": "Emma has a decade’s experience researching health and social care and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change.\n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services.",
-        "Pronouns": "she/her",
-        "LinkedIn": "https://www.linkedin.com/in/emma-diamond-4a0287b1/",
         "Examples of work": [
           "recVDg40WzQN4n61n",
           "rec0T5e7LedrsKHjU",
           "rechACO1VAqoxqAry",
-          "recEx3miGVmQpDo2I"
+          "recaK3ecWcPX2h0wL"
         ],
-        "Role": "Research",
-        "Slug": "emma-diamond"
-      }
-    },
-    {
-      "id": "recAFMG90I2MLyfLx",
-      "createdTime": "2023-07-15T18:21:22.000Z",
-      "fields": {
-        "Name": "Rufai Munye",
+        "Name": "Emma Diamond",
         "Disciplines": [
           "Research"
         ],
-        "Email": "rufai@interrobang.coop",
         "Photo": [
           {
-            "id": "attgYfkBrl3hsnc2e",
-            "width": 400,
-            "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/9lNIqhGWuOzzNRbsd3TIeQ/gQNAzqAhbc0YfR5P7Wl5q_Vyxy-TWoiulsHNeE0nJBEle20DJqFqLQLiIetaRItA-deTiakK7CysLgY9JkIEvzQtwVQQfSwCEiJ456YVhXU/WC2q3mMhWqNy8ruKf3crNZsBMWOL_ltnkKDaSXh5Kwg",
-            "filename": "convert.jpg",
-            "size": 25872,
+            "id": "attod7a8UfEVxp9oO",
+            "width": 3980,
+            "height": 5970,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/I2BI3UqknHTQYSJBKunmmw/hH14aRZazk7lYSgITIDsVmbTjJtqo1QE4OurFS622z-LJ_YB6hY0KUss0HaT2qi0PGKrSv74fGReUNvNjZnzZ2pHh7YcmGJ9N25qcoB1EKE/_nlAYqx7lpEcDEWrWMjWvYgvjbaqkxpxWb5ohv6VkII",
+            "filename": "20230725_Emma_03.jpg",
+            "size": 3592374,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/lSnBFkMCNYhghr2IB8OX6g/WXXcr85wojYEWDTOthnU0fd5Cd1PURCwa7hzYVZFjE1FDCnuk531bfTzKu1427Abbyw1Hcb1WsvldvSzxbP-Bg/kugNpkV5AcJ3XSv9qjASmS46vSv8qjkBs8Ym5AoHcFY",
-                "width": 36,
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/uBn7awNc37x_ICV4OpMs0g/F7B3kWst6PqNOlERSXnGwgVzBq6ujEk4lt_uqyItMfRXbyTyqKw_1OtX0GzgFxinR_DojBFIvSekxbmqedDqlQ/Szoek0L2c6xGV0-28vKGNXoel0ZbdWC9Z2skc3ReiTw",
+                "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/D7D4UYNZV73LRPDJrfPwTQ/KPndkqihcaTkaDXHDfu9ksqBT-BHsiOrDPbuNjdrnujKFsf8Bb1UAaBiNA3XFT6xBMmwkiprx2IKw33qQhYqAQ/FmpQr6-7r7Pxs1IbBQEJZROjeegltNsZLKBZG8kZTYY",
-                "width": 400,
-                "height": 400
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Str8W0rXHtcgK6lGGb6mIA/J1D5di0mk_8cXyyc54geFukP1DJRwl7mVNJvX3pVKSu4oz5O2sNNkh6pFwQw-y1XPsGIn0La4Qzm8VYuCnSNPA/ssUdTDm884ViYyO1TIAdkGWItF1RruVUkmkSvMLzo7E",
+                "width": 512,
+                "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/SjtbBqT_sLGv3lBVbjosHQ/sNqG6c5SEWbM7b65J6qEpalts2RNiLBwYorc5x23T3NSXAP0o328ij0Y2r68clsIdn8rlFK_uAHrSk4oZHrdkA/Ee2SkOcOD050zamI1yL6H3OizgGAgPT6T_tO-TPWxg8",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Ac9esTk7YPWlYSDegeU5sg/ovT-McjB31fkXachjzoPBL8JbjacPvav8KO-z_1AWQ-H2Wy-eEVa-N00JDmDphF3XRN7_mGZihm0exG0NkBXwA/HBUPE00oGKAqxN5Uy99JmfP8S8BmSsCDfE-EGDBMcCw",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
+        "LinkedIn": "https://www.linkedin.com/in/emma-diamond-4a0287b1/",
+        "Role": "Research",
+        "Specialisms": [
+          "Inclusive and participatory research",
+          "Systemic design practices",
+          "Trauma, gender and culturally informed approaches",
+          "Capability building"
+        ],
+        "Email": "emma@interrobang.coop",
+        "Pronouns": "she/her",
+        "Short biography": "Emma has a decade’s experience researching health and social care and is passionate about empowering and uplifting people to share their stories and experiences and be part of real change.\n\nEmma’s practice is centred in care and steeped in inclusivity and accessibility; she often works with people who’ve experienced some really difficult things and who feel let down by existing services.",
+        "Slug": "emma-diamond"
+      }
+    },
+    {
+      "id": "rec1KSYDoeTarjkHt",
+      "createdTime": "2023-09-04T13:59:58.000Z",
+      "fields": {
+        "Long biography": "I am a user-centred designer with a profound understanding of user needs and behaviour and the ability to create intuitive and engaging experiences across multiple platforms.\n\nThroughout my professional life, I have also worked as a Graphic Designer for different cultural organisations across Europe. I have also over four years of experience working in the charity sector where I assisted in raising funds and awareness for important causes. \n\nRegarding my academic background, I have a bachelor's degree in Fine Arts from the University Complutense of Madrid and the University of Athens. I hold a master's in Art and Politics from Goldsmiths, University of London. ",
+        "Name": "Antonio Torres",
+        "Disciplines": [
+          "Design",
+          "Research"
+        ],
+        "Photo": [
+          {
+            "id": "attv9nzduOyPwysfE",
+            "width": 2733,
+            "height": 3502,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/vb78yIH_p3l87pvxPBoqPg/3zl52OnKN6H7BKVql6E-Jv_bpA5gsm3DmKZGMFyjbjUk7M38w0Ad2W8OnGtDXp2QNYuSKFbfhEV0UaNxElWfxm05MhdIUFvrkf8n33M80po/E5OG4hb0zF0eHoPt5EpOM2c0wcbpxgwdd3u4mPdd4VU",
+            "filename": "Profile 1.jpg",
+            "size": 7051138,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/csv1qatAUq_KEqrcKfgICg/QZnSJWsCtT8Ql18NIeISX3fEz8buKPXHN92FvLeesPDS9NKTsXVSlNI5RKkO6z_ivKb6PAfhRowN2ybC9FAmZQ/drdyqe-jN8KGxwyhE8jcH5qKdnM4qAzJ-AgrrXh1fso",
+                "width": 28,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/pcMFEHIyIK98FQsKyBbdaw/CGKzLY3NCDLMdd0tsGM8pcr6IFagm487QrgSMClfQylEpE73scUrxGCN-cIFgg5OxH9R2Ll04SNTGZn5d07wGw/lxDnuBQdyy58QMSotQ_O3JNRJ3VwV7VK2iQWuXMvJ5c",
+                "width": 512,
+                "height": 656
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/N8hvsBimJlUcPxYDtSF1ww/vqsP-Lw7GHGeZzO2NoVXjrU7iN1oaamDpm2cSrgZlhxOagWVgv5_4vV2sDjTdGJbyRyuOBKG6NlJQYkHo9qjbg/itAOzz-LK9AyE4WVd63ML2YvbwEcwpbljYzKv2T6lDs",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "LinkedIn": "https://www.linkedin.com/in/antonio-torres-30062576/",
+        "Role": "Design",
+        "Email": "antonio@interrobang.coop",
+        "Pronouns": "They/them",
+        "Short biography": "Product Designer with a passion for creating user-centred designs and a background as a Graphic Designer since 2013 for many European cultural institutions.",
+        "Slug": "antonio-torres"
+      }
+    },
+    {
+      "id": "recAFMG90I2MLyfLx",
+      "createdTime": "2023-07-15T18:21:22.000Z",
+      "fields": {
         "Long biography": "Rufai came to user research through Made Tech’s Academy.\n\nAs well as getting hands-on in projects, Rufai develops himself through pursuing advice from mentors, self-learning and seeking out constructive feedback.\n\nRufai’s motivation to work in the public sector is a combination of working towards impactful change to the general public. Followed with the ability to work in many different industries widening his general knowledge and transferable insights. \n\nBefore user research, Rufai studied accounting through ACCA and worked at HMRC as a tax advisor. During Covid-19, he was a key worker in communications with the NHS.",
         "Former clients": [
           "Made Tech",
           "Ofgem",
           "DCMS"
         ],
-        "Short biography": "Rufai is a relatively new researcher who graduated MadeTech’s academy in 2021. Before the career change, he was a tax advisor with HMRC, and worked with the NHS during the coronavirus pandemic.\n\nRufai will amplify the amount of people we’re practically able to engage with during the project, helping our co-design approach succeed.",
-        "Pronouns": "he/him",
+        "Name": "Rufai Munye",
+        "Disciplines": [
+          "Research"
+        ],
+        "Photo": [
+          {
+            "id": "attgYfkBrl3hsnc2e",
+            "width": 400,
+            "height": 400,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/BYFkiLFrw9VzebVI2a5m7A/CQD92XuzkGz0TrvL0RUIirKc7ISxK7mpFD-5fUFGNvIYoNPtBFMZwGiRgMhQHw7G4iacvcHCmSDP3NjbMgONhTslcgDyw4tDC0vjKld_P-4/nQhBmSYKG9EHXalvCPyRxTfzd5i2rrfmGTvZ2pNcrTo",
+            "filename": "convert.jpg",
+            "size": 25872,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/v_knhZXZMY4CE_k-7VDrXA/ZvXHh0mtssYNnfcfsJAVf59sLIR4nzHgPh1Yj3YzOh0glhpP9cuSZ6wbizAdPu06Sm61T5OgAH6bBe4EFRhOwg/Anu_1KowM6eXcQGIBj-F0lfewcYaZKIblbJQps6G-ig",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/xdAkZFV2RWJAhr_bLvtEbw/xaCwuDFlSW6ib-idEMamFHLetOvOgML-3swChCHWZbCoQisJ50oz6JrhzRtLmzd9jkAz_QpwWux_OP0DDQOy5A/skU2Zq5RagSewKkCbOnzyPy2CNehwfsP9DIy5yJg1xs",
+                "width": 400,
+                "height": 400
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/VT8uD67-BcBQEYLVi6WpBA/Fc7HOKiKGiQZac8_D5JyCBwPMp04H-xZY3suIE8zNs_EX5GxKXCxsVkZMSiPh7GC2LvvEXnVeU8860jOx9Cq6g/3WrnzUnv0WZSwigUzj5zTmehrLQa3NE8xHEs7OqAucc",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
         "LinkedIn": "https://www.linkedin.com/in/rufai-munye/",
         "Role": "Research",
+        "Email": "rufai@interrobang.coop",
+        "Pronouns": "he/him",
+        "Short biography": "Rufai is a relatively new researcher who graduated MadeTech’s academy in 2021. Before the career change, he was a tax advisor with HMRC, and worked with the NHS during the coronavirus pandemic.\n\nRufai will amplify the amount of people we’re practically able to engage with during the project, helping our co-design approach succeed.",
         "Slug": "rufai-munye"
       }
     },
@@ -478,60 +1140,72 @@
       "id": "recKHgXJ9bsDkGrPS",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
-        "Name": "Jaye Hackett",
-        "Disciplines": [
-          "Research",
-          "Design",
-          "Technology"
-        ],
-        "Email": "jaye@interrobang.coop",
-        "Photo": [
-          {
-            "id": "attVGjDXGhi6mDzuq",
-            "width": 4160,
-            "height": 6240,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/8Ao2cYeUzopw1VNKqwyBhA/DbM8zwrQ_0iHPmbxppisJQVMBeqKGxZtwFprAQwe6R_oLyOlnYB1PsV1zEnmvlLUg5S_oxj_SCAWPlONJ4GRx4xTCHZFmKsJrQcOq0wIiHk/LTb2llk1bTPaEprBkJXacnuI2xwGsX_ilM9IFFt39tQ",
-            "filename": "20230725_Jaye_07.jpg",
-            "size": 5129518,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/VKTF3B3UxW1p2fpitcHeTQ/2GD2BBRgsCAFH3Vwsabfa-2QuehKH3SXEAUByNVNg7uVFOSc7-bic-0RCa_V9z7VHYNi4KI6Dl9duVy06NJX1Q/yzlux9NS382xZtVSSCTxqls1Co2xW27NqNFcUAItTvI",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/nfkcWCOJF2AsjzoKJQzrHA/Ondo-AOPdRz5Cuyhmi36-cQtkJgOdb1R78dsiQaOaHiSt6lCnIUkH5yZ60iKdhfxHgQLJvJ1QCCSG7WOmZNCyw/onog1h3IT39SnuQR9Dfdu6XG16yDN7msfoCy9Uy-9pE",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/F394DynHK1YyBeistDieHQ/8t7jY966Q5sPvAGGWikigGDVGtcnluXxToTXp-6XxEZtBGiiXX_0ADbuSJ9yhLKFlSiDHrq2668q-6ANmBV8sA/lC0jnzr_dNDjjjWIdD45gw_zJXC-M-NCz2xxHvC7ipg",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "Specialisms": [
-          "Digital strategy",
-          "Building design professions and design at scale",
-          "Capability building",
-          "Design leadership"
-        ],
         "Long biography": "Jaye is one of the co-founders of Interrobang, and has a track record of delivering real, tangible change quickly on difficult, knotty problems.\n\nJaye has a background in journalism, but pivoted to the civil service early in their career, picking up design on the job in early roles with HMRC and DWP. They then moved into agencies, spending time on a range of public and charity sector projects, along with a career break to work in startups.\n\nNowadays, Jaye focuses less on day-to-day design and more on building happy, effective design teams at scale, with a focus on the processes and practices that make those teams succeed.\n\nJaye also teaches design to career changers in their spare time.",
         "Former clients": [
           "Government Digital Service",
           "FutureGov/TPXImpact",
           "Samaritans"
         ],
-        "Short biography": "Jaye is one of Interrobang’s founding partners, and has held nearly every role on a digital team at different points, in charities, creative agencies and the civil service.\n\nOn this project, Jaye will be your first point of contact, and will help you make sure the work is strategically aligned and happening at the right speed.",
-        "Pronouns": "they/them",
-        "LinkedIn": "https://linkedin.com/in/hackettjaye/",
         "Examples of work": [
-          "reczdVqZFPn8RYCco"
+          "reczdVqZFPn8RYCco",
+          "recnYVnxoIzQgGwnt",
+          "rec3nqzQVoicpQnQX",
+          "rec7PJuOQFetzt1a6",
+          "recwjYWdI3rCAna8b",
+          "rec4sphjy5I2QGe9H",
+          "recljAMZWXPCWNieq",
+          "reccJ855zhdWHDgGf",
+          "recsueoqcPHrc7yg6",
+          "recYCvDH6O4fqRDYw",
+          "recx4Uh01k19IIyK4",
+          "recfj3Tn8ODCdOUHa",
+          "reck99Pjzg162ldJm"
         ],
+        "Name": "Jaye Hackett",
+        "Disciplines": [
+          "Research",
+          "Design",
+          "Technology"
+        ],
+        "Photo": [
+          {
+            "id": "attVGjDXGhi6mDzuq",
+            "width": 4160,
+            "height": 6240,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/OxU9tr-Yi8gpalhAjvkE5g/bvnk2dBDcHdiutai7iomeSvk3lwlN7uRfXfco8eya4qTgIKytw3l_93NPVOwtPaXXxUMsWA0TPGSnDhghuIzg2KRSQKdnJAgNqsxAzkAXvk/KIh77iG9kFduF2K4onfJFyjk_XVqkSbbPd6gsWZJ_Mc",
+            "filename": "20230725_Jaye_07.jpg",
+            "size": 5129518,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/shYBEK3L8bFK3DvVxpOIJg/Tok6AzJA4py7vXJ1mlFInPX6g-I3t5WVu2BS9WlfEn9iwyDTR7562Pddgi_QF3Qv3v9qn7hLaqlXfOL_afiOfw/LclIpSV6Py0V-VoZuA2KpVCQmHxoK_ynn34j5RZyR2w",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/QlP2wd-7KrVQegnCqVTDtQ/fNzyDbnlE-fKppZ9Tl3xPcafTyWR7xXxbdTUaBwTi3pH9x2OlId6paoSVz04oa9LQNv8aDzJkMhr1eEJgxQtFg/JvRKPRd2Tlaejl0WuUDOpVZDcqKh7efw4XzdkADk3WA",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/dLHPiT8nQwn2oufZSsYnhw/tru28lclBG3zSR4WLlX6GCUMkZGTVB_gHWpVerhKLzFqnz3dA5rozwvipdsHh9vqvfYynuL2e69AKTe5pU0qMQ/4eopQiI6cVFXD9dSt3cQDEMgy92HV-emeip_ziGRVc0",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "LinkedIn": "https://linkedin.com/in/hackettjaye/",
         "Role": "Founding partner",
+        "Specialisms": [
+          "Digital strategy",
+          "Building design professions and design at scale",
+          "Capability building",
+          "Design leadership"
+        ],
+        "Email": "jaye@interrobang.coop",
+        "Pronouns": "they/them",
+        "Short biography": "Jaye is one of Interrobang’s founding partners, and has held nearly every role on a digital team at different points, in charities, creative agencies and the civil service.\n\nOn this project, Jaye will be your first point of contact, and will help you make sure the work is strategically aligned and happening at the right speed.",
         "Slug": "jaye-hackett"
       }
     },
@@ -539,43 +1213,6 @@
       "id": "recg96UTEDDhyuRWk",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
-        "Name": "Chloe Coleman",
-        "Disciplines": [
-          "Research"
-        ],
-        "Email": "chloe@interrobang.coop",
-        "Photo": [
-          {
-            "id": "att82mo6wBIN8odie",
-            "width": 3825,
-            "height": 5738,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/dLQDBELrobTHcgw0CxXcXA/rquHtk9HvqAw9in0tHbkpJn6QiBbZ7nWOphTRnv88krsWq6Y-futMDhKJYrGhSFm-qZ_AySO2KF2oK9bLq8DivoMnn8-YIx1gjcBwFDLSIA/FZ5AhrYfdD9S1hfzQ4yY6-C-LFOf6ScVh0VYYhSAL_U",
-            "filename": "20230725_Chloe_10.jpg",
-            "size": 2582598,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/3KzI9DgTUfNcx-qjnMC8kQ/lUbygNy7y_0lEwHlxz6QuyPbo4gR-EuGfAKihzXIH9JfbziNlIchgKc8GP3zF83ZCmllvNzwsYAjmJdfQlI10Q/l7m0YEsj-RsZu4c4hAap8ZReuo09hlx7Dpd-ZzqeRIA",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/eRVuBnPZcWORk8tt7z8ZcA/HrGzd0EDJR_JPc0hIT8JVJ7tVN0G7E4Z6BfGcBpANGCicy2uL56nSjP0q1Z8UeSpP99OzigYX9IdnfThLSEfow/VgaHDYo8NHnaTQscrwwzjESMntz02J_ez_ha-yHRXbo",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/5ETywqq_V289dYsOdwaovQ/N79apw5-NVOUxmGNNb-GJK5SzWq7HRY07TbxJxITKqJKj3RK3bC1mhtt-X9Ts2KQCd6w_I1xCacOxe7oV0jzJQ/ommlRmFfccebAik1Zs3aPKN5PKYG94rZaanS28HeFkE",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "Specialisms": [
-          "Designing with vulnerable people",
-          "Disability inclusion"
-        ],
         "Long biography": "Chloe has a plethora of public sector UX and user research experience, specialising in researching with vulnerable users, and designing accessibility-first services.\n\nChloe is a co-founder of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers. At DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.\n\nChloe now mentors, develops and encourages budding UXers in their careers, building teams of enthusiastic, brilliant people and empowering them to do fantastic things.",
         "Former clients": [
           "Ministry of Justice",
@@ -583,9 +1220,6 @@
           "Universal Credit",
           "Welsh government"
         ],
-        "Short biography": "Chloe is a founding partner of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers.\n\nAt DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.",
-        "Pronouns": "she/her",
-        "LinkedIn": "https://www.linkedin.com/in/chloe-coleman/",
         "Examples of work": [
           "recFyglFFfOuf6660",
           "recAMPL5CKK8JCcUO",
@@ -593,7 +1227,48 @@
           "reccn4WEHEvfFaHd6",
           "recgY7DK1pjT1MgIc"
         ],
+        "Name": "Chloe Coleman",
+        "Disciplines": [
+          "Research"
+        ],
+        "Photo": [
+          {
+            "id": "att82mo6wBIN8odie",
+            "width": 3825,
+            "height": 5738,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/jgKyEgvrF9ixZHdNvZjSIA/q_vZr77uHHcHmFuG57bCpURBPXkwEjHyHYD1Yzq_idR7dVwfQJJHsvmcel10CYn31TPmM0vzO2_4ffrWNoRojjTiif5phpxk507GDf7KBZQ/7lI7IfoStmzrhdGc7VX9N9AJRr5jjbq-7NIpvPhMpzs",
+            "filename": "20230725_Chloe_10.jpg",
+            "size": 2582598,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/GyeERKFpzKkSlUY09wxC2Q/sh4VT2pMrbSn5jplbeBA8R0BZR4xN0QDjxCvJj5gKtlO7dL1RlEQ4BeJidDql_qBirDaM3Ye2D4oNRTxGlLtuA/JmYx1Tc1mM3MO_uMb8bQCqCvgYAMyey8jRH_ysWWBBg",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/0e97UEKwwlx47Xe4h7YWfQ/dOJe4F5jgogagb2VRMKrRJIbQYfbP9k6EPc7dm-r1nKwplbIY0rp1v_bgBOoWWcVRuOi7qX0nFfAIpU1gtT0xg/qXltAdXwJ2KySI19BtlonKHxfvtwjSqVoIkQW5JntNY",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/5JbhfhRznczjwkl_PWmpbw/jQaC5ci4-udPWvIo9h9H_riCaTS1qjhUdvbwsn0JZSMkzy6-XrsILI1BY7JAqDzr8QYBuJ2LYhj9phV_knAjFg/uQNeHvbx50ZiB4HFAOtWohnZ5_8Hc8U-8Hl-qwvrfOs",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "LinkedIn": "https://www.linkedin.com/in/chloe-coleman/",
         "Role": "Founding partner",
+        "Specialisms": [
+          "Designing with vulnerable people",
+          "Disability inclusion",
+          "Financial inclusion"
+        ],
+        "Email": "chloe@interrobang.coop",
+        "Pronouns": "she/her",
+        "Short biography": "Chloe is a founding partner of Interrobang. She fell in love with user research while on the Civil Service Fast Stream, finding joy in facilitating sessions with citizens instead of writers.\n\nAt DWP, Chloe worked on Universal Credit, researching with and designing inclusive journeys for vulnerable users.",
         "Slug": "chloe-coleman"
       }
     },
@@ -601,43 +1276,43 @@
       "id": "recqHjyqS8Zw6nedn",
       "createdTime": "2023-07-15T18:21:35.000Z",
       "fields": {
+        "Long biography": "Aoise is COO of Supply Change. She works with clients on significant strategic design projects in the areas of local wealth building, social value, and community assets. She leads the supplier community and has extensive knowledge of the third and VCSE sector.\n\nAoise has worked with teams to co-create solutions, building in multi-stakeholder needs. Her experiences include co-leading an extensive design sprint for the Marie Stopes leadership team in Kampala, which included pre-sprint discovery with key stakeholders, co-designing workshop content, and co-facilitation.\n\nAoise has also led numerous co-design and research processes to improve revenue and funding solutions for small-scale, grass-root, and local initiatives, gathering globally spread social enterprises, funders, and intermediary bodies. ",
         "Name": "Aoise Keogan-Nooshabadi",
         "Disciplines": [
           "Business development"
         ],
-        "Email": "aoise@interrobang.coop",
         "Photo": [
           {
             "id": "attFBRQx71djox0RX",
             "width": 3605,
             "height": 5408,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/g93KcR7y82alpwFg9tpcBQ/wsVPH355enrupd2hiFQrwd7aM1BmQBtfcxvXiM8MeZ3ugNxVBc8MDDKxddHYXR4WTV_e1kriiqDSGAvr0uW222MSiQZJRO-fNToPJYiL2lM/2QCy-IUIHujBelekWakxo9E457Yt7veu6_QG-GKv_bk",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/dAhYguBYIX5mbTbYdKjqjA/octXn91G_5GImVAWvAd89yJWgYnin-iaVOGFjk6AjJD5QNDX-iyFNUduJ13eWYAFhptBt1SKzpGzh3nVs601fKMPREET18hKOmayID1Qv9U/sXRrQae2lM0_6ofP_INSmrNLDM5CzRgKR6OosNcL8dE",
             "filename": "20230725_Aoise_03.jpg",
             "size": 2841190,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/ex31n-bVNdT_HIDlJen7OA/wR5uiYaMSjUX5saag_Erb8RUlr_iAEU1yCNATfFye7PSFvPRtsE2xKeSJJbvGEPWzM_XysBZ2e0_GI_lwjd2qg/Ap-LvB9jh9JLxVM3HcUfjXO2x5HiMVIm3o8MyOkq0pg",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/7osIqxQJDcpNlB8h8nekrQ/-3lbWRFL7Bsi_Sz6FAATto5rQIRvX-6xvAC3pu9YPIJ6XxUJQzlA2BI0T_oDKKxXNBvvupZqgqx9zjgZi4ij8w/fEbnNYghfF_0dPPzAXM8jwul_FPtBWdSScgewz7Fjts",
                 "width": 24,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/c1m5RGSAy_K8MsTGILTdKA/ncAfiV10U21A19dZBMdzuv-07lqM_RlbvzYiO5qEZzcDV_DBh4i5ZqK8VerXod5VrcAx16-uITixv65qh3UQvg/yArYA8uVMgdkpymCEKwm4Qq5xp5C_iQxNk4Vz0oCeeA",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/NNo2l5coEQDSshWzozHqeQ/-VrGRdtPXfzhqEN_eca6GSAw_rQSkLHQ6C-LP8t1-e3k-U0aLGOu9CG2kSVWe5AqneNgQEHr6k_U0W7qGPSnfw/gBrgH8ySLwUS7R8-s7swI2KKvhbeG-7PQL7pOwjF6-M",
                 "width": 512,
                 "height": 768
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/KLBL3sG3JBdKZr2YLb8bsQ/rDWuEdvEr6ohm5PDl1nTBUnRJ8pviarnqMPC49-ksusCTe-Gz2ZtZyOqpu1_JGJO-z1uH8fyYOofshhXIYUfVA/uQfd8n7cAn3xQ7IAIQEdgrP18DQYX2cUTpVIf14pEyI",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/WTpFfRG_HkU0Fabh8ODneg/lQJwBdtKpeD9yPm8lHcZFZTLqK2mRit07n9_XO44AI0-YRut3PzDWHJ1ok3I2En7r0VNX-79ZRDtsZVxaNad8A/dfUDgKW9w4c1Dd0jTtFjq4U38HFBrSSHm-OopEu9_zE",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "Long biography": "Aoise is COO of Supply Change. She works with clients on significant strategic design projects in the areas of local wealth building, social value, and community assets. She leads the supplier community and has extensive knowledge of the third and VCSE sector.\n\nAoise has worked with teams to co-create solutions, building in multi-stakeholder needs. Her experiences include co-leading an extensive design sprint for the Marie Stopes leadership team in Kampala, which included pre-sprint discovery with key stakeholders, co-designing workshop content, and co-facilitation.\n\nAoise has also led numerous co-design and research processes to improve revenue and funding solutions for small-scale, grass-root, and local initiatives, gathering globally spread social enterprises, funders, and intermediary bodies. ",
-        "Pronouns": "she/her",
         "LinkedIn": "https://www.linkedin.com/in/aoise-keogan-nooshabadi-b41ab570/",
         "Role": "Business development",
+        "Email": "aoise@interrobang.coop",
+        "Pronouns": "she/her",
         "Slug": "aoise-keogan-nooshabadi"
       }
     },
@@ -645,54 +1320,54 @@
       "id": "recqofoBEEveQMRAc",
       "createdTime": "2023-07-15T18:13:49.000Z",
       "fields": {
+        "Long biography": "Ashley is an empathic researcher and facilitator, as well as an effective, highly experimental multimedia storyteller.\n\nShe is an accomplished documentary filmmaker, which she brings to bear in her design work by creating new ways to build empathy with users and make research insights understandable to lay audiences and specialists alike.\n\nAshley previously worked with FutureGov/TPXImpact, where she honed her skills on a variety of local and central government projects.",
+        "Former clients": [
+          "FutureGov/TPXImpact",
+          "Bloomberg Philanthropies (Mayors’ Challenge)"
+        ],
         "Name": "Ashley O'Callaghan",
         "Disciplines": [
           "Research",
           "Design"
         ],
-        "Email": "ashley@interrobang.coop",
         "Photo": [
           {
             "id": "attQdbmhH1lObTWLB",
             "width": 400,
             "height": 400,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/5IPqWgzmtx4Z0oYKK2ILgA/0A-uRvu5fsE2ux1ZwNhC3xRzI2WrMJuw7w8VXao0Nqdqr0YkCAIf_poQGvUM1ah4FHnNDZ1HcX3onBA-I9kg1P2u31uq82hO7gWZOkOKtC0/rxtWNfae3FrQBPLx1EfEN28hbefYIYLtsMqQxI4-M2Q",
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/DmH8gPwtUCkZl8VMV8n1nw/AiBNmQggsxJg7CewxHg_gp3-traQdhrRw2LfvHkmUegp5El2jcUttWrb4c1OKdh5kWhKiD-E-bYPy2AWB_TAWeztM8BZYaSI_Yv9IT4em9Y/I-cYTkcwm4kPdY1677Xfj1ZyrYEBeE9Cxa3Ccp4NdBI",
             "filename": "convert.jpg",
             "size": 21042,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/JycwPPRb54Wer3XJkqBTgg/oblOikgWFecco0HJ12Un4zqN9sw-ggaI_1NpY-AqNBw5WIOcrpP_d6_OgMfE0g_3A6-FpFSIswrsJDE_ibRuMA/CfAi7RX9LV4TGXAslJQ1nbqDpxaIs2Ji-HtfRCOPs8k",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/mHjoq8xC3TgOQQXsUAJZcw/VVTYfFCy4GJP-B4HgZEa_WMM9jm36YmYVIo1RvdUQU3uosv2r_nSm6WMbadoQ9iTNwethjzpnSd15cfLbC0xsg/2oDStLtFdutY37e7sT7Y-pJMIvKX72I3ucsjdDo4ycI",
                 "width": 36,
                 "height": 36
               },
               "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/vnU9pimcJzUPN1sS67fIrw/6uTzEJrk0wul9pprz-7JwBYiyvtv3k_HR9yZ15FVzS0ragPNWn9QB2kWwbql0IRF7QjW4qPBkq_EHWcXTJdfkQ/TSjFFcuYgTm7XG_vi8SVFuF9HCOI1MoPR_xWLWbrSpE",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/KHRDBojaGm6C8apNF-ClKg/NivTppTPCn5ZR7n_LnH_HIgobDdkOat910Epe2bJWnTb_c96Sb4AncnZYrr1Moa3l2e-Xb1cs7l4rkXD0pjetQ/3mjnHY4rkxNeBdpQvRJw1NdsHeKcjEkgsACfHyqZCAs",
                 "width": 400,
                 "height": 400
               },
               "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/Umh7O0HoTzSLcnTmk1alfg/uPf5KxhJQFiz8A_qzknDmiL3ScWADdGYxUE6sand1Zu0Kf0MAxgj5XM2WTbTU0KiOQzS6SoIehzuULVaxNWw4g/1Ph5vkOxHpbgnWDRcmiF7LyBmwz2UqIYTI-8G1_Dg9c",
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/Kso979NpbBRRLvwPr5KiEQ/7lyjIDXlNeJ3LOzFiwWTmPNRMEjkjvSpgDaXtX6cGCacJaucJrPWpYSaC1Bi3vHDwBBCANEsw3_GRt5yfvFBFA/A9ZdoeH9lXgb9z0xC1EgRvi1unQ-6DfZsdfme4q1Vg0",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
+        "LinkedIn": "https://www.linkedin.com/in/ashley-o-callaghan-612296201/",
+        "Role": "Design",
         "Specialisms": [
           "Workshop facilitation",
           "Documentary filmmaking",
           "Multimedia storytelling"
         ],
-        "Long biography": "Ashley is an empathic researcher and facilitator, as well as an effective, highly experimental multimedia storyteller.\n\nShe is an accomplished documentary filmmaker, which she brings to bear in her design work by creating new ways to build empathy with users and make research insights understandable to lay audiences and specialists alike.\n\nAshley previously worked with FutureGov/TPXImpact, where she honed her skills on a variety of local and central government projects.",
-        "Former clients": [
-          "FutureGov/TPXImpact",
-          "Bloomberg Philanthropies (Mayors’ Challenge)"
-        ],
-        "Short biography": "Ashley is a designer, researcher, technologist and facilitator with extensive experience in health, as well as social care, housing and climate.\n\nOn this project, Ashley will be expressing the needs and ideas of your users in a variety of media, starting at low, then increasingly high levels of detail.\n\nAshley is also an independent documentary filmmaker.",
+        "Email": "ashley@interrobang.coop",
         "Pronouns": "she/her",
-        "LinkedIn": "https://www.linkedin.com/in/ashley-o-callaghan-612296201/",
-        "Role": "Design",
+        "Short biography": "Ashley is a designer, researcher, technologist and facilitator with extensive experience in health, as well as social care, housing and climate.\n\nOn this project, Ashley will be expressing the needs and ideas of your users in a variety of media, starting at low, then increasingly high levels of detail.\n\nAshley is also an independent documentary filmmaker.",
         "Slug": "ashley-ocallaghan"
       }
     },
@@ -700,53 +1375,56 @@
       "id": "recwEyewiheL1vvRR",
       "createdTime": "2023-07-15T18:21:17.000Z",
       "fields": {
-        "Name": "Sarah Tayleur",
-        "Disciplines": [
-          "Research"
-        ],
-        "Email": "sarah@interrobang.coop",
-        "Photo": [
-          {
-            "id": "attA9WlNs23dJOgGq",
-            "width": 3964,
-            "height": 5946,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/6ptrxj45lEb88LTjblggjQ/z7r_d7BFwC7fTZ-z26JhkB0b22uSGfyXrOwXy20qsq5qXx3q2wjw02M6MpSXWSyX_QLBUL6VQZb1ObcrK2FUnE6y0bxQHiVG3dUR7khwMdo/CHQb8Ny4QkW3MuiPuhdOGcNNfZsB-xgqMX1S9A_nbcE",
-            "filename": "20230725_Sarah_10.jpg",
-            "size": 3330940,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/QukB9l6RdHVDmjyXJYDQEg/rXneya8RShb6r8c2cb-BzXKjFsKOvKzuRQnfydBfM7QS82387ltKYugubikrMneb70s9cSqHtsbumeOP6G6vzA/KDM60gSqV2HlZl-lrrCiL5hIVjFQcaGG5CjVAhfUZNw",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/bIkPEnMO_K3LGcki48GCyg/G7Q9pXlYWmxEyGnzMYXJAqQP22Et7lXuLL8Saj8GxKeRtMXrK5gdIyUwY2fxo1FuwF_8EHoKatvI7BWx4FhR3A/4NMkFaHob1x_znK6elnVpToSJ0tRWuemXnFd0XX2AJI",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/BA322sLHTrcFLJ7Lo_IzCQ/CMrehhvwwYU3qwTq-B7b49dRO3mEui_SYzUP-hSCeQ1r7871cZM9VJuPbvsYxH9UvywMof2NmwkTk6cqLK7b3Q/7dQCt9DMgdU1o0rVdaxtKG7AzY7AzpQI7zwLj5TrI8I",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "Specialisms": [
-          "Co-produced evaluation",
-          "Qualitative research design and analysis",
-          "Trauma, gender and culturally informed approaches"
-        ],
         "Long biography": "Sarah is an experienced researcher and evaluator in the non-profit and public sector working across adult and youth organisations to deliver impactful research and evaluation activities. She is passionate about bringing trauma and culturally informed approaches to research and evaluation and ensuring those with lived experience are the heart of projects through using participatory and co-produced approaches.\n\nSarah is also a published academic and recently received a distinction in MSc Health and Social Care Management and Policy.\n\nShe has subject matter expertise in homelessness, mental health, violence against women and girls, drug & alcohol, multiple disadvantage, learning disabilities, youth sector, criminal justice system.",
         "Former clients": [
           "NHS",
           "Rethink Mental Illness",
           "London Borough of Lambeth"
         ],
-        "Pronouns": "she/her",
+        "Examples of work": [
+          "reciBmMdhesK4LGKE"
+        ],
+        "Name": "Sarah Tayleur",
+        "Disciplines": [
+          "Research"
+        ],
+        "Photo": [
+          {
+            "id": "attA9WlNs23dJOgGq",
+            "width": 3964,
+            "height": 5946,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/cBJQPpJxySvaWFZCC0d-uQ/WvMyUXgZq5mhTJKnPGRNE4NwvxUiBWcPuSg5etANIqd8zD8DdYUCGlm5twN1yw2AjNRUfE1uLa6xbAkkD-JDKDHgaLv8Q5cPVFnZKWXRF0k/L0NX-R3cdGiv0tpR1M8ZzeztZyGzyxgJ0h2T0eoeuJE",
+            "filename": "20230725_Sarah_10.jpg",
+            "size": 3330940,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/kjZaj8sNd39n1KHM2KOrSQ/pkS1HlIM02Dz-YlfiSwrkINWJ4BckHIM8sCTh_XZ2lQGLNbD8PnKj-VrNsjvpXqqFnxbqYLQfPbDeqRdIWVuDw/209xhPPp2ojCNdwjafYZWSbJVVwiW9Pndml7w_HKBno",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/CX0Z_EtSv-e3xNEVFbk5zQ/iyFEAJq4f7liC4G-Wg_LAfYbfOKEx6GPblD7bEtaGNeYz7GPYskHgdgDXvhO3LJsy_9Gl-0aIV5-UzrXw-qZ4A/mV_vwwFZyhXUbDFtKFBbiQZHqPyc6RxUdy5_6mjCdpA",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/6SKpxCjWxsUCVfbagwHalQ/dM1m1PnBaUfJSJ195rL1yyCieY7wVu7Pu13y1e3VcmBXP94qH-xD589iJ06xjc7O4H2o6noAH37zNb54WxuPnQ/HJV8ULnMB_bG96Ztb9BcQVTg9fvtUVzCGiu-3efOOTM",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
         "LinkedIn": "https://www.linkedin.com/in/sarahtayleur/",
         "Role": "Research",
+        "Specialisms": [
+          "Co-produced evaluation",
+          "Qualitative research design and analysis",
+          "Trauma, gender and culturally informed approaches"
+        ],
+        "Email": "sarah@interrobang.coop",
+        "Pronouns": "she/her",
         "Slug": "sarah-tayleur"
       }
     },
@@ -754,59 +1432,59 @@
       "id": "recx9YQCjKSc3qSCq",
       "createdTime": "2023-07-15T18:20:47.000Z",
       "fields": {
-        "Name": "Amy Rogers",
-        "Disciplines": [
-          "Design",
-          "Technology"
-        ],
-        "Email": "amy@interrobang.coop",
-        "Photo": [
-          {
-            "id": "attLCYaLOK6AbCudR",
-            "width": 3931,
-            "height": 5897,
-            "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/efMWxQJ2lsEp8bmPy4zqdw/9y1OFvGqPjWsvtQT_G1yozP7T_YJ-_D81G49uut0N6pjvLunO6r-i793UPBEv3BZMSXEEpJsxz1I8vjania1kw1i14QTtp9b7DGcksOdrIU/FUKLYjd9_tBxTAXJIBPkv3egIQoIrGIXaqtpD0EPTfw",
-            "filename": "20230725_Amy_06.jpg",
-            "size": 2595127,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/vCCswFciIiUAvUiDg2cniA/zur33a8axOzNQ-hHZIimRei-X0nbE8ebxlRXseGbY8xt2WS9pyeEksXr0eXAFkLymBSf5l1FqGWI40Q_jPZVbg/RhF-VFNFeyMfGyjCctZpDQ-sWTn114BGVUwZKIm5oEE",
-                "width": 24,
-                "height": 36
-              },
-              "large": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/tIDMZERfzLecl4npCMaKng/vcf9CuLbELWeoSeXD4AZjDZtu1VZTfRn6h9M16AYpGheIdKBVGPMAHSpwzbsNyiFSvjbD4okj7IasF00Eu4jbQ/yJdpBSk4IwA2VPoliefNagz4TzkqR_cvnlyGHlIp2sQ",
-                "width": 512,
-                "height": 768
-              },
-              "full": {
-                "url": "https://v5.airtableusercontent.com/v1/20/20/1693742400000/rPYbm9rrDHH2592u_Lelew/rxEAS_NWIjYhVC9lJZcpWYOrv6QqyooxAgPAraO1G_vqQFc_IG45r0cy_kt-vut9hgrz3HYWvx-7ZszyEfDiLw/Dx-URdpZGMUEXCYKVg1lpT7YkG8Wmw4IB9PlJt8irGQ",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "Specialisms": [
-          "Rapid prototyping",
-          "Design systems",
-          "Workshop facilitation",
-          "Digital strategy"
-        ],
         "Long biography": "Amy is a product designer and user researcher with more than seven years of experience working with tech companies. She has a background in Computer Science, bringing a structured, technical mindset to her design and research processes.\n\nOver her career, Amy has worked with smaller start-ups as well as established medium-sized companies, bringing design methods to teams that have no prior experience with them. She works alongside non-designers, showing them the benefits of creating products with user-driven research methods and rapid prototype testing.\n\nShe is adept at creating comprehensive design systems, helping to create coherency and speed up delivery for both designers and developers; she knows that strong design systems makes consistent interfaces that make them easier for users to use.",
         "Former clients": [
           "Yoti",
           "Cinapsis",
           "University of Warwick"
         ],
-        "Short biography": "Amy is an ex-computer scientist and educator who has worked for small charities, startups like Yoti. She is a low- and no-code expert, specialising in tools like Notion, Airtable and Webflow.",
-        "Pronouns": "she/her",
-        "LinkedIn": "https://www.linkedin.com/in/amymaude/",
         "Examples of work": [
           "rec3yKCWdY5dLwEA0"
         ],
+        "Name": "Amy Rogers",
+        "Disciplines": [
+          "Design",
+          "Technology"
+        ],
+        "Photo": [
+          {
+            "id": "attLCYaLOK6AbCudR",
+            "width": 3931,
+            "height": 5897,
+            "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/im3mM66N53UPBrRnHWd2YQ/xaEq3MzX37kFiWHqubcDwhgxadcMyovGCYA_klwTPaSVQhB1ibopTTMl3Xr0atCdO8Yun64iCr8w4zGwJTc2mgd0tUuzPiLDjbuGsnkx4uU/zKitfuN4OknMcA1bi9P0Ij7R7jJFF6YxDlaKvvXJNkY",
+            "filename": "20230725_Amy_06.jpg",
+            "size": 2595127,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/uz_RcopoDcmdVB-lQIsE1g/x19qioxmI0cHzd8Ph8-y_wFE9WQh-IXQCpSxzIT9yvUZhjAXZjbpdfKV6Hyy92CAnQH6ARJsk73JPFSLC2QqDg/5nPfholvZir5ydGwxFs4BnBS1yDf_o3_ShCJtzYiPYI",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/2R9Ssf2qSh522vsLWnf-wA/HLjpGpBh9lul3Hcx_xaZrskL-pMkGldF39NIZQCQJQfrQ4Ieq_cyX6t_Nu1uXVf8BjJ7V8AYNJPcOoDH8ODtSg/UXImqJFXVck82v-IvVvwqKG51R08BEWIV86SVW_t_BQ",
+                "width": 512,
+                "height": 768
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v1/20/20/1694347200000/I26PxaY9qXWvZ8dm_q6aZg/QrTQfSfidT5MS0G5H88rfCPQbvUSNHVFoxITLccg4eTDd4ASJzvxMJxC3rXzJ8w28hVAEDA4r1PtdEOICI5Law/onqDiBOlfzfK_3sdB0Yx1pXFd-jXXToF4Lcm9ghaV6g",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "LinkedIn": "https://www.linkedin.com/in/amymaude/",
         "Role": "Technology",
+        "Specialisms": [
+          "Rapid prototyping",
+          "Design systems",
+          "Workshop facilitation",
+          "Digital strategy"
+        ],
+        "Email": "amy@interrobang.coop",
+        "Pronouns": "she/her",
+        "Short biography": "Amy is an ex-computer scientist and educator who has worked for small charities, startups like Yoti. She is a low- and no-code expert, specialising in tools like Notion, Airtable and Webflow.",
         "Slug": "amy-rogers"
       }
     }
@@ -818,12 +1496,12 @@
       "fields": {
         "Title": "Safeguarding",
         "Slug": "safeguarding",
+        "Show in footer menu?": true,
         "Content": "The purpose of this policy statement is: \n- to protect children and young people who receive Interrobang’s services from harm. This includes the children of adults who use our services \n- to provide staff, as well as children and young people and their families, with the overarching principles that guide our approach to child protection. \n- This policy applies to anyone working on behalf of Interrobang, including senior managers and the board of trustees, paid staff, volunteers, sessional workers, agency staff and students.\n\n## Legal framework\nThis policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England, Scotland, Wales & Northern Ireland. A summary of the key legislation and guidance is available from [NSPCC](http://nspcc.org.uk/childprotection).\n\nWe recognise that: \n- the welfare of children, young people and vulnerable adults is paramount in all the work we do and in all the decisions we take \n- working in partnership with children, young people, their parents, carers and other agencies is essential in promoting young people’s welfare \n- all children, regardless of age, disability, gender reassignment, race, religion or belief, sex, or sexual orientation have an equal right to protection from all types of harm or abuse \n- some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues \n- extra safeguards may be needed to keep children who are additionally vulnerable safe from abuse.\n\nWe will seek to keep children and young people safe by: \n- DBS checking all of our research staff\n- valuing, listening to and respecting them \n- appointing a nominated child protection lead for children and young people (Chloe Coleman) and a deputy (Ashley O’Callaghan)\n- adopting child protection and safeguarding best practice through our policies, procedures and code of conduct for staff and volunteers \n- developing and implementing an effective online safety policy and related procedures \n- providing effective management for staff and volunteers through supervision, support, training and quality assurance measures so that all staff and volunteers know about and follow our policies, procedures and behaviour codes confidently and competently\n- recruiting and selecting staff and volunteers safely, ensuring all necessary checks are made\n- recording and storing and using information professionally and securely, in line with data protection legislation and guidance [more information about this is available from the Information Commissioner’s Office: ico.org.uk/fororganisations] \n- sharing information about safeguarding and good practice with children and their families via leaflets, posters, group work and one-to-one discussions \n- making sure that children, young people and their families know where to go for help if they have a concern  \n- using our safeguarding and child protection procedures to share concerns and relevant information with agencies who need to know, and involving children, young people, parents, families and carers appropriately \n- using our procedures to manage any allegations against staff and volunteers appropriately \n- creating and maintaining an anti-bullying environment and ensuring that we have a policy and procedure to help us deal effectively with any bullying that does arise \n- ensuring that we have effective complaints and whistleblowing measures in place \n- ensuring that we provide a safe physical environment for our children, young people, staff and volunteers, by applying health and safety measures in accordance with the law and regulatory guidance \n- building a safeguarding culture where staff and volunteers, children, young people and their families, treat each other with respect and are comfortable about sharing concerns.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/safeguarding"
-        },
-        "Show in footer menu?": true
+        }
       }
     },
     {
@@ -845,12 +1523,25 @@
       "fields": {
         "Title": "Equality, diversity and inclusion",
         "Slug": "equality",
+        "Show in footer menu?": true,
         "Content": "Interrobang exists to make our communities more resilient to the interconnected, worsening crises of the coming decades.\n\nBig, systemic problems like climate, housing and social care criss-cross the public, private, charity and voluntary sectors.\n\nNo one organisation can fix them, and there is no single fix that works for every community.\n\nSo, we want to give people the confidence and skills to pursue their own ideas rather than enforce our own.\n\nA diverse and inclusive team is the most important single thing we can do to make this happen.\n\nWe’ve been vocal about these issues in [our newsletter](https://interrobanguk.substack.com).\n\nInterrobang has a 100% queer and non-male founding team, and our core membership of ten people is 90% non-male.\n\nThis page was last updated on 20 August 2023.\n## \n## What we're already doing\nTo get here, we:\n- pay a fair rate to our team members that is well above the market average. When we last benchmarked our margin, it was half that of comparative businesses.\n- encourage people to work flexibly and remotely, around family and personal commitments\n- fairly compensate research participants for their time, and bring them onto our team as peer researchers whenever practical\n- use inclusive recruitment that doesn’t expect things like university degrees from applicants\n- became a [Living Wage](https://www.livingwage.org.uk/accredited-living-wage-employers) accredited employer\n- became a [Disability Confident](https://www.gov.uk/government/collections/disability-confident-campaign) employer\n## \n## What we want to do\nAs we grow, we also want to:\n- offer more training, coaching and mentoring on a “pay what you can” basis, with sponsored places for people of marginalised groups\n- offer apprenticeships in junior roles on our teams\n- conduct equality and diversity surveys twice annually as our membership grows so we can more precisely track how we're doing\n- form a [member circle](https://www.sociocracyforall.org/sociocracy/) with particular interest in and responsibility for equality, diversity and inclusion issues.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/equality"
-        },
-        "Show in footer menu?": true
+        }
+      }
+    },
+    {
+      "id": "recU4zvR44Vt9btpS",
+      "createdTime": "2023-09-03T13:57:54.000Z",
+      "fields": {
+        "Title": "Modern Slavery",
+        "Slug": "modernslavery",
+        "Content": "**Introduction **\n\nWe are committed to eliminating acts of modern-day slavery and human trafficking within our  business and from within our supply chains. \nAlthough we are not legally obliged to report on slavery  and human trafficking, this statement is made in accordance with section 54(1) of the Modern Slavery Act 2015 and is our slavery and human trafficking statement for the financial year ending 31 March  2023. \n\n**Organisational structure, business and supply chains **\n\nWe are a user research and design company and are an independent  company operating solely within the UK.. \nWe use independent sub-contractors in order to conduct some of our research and design. \n\n**Policy on slavery and human trafficking **\n\nWe are committed to ensuring that there is no modern slavery or human trafficking in any part of our  business or in our supply chains. This policy reflects our commitment to acting ethically and with  integrity in all our business relationships and to implementing and enforcing effective systems and  controls to ensure slavery and human trafficking is not taking place anywhere within our company. \n\n**Due diligence **\n\nWe consider ourselves to be a ‘low risk’ business with regard to slavery and human trafficking.  However, we foster a culture that encourages the identification and reporting of any such risks within  our business. We do not recruit from outside the UK  or use agency workers. \n\n**Assessing and managing risk **\n\nWe have a whistleblowing policy in place and, as part of our efforts to identify and mitigate risks within our company. \n\n**Effectiveness in combating slavery and human trafficking **\n\nWe have zero tolerance to slavery and human trafficking. To ensure that all those in our supply  chains comply with our values we are putting in place a supply chain compliance programme that will  require our suppliers to confirm that they have a slavery and human trafficking policy in place and that  they require the same from their suppliers. \n\n\n",
+        "Open URL": {
+          "label": "Visit webpage",
+          "url": "https://interrobang.coop/modernslavery"
+        }
       }
     },
     {
@@ -859,12 +1550,12 @@
       "fields": {
         "Title": "Our standard terms",
         "Slug": "terms",
+        "Show in footer menu?": true,
         "Content": "If you hire us and we don't provide a specific agreement for you to sign, then these terms are the ones that will apply:\n\n## Regarding digital products and services\nWe’ll create responsive designs which adapt to the capabilities of many devices and screen sizes. To give you a better understanding of our designs, we’ll use Figma or a similar design tool. Sometimes, we’ll use visuals to indicate a creative direction (colour, texture and typography.)\n\nYou’ll have plenty of opportunities to review our work and provide feedback. We’ll share a Google Drive folder, Github repository or a development site with you. We’ll have regular, possibly daily, contact by email, phone, Slack, or Google Meet.\n\nIf, at any stage, you change your mind about our deliverables or aren’t happy with our work, you’ll pay us in full for the time we’ve spent working with you. Then, we agree to terminate this contract.\n\n### Written content\nUnless agreed separately, we’re not responsible for uploading text or images to your website or creating every page. We provide professional copywriting and editing services, so if you’d like us to create, edit, or input content for you, we’ll provide a separate estimate.\n\n### Graphics and photographs\nYou will supply graphic files in an editable, vector digital format including Adobe Illustrator (.ai) or .svg. You will provide high resolution digital photographs. If your design requires stock images, these assets—and the time we spend selecting them—aren’t included in our price. We can provide a separate estimate for stock images and research.\n\n### Changes and revisions\nWe won’t limit your ability to change your mind. Our price is based on the number of days we estimate are needed to deliver everything we’ve agreed to achieve. If you change your mind, adding extra work won’t be a problem and we’re happy to be flexible. We’ll provide a separate estimate for any additional work.\n\n### Testing\nYou understand that browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. You agree it does mean ensuring someone’s experience of a design should be appropriate to the capabilities of their browser or device.\n\nWe will test our work only in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), and Mozilla (Firefox.) We won’t test in older versions unless agreed separately. If you need an enhanced design for an older browser or specific device, we will provide a separate estimate for that. We will test your design using the latest versions of:\n- iOS: Safari on iPhone and iPad\n- Android: Google Chrome\n\nWe won’t test specific Android devices, or other mobile browsers unless we agreed separately. If you need us to test using alternative devices, we will provide a separate estimate.\n\n### Search engine optimisation (SEO)\nYou understand we don’t guarantee improvements to your search engine ranking, but that the websites we develop are accessible to search engines.\n\n### Hosting\nWe’re not a hosting company—so we don’t offer support for website hosting, email, or other technical services. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t already have hosting, we’ll recommend a provider and ask you to set up an account.\n\n## Liability\nWe carry out work in accordance with good industry practice and at the standard expected from qualified people with relevant experience.\n\nThat said, we can’t guarantee our work will be free from errors. We won’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them.\n\nIn return, your liability to us will be limited only to the price stated in this contract. You won’t be liable to us or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we’ve advised you of them.\n\nFinally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.\n\n## Intellectual property rights\nYou guarantee the written content you provide is original, or that you have the rights to use it.\n\nYou also guarantee you have licences to use images which are owned by photographers or have been purchased from stock libraries.\n\nYou agree to protect us from any claim by owners of copyrighted material. When our work requires licensed fonts or images from stock libraries, we’ll ask you to purchase them so you’ll be licensed to use them.\n\nIn return, we guarantee our work is original. When you’ve paid us in full—and if this contract hasn’t been terminated—we’ll assign intellectual property rights to you as follows:\n\nYou’ll own the graphic files and any other artefacts we produce during your project. We’ll give you permission to use these files for any purpose.\n## Working in the open\nWe reserve the right to display any aspect of our work as long as doing so doesn’t breach any separate confidentiality agreement. This may include sketches, work-in-progress designs and the finished project on our newsletter, website, in magazine articles, or in books.\n\nWe may want to do this while our project is still ongoing. We’ll always discuss this with you first to make sure that we protect your confidentiality.\n\n## Payment schedule\nYou understand how important it is for a small business that you pay your bills promptly. We’re also sure you’ll want to stay friends, so you agree to stick tightly to the following payment schedule:\n\nWe’ll invoice you every month, in arrears for all hours worked that month. Our payment terms are 30 days from the date of invoice. We issue invoices electronically and our bank account details will be included. Our invoices will be in GBP. If your currency is different, you agree your payments will be the same value.\n\nYou agree to pay all charges associated with international transfers of funds. We reserve the right to charge you interest on all overdue debts.\n\n## Small print\nNeither of us can transfer this contract to anyone else without the other’s permission.\n\nWe both agree to adhere to laws and regulations in relation to our activities under this contract and not to cause the other to breach any relevant laws or regulations.\n\nThis contract stays in place and need not be renewed. Although its language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\nAlthough the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of English and Welsh courts.\n\n## To sum up\nYou have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us the assets and information we need to complete the project. You’ll do this when we ask and provide the formats we ask for. You’ll review our work, provide feedback and approval in a timely manner. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule earlier in this contract.\n\nWe have the experience and ability to deliver everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll try to meet every deadline that’s set and on top of that we’ll maintain the confidentiality of everything you give us.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/terms"
-        },
-        "Show in footer menu?": true
+        }
       }
     },
     {
@@ -873,12 +1564,12 @@
       "fields": {
         "Title": "How we use data",
         "Slug": "privacy",
+        "Show in footer menu?": true,
         "Content": "Interrobang is a not-for-profit cooperative, registered as a limited company in England and Wales. We run this website and any subdomains.\n\nWe are [Cyber Essentials](https://iasme.co.uk/cyber-essentials/ncsc-certificate-search/) certified.\n\nThis page was last updated on 1 July 2023.\n## \n## Our website\nWe don't collect any analytics from this website. That includes cookies, which is why you didn't have to click through a cookie banner when you landed on this site.\n\n## Our newsletter and social media\nOur newsletter is hosted on [Substack](https://substack.com) ([privacy policy](https://substack.com/privacy)), and we also use [LinkedIn](https://www.linkedin.com/legal/privacy-policy) ([privacy policy](https://www.linkedin.com/legal/privacy-policy)).\n\nWe sometimes use Substack and LinkedIn's analytics to understand how we can reach more people.\n\nIf you’d like content about you removed from our newsletter or social media, contact **data@interrobang.coop**.\n\n## Research participants\nOur work involves researching with vulnerable people about difficult topics. Part of how we protect them is treating their data with care.\n\nWe collect the following information from research participants:\n\n- Full name\n- Phone number\n- Email address\n- Address\n\n### Consent forms\n- Full name\n- Signature\n\n### Research material\n- Interview recordings (audio or video)\n- Quotes and transcripts\n- Notes\n- Photos\n\n### Why we collect this data\nWe collect participant information to identify participants, and arrange sessions and follow-ups.\n\nAll research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.\n\nWe collect research material to reference during project work.\n\n### How long we keep research data\nParticipant information is deleted at the end of the project.\n\nWe scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for six years. All notes and digital files are destroyed or deleted two years after the research session. We delete any personal information provided to us from the research recruiter when the project has finished.\n\n### Where research data is processed and stored\nResearch material is separated from any identifiable information, such as consent forms, while we are working with it.\n\nWe use Google Drive to track participants with no identifying information (eg. 'participant 1'), unless consent has been given. Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by members involved in the research.\n\nWe may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.\n\nWe may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.\n\nSometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.\n\n### Opt-out of collection\nParticipants can withdraw their information from a project at any time. To do this, contact **data@interrobang.coop**.\n\n## Software we run for clients\nSometimes we'll build and run software on behalf of our clients.\n\nWe host these on:\n- [Digital Ocean](https://www.digitalocean.com) ([privacy policy](https://www.digitalocean.com/legal/privacy-policy))\n- [Netlify](https://www.netlify.com/privacy/) ([privacy policy](https://www.netlify.com/privacy/))\n\nEach product we run will have its own privacy policy detailing exactly what it stores, how and why.\n\n## Clients and partners\nDuring the course of our work, we'll collect information about client representatives, partners and potential new members, including:\n- Name\n- Company\n- Phone number\n- Job title and employer\n- Company address\n- Working hours and flexible working arrangements\n- Testimonials\n- Day rates\n\nAt the moment, we don't collect any [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/a-guide-to-lawful-basis/lawful-basis-for-processing/special-category-data/) during our recruitment process for new members.\n\n### Third party services\nWe use several third-party services to do our work, which involves processing this data:\n- [Google Docs](https://docs.google.com) ([privacy policy](https://support.google.com/docs/answer/10381817?hl=en))\n- [Figma](https://www.figma.com) ([privacy policy](https://www.figma.com/privacy/))\n- [Trello](https://trello.com) ([privacy policy](https://www.atlassian.com/legal/privacy-policy))\n- [Slack](https://slack.com) ([privacy policy](https://slack.com/intl/en-gb/trust/privacy/privacy-policy))\n\n## Things we don’t do\nWe don't:\n- sell or buy data from third parties, including mailing lists\n- do telephone or postal marketing\n\n## How we keep data safe\nWe carefully choose our tools and make sure they have security features appropriate to what we're using them for. We only use tools that:\n- default to secure (HTTPS) connections\n- allow multi-factor authentication\n- work with our password managers, so we can use strong, unique passwords by default\n\n## Data breaches\nIf we ever have a data breach, we'll tell the Information Commissioner’s Office according to [their guidance](https://ico.org.uk/for-organisations-2/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/).\n\n## Exemptions\nThere are exemptions to data protection regulations that might force us to share data about you, including requests by law enforcement. The ICO has a [full list](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/exemptions/a-guide-to-the-data-protection-exemptions/) of these exemptions.\n\n## Reviewing this policy\nInterrobang is growing quickly, so we frequently use new tools and services to do our work.\n\nWe'll review and update this policy at least every six months.\n\n## Your rights and getting in touch\nThe General Data Protection Regulation gives EU citizens the [following rights](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/):\n- right to be informed\n- right of access\n- right to rectification\n- right to erasure\n- right to restrict processing\n- right to data portability\n- right to object\n- rights related to automated decision-making, including profiling\n\nTo exercise any of these rights, let us know at **data@interrobang.coop**. We will respond to all requests within 28 days of receiving them.\n\nOur postal address is Interrobang, c/o Birch, 126 Addington Rd, South Croydon, CR2 8YA.\n\nIf you aren’t satisfied by our response, you can contact the Information Commissioner’s Office.\n",
         "Open URL": {
           "label": "Visit webpage",
           "url": "https://interrobang.coop/privacy"
-        },
-        "Show in footer menu?": true
+        }
       }
     }
   ]
