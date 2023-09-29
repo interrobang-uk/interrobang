@@ -15,13 +15,13 @@ const SiteFooter = () => (
       <aside>
         <h2>Office address</h2>
         <address>
-          c/o Birch
+          c/o Hatch
           <br />
-          126 Addington Rd
+          Centre Carpark, F1-F6, 95A Rye Ln
           <br />
-          South Croydon
+          London
           <br />
-          CR2 8YA
+          SE15 4ST
         </address>
 
         <h2>Registered address</h2>
