@@ -76,5 +76,9 @@
     &:first-of-type {
       color: lighten($black, 30);
     }
+
+    &:last-of-type {
+      max-width: 700px;
+    }
   }
 }
