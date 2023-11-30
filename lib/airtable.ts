@@ -2,6 +2,7 @@ import fetch from "isomorphic-fetch"
 import {
   AirtableRecord,
   CaseStudyFields,
+  JobFields,
   PageFields,
   TeamMemberFields,
 } from "../airtable.types"
@@ -32,3 +33,6 @@ export const getTeamMembers = async () =>
 
 export const getPages = async () =>
   await getBaseFields<PageFields>("app7BQQGtlXjcwjQW/Pages")
+
+export const getJobs = async () =>
+  await getBaseFields<JobFields>("app7BQQGtlXjcwjQW/Jobs")

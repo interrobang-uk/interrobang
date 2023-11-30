@@ -1,6 +1,11 @@
 import fs from "fs"
 import dotenv from "dotenv"
-import { getCaseStudies, getPages, getTeamMembers } from "../lib/airtable"
+import {
+  getCaseStudies,
+  getJobs,
+  getPages,
+  getTeamMembers,
+} from "../lib/airtable"
 
 dotenv.config()
 
@@ -11,6 +16,7 @@ const run = async (): Promise<void> => {
     await getCaseStudies(),
     await getTeamMembers(),
     await getPages(),
+    await getJobs(),
   ])
 
   // TODO download pictures
@@ -34,6 +40,7 @@ const run = async (): Promise<void> => {
         caseStudies: data[0],
         teamMembers: data[1],
         pages: data[2],
+        jobs: data[3],
       },
       null,
       2

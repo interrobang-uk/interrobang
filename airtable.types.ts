@@ -23,6 +23,15 @@ export interface CaseStudyFields {
   Icon?: string
 }
 
+export interface JobFields {
+  "Job title": string
+  Salary: string
+  Location: string
+  Description: string
+  "Learn more": string
+  Visible: boolean
+}
+
 export interface PageFields {
   Title
   Slug: string

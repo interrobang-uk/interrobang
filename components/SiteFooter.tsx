@@ -39,11 +39,13 @@ const SiteFooter = () => (
           {data.pages
             .filter(page => page.fields["Show in footer menu?"])
             .map(link => (
-              <Link href={`/${link.fields.Slug}`}>{link.fields.Title}</Link>
+              <Link href={`/${link.fields.Slug}`} key={link.id}>
+                {link.fields.Title}
+              </Link>
             ))}
 
           <Link href="https://interrobanguk.substack.com">Newsletter</Link>
-          <Link href="https://forms.gle/cRRZm66Qc8eh8f9k7">Join us</Link>
+          <Link href="/careers">Join us</Link>
         </nav>
       </aside>
       <aside>
