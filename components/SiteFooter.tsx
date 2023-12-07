@@ -15,9 +15,9 @@ const SiteFooter = () => (
       <aside>
         <h2>Office address</h2>
         <address>
-          c/o Hatch
+          Unit 420
           <br />
-          Centre Carpark, F1-F6, 95A Rye Ln
+          Peckham Levels, 95A Rye Ln
           <br />
           London
           <br />
