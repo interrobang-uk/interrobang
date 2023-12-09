@@ -23,15 +23,6 @@ const SiteFooter = () => (
           <br />
           SE15 4ST
         </address>
-
-        <h2>Registered address</h2>
-        <address>
-          18 River Park Gardens
-          <br />
-          London
-          <br />
-          BR2 0BQ
-        </address>
       </aside>
       <aside>
         <h2>More about us</h2>
