@@ -26,6 +26,7 @@ const MetaTags = ({ title }: { title?: string }) => {
       <meta property="og:image" content="/social.jpg" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="6300" />
+
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://interrobang.coop/" />
       <meta property="twitter:title" content="Hi, we're Interrobang" />
