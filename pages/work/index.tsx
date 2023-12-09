@@ -42,7 +42,7 @@ const WorkPage = ({
         <div className="case-studies">
           {caseStudies.map(cs => {
             return (
-              <article className="case-studies__tile">
+              <article className="case-studies__tile" key={cs.id}>
                 {cs.fields.Icon && (
                   <img src={`/icons/${cs.fields?.Icon}.png`} alt="" />
                 )}
