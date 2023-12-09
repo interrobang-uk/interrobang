@@ -22,8 +22,8 @@ const TeamMemberDialog = ({
         <h1>{member.fields.Name}</h1>
         <button onClick={onDismiss}>
           <svg
-            width="16"
-            height="16"
+            width="22"
+            height="22"
             viewBox="0 0 16 16"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"

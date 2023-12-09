@@ -7,11 +7,12 @@
 
   h1 {
     font-size: 2.5rem;
+    font-family: "Koulen";
+    line-height: 1;
 
     @media screen and (min-width: 800px) {
       max-width: 50%;
       font-size: 2.9rem;
-      line-height: 1.2;
     }
   }
 

@@ -12,7 +12,7 @@ const ContactSection = () => (
     title={<h2>Contact</h2>}
     actions={
       <p>
-        Interrobang is a <Link href="/team">team of nine people</Link> and
+        Interrobang is a <Link href="/team">team of ten people</Link> and
         growing. If you're not sure who you need to talk to, start here.
       </p>
     }

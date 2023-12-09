@@ -4,7 +4,7 @@ import SiteHeader from "./SiteHeader"
 
 const Layout = ({ children }) => (
   <>
-    <Banner />
+    {/* <Banner /> */}
     <SiteHeader />
     {children}
     <SiteFooter />

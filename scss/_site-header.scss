@@ -1,35 +1,23 @@
 .site-header {
   padding: $standard-padding;
 
+  @media screen and (min-width: 800px) {
+    margin-top: -20px;
+  }
+
+
   &__inner {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    gap: .5rem;
+    gap: 3rem;
 
   }
 
-  &__mobile-menu-trigger {
-    @media screen and (min-width: 800px) {
-      display: none;
-    }
-  }
+  &__logo {
 
-  a,
-  button {
-    background: none;
-    border: none;
-    font-size: 1rem;
-    cursor: pointer;
-
-    color: $black;
-    font-weight: 500;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
+    position: relative;
 
     &:focus,
     &:active {
@@ -41,7 +29,39 @@
         fill: $white;
       }
     }
+
+    svg {
+      width: 100%;
+      max-width: 550px;
+      height: auto;
+    }
+
+    &:after {
+      content: "";
+      display: block;
+      height: 1rem;
+      width: calc(100% + 6px);
+      background: $bold-yellow;
+      position: absolute;
+      bottom: -1rem;
+      left: -3px;
+      transform: scaleX(0);
+      transition: transform .2s ease-out;
+      transform-origin: left;
+    }
+
+    &:hover:after {
+      transform: scaleX(1);
+    }
   }
+
+  &__mobile-menu-trigger {
+    @media screen and (min-width: 800px) {
+      display: none;
+    }
+  }
+
+
 
   &__menu {
     display: none;
@@ -51,6 +71,28 @@
       flex-direction: row;
       align-items: center;
       gap: 2rem;
+    }
+
+    a {
+      background: none;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+
+      color: $black;
+      font-weight: 500;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:focus,
+      &:active {
+        outline: 3px solid $black;
+        background: $black;
+        color: $white;
+      }
     }
   }
 
