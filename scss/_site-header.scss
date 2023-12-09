@@ -3,7 +3,6 @@
   margin-bottom: 1rem;
 
   @media screen and (min-width: 800px) {
-    margin-top: -20px;
     margin-bottom: 0
   }
 
@@ -38,7 +37,8 @@
       height: auto;
     }
 
-    &:after {
+    &:after,
+    &:before {
       content: "";
       display: block;
       height: .5rem;
@@ -47,10 +47,6 @@
       position: absolute;
       bottom: -.5rem;
       left: -3px;
-      // transform: scaleX(0);
-      // transition: transform .2s ease-out;
-      // transform-origin: left;
-
 
       @media screen and (min-width: 800px) {
         height: 1rem;
@@ -58,9 +54,16 @@
       }
     }
 
-    // &:hover:after {
-    //   transform: scaleX(1);
-    // }
+    &:after {
+      background: $black;
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.2s ease-out;
+    }
+
+    &:hover:after {
+      transform: scaleX(1);
+    }
   }
 
   &__mobile-menu-trigger {
