@@ -1,8 +1,10 @@
 .site-header {
   padding: $standard-padding;
+  margin-bottom: 1rem;
 
   @media screen and (min-width: 800px) {
     margin-top: -20px;
+    margin-bottom: 0
   }
 
 
@@ -32,30 +34,57 @@
 
     svg {
       width: 100%;
-      max-width: 550px;
+      max-width: 600px;
       height: auto;
     }
 
     &:after {
       content: "";
       display: block;
-      height: 1rem;
+      height: .5rem;
       width: calc(100% + 6px);
       background: $bold-yellow;
       position: absolute;
-      bottom: -1rem;
+      bottom: -.5rem;
       left: -3px;
-      transform: scaleX(0);
-      transition: transform .2s ease-out;
-      transform-origin: left;
+      // transform: scaleX(0);
+      // transition: transform .2s ease-out;
+      // transform-origin: left;
+
+
+      @media screen and (min-width: 800px) {
+        height: 1rem;
+        bottom: -1rem;
+      }
     }
 
-    &:hover:after {
-      transform: scaleX(1);
-    }
+    // &:hover:after {
+    //   transform: scaleX(1);
+    // }
   }
 
   &__mobile-menu-trigger {
+    background: none;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+
+    color: $black;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      color: $grey;
+    }
+
+    &:focus,
+    &:active {
+      outline: 3px solid $black;
+      background: $black;
+      color: $white;
+    }
+
     @media screen and (min-width: 800px) {
       display: none;
     }
@@ -70,7 +99,7 @@
       display: flex;
       flex-direction: row;
       align-items: center;
-      gap: 2rem;
+      gap: 1.5rem;
     }
 
     a {
@@ -85,6 +114,7 @@
 
       &:hover {
         text-decoration: underline;
+        color: $grey;
       }
 
       &:focus,

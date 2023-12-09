@@ -3,6 +3,7 @@ import Link from "next/link"
 import { AirtableRecord, TeamMemberFields } from "../airtable.types"
 import airtableData from "../data/airtable-content.json"
 import Head from "next/head"
+import MetaTags from "./MetaTags"
 
 const TeamMemberDialog = ({
   member,
@@ -14,9 +15,7 @@ const TeamMemberDialog = ({
   return (
     //@ts-ignore
     <Dialog isOpen={true} onDismiss={onDismiss} className="team-dialog">
-      <Head>
-        <title>{member.fields.Name} | Interrobang</title>
-      </Head>
+      <MetaTags title={member.fields.Name} />
 
       <header>
         <h1>{member.fields.Name}</h1>

@@ -12,6 +12,7 @@ import airtableData from "../../data/airtable-content.json"
 import { useRouter } from "next/router"
 import Link from "next/link"
 import { truncate } from "../../lib/utils"
+import MetaTags from "../../components/MetaTags"
 
 const WorkPage = ({
   caseStudies,
@@ -29,6 +30,7 @@ const WorkPage = ({
 
   return (
     <>
+      <MetaTags title="Our work" />
       <PageHeader
         className="page-header--full-width"
         intro="Some of our team's favourite projects"

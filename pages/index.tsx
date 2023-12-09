@@ -16,7 +16,7 @@ import d from "../assets/13.jpg"
 
 const IndexPage = () => (
   <>
-    <PageHeader useAsTitle={false}>
+    <PageHeader>
       We’re a digital outcomes studio who help people be their best
     </PageHeader>
     <Collage images={[a, b, c, d]} />

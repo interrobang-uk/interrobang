@@ -1,3 +1,4 @@
+import MetaTags from "../components/MetaTags"
 import PageHeader from "../components/PageHeader"
 import Section from "../components/Section"
 import airtableData from "../data/airtable-content.json"
@@ -5,6 +6,7 @@ import { markdownToHtmlSync } from "../lib/markdown"
 
 const GenericPage = ({ title, content, ...props }) => (
   <>
+    <MetaTags title={title} />
     <PageHeader className="page-header--full-width">{title}</PageHeader>
     <Section className="section--no-top-padding section--no-bottom-padding">
       <div

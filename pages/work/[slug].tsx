@@ -11,6 +11,7 @@ import { Params } from "next/dist/shared/lib/router/utils/route-matcher"
 import { markdownToHtmlSync } from "../../lib/markdown"
 import PageHeader from "../../components/PageHeader"
 import Section from "../../components/Section"
+import MetaTags from "../../components/MetaTags"
 
 const WorkSlugPage = ({
   caseStudy,
@@ -28,6 +29,7 @@ const WorkSlugPage = ({
 
   return (
     <section>
+      <MetaTags title={caseStudy.fields["Project"]} />
       <PageHeader
         className="page-header--full-width"
         caption={caseStudy.fields["Client"]}

@@ -6,10 +6,12 @@ import { markdownToHtmlSync } from "../lib/markdown"
 import Link from "next/link"
 import { formatCurrency } from "../lib/utils"
 import Section from "../components/Section"
+import MetaTags from "../components/MetaTags"
 
 const TeamPage = ({ jobs }: { jobs: AirtableRecord<JobFields>[] }) => {
   return (
     <>
+      <MetaTags title="Work with us" />
       <PageHeader intro="Help us use research, design and technology for social good.">
         Work with us
       </PageHeader>

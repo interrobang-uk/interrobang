@@ -6,6 +6,7 @@ import airtableData from "../data/airtable-content.json"
 import useUrlHash from "../hooks/useUrlState"
 import TeamMemberDialog from "../components/TeamMemberDialog"
 import { markdownToHtmlSync } from "../lib/markdown"
+import MetaTags from "../components/MetaTags"
 
 const TeamPage = ({
   teamMembers,
@@ -18,6 +19,7 @@ const TeamPage = ({
 
   return (
     <>
+      <MetaTags title="Our team" />
       <PageHeader intro="We have a core team of ten people, plus a wider network of regular collaborators.">
         Our team
       </PageHeader>

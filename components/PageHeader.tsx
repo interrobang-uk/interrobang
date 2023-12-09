@@ -1,4 +1,3 @@
-import Head from "next/head"
 import { ReactElement } from "react"
 
 const PageHeader = ({
@@ -6,21 +5,13 @@ const PageHeader = ({
   intro,
   className,
   caption,
-  useAsTitle = true,
 }: {
   caption?: string
   children: ReactElement | string
   intro?: string
   className?: string
-  useAsTitle?: boolean
 }) => (
   <header className={`page-header ${className}`}>
-    {useAsTitle && (
-      <Head>
-        <title>{children} | Interrobang</title>
-      </Head>
-    )}
-
     <div className="container">
       {caption && <p className="page-header__caption">{caption}</p>}
 

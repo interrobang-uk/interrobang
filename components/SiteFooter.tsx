@@ -15,9 +15,11 @@ const SiteFooter = () => (
       <aside>
         <h2>Office address</h2>
         <address>
+          INTERROBANG
+          <br />
           Unit 420
           <br />
-          Peckham Levels, 95A Rye Ln
+          Peckham Levels, 95A Rye Lane
           <br />
           London
           <br />

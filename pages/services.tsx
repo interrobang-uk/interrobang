@@ -9,9 +9,11 @@ import NumberedListSection from "../components/NumberedListSection"
 import a from "../assets/new/7.jpg"
 import b from "../assets/18.png"
 import c from "../assets/new/13.jpg"
+import MetaTags from "../components/MetaTags"
 
 const IndexPage = () => (
   <>
+    <MetaTags title="Our services" />
     <PageHeader intro="Interrobang gives public and charity sector clients the tools they'll need to face the crises of the coming decades.">
       Our services
     </PageHeader>
