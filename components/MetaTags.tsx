@@ -23,7 +23,10 @@ const MetaTags = ({ title }: { title?: string }) => {
       <meta property="og:url" content="https://interrobang.coop/" />
       <meta property="og:title" content="Hi, we're Interrobang" />
       <meta property="og:description" content={siteDescription} />
-      <meta property="og:image" content="/social.jpg" />
+      <meta
+        property="og:image"
+        content="https://interrobang.coop/social.jpg/social.jpg"
+      />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="6300" />
 
@@ -31,7 +34,10 @@ const MetaTags = ({ title }: { title?: string }) => {
       <meta property="twitter:url" content="https://interrobang.coop/" />
       <meta property="twitter:title" content="Hi, we're Interrobang" />
       <meta property="twitter:description" content={siteDescription} />
-      <meta property="twitter:image" content="/social.jpg" />
+      <meta
+        property="twitter:image"
+        content="https://interrobang.coop/social.jpg/social.jpg"
+      />
     </Head>
   )
 }
