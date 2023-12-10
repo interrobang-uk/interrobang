@@ -48,6 +48,10 @@ const WorkPage = ({
                   className="case-studies__tile case-studies__tile--featured"
                   key={cs.id}
                 >
+                  <span className="case-studies__tag">
+                    {cs.fields["Client type"]}
+                  </span>
+
                   {cs.fields.Photo && (
                     <img
                       src={`/work/${cs.fields?.Photo?.[0]?.filename}`}

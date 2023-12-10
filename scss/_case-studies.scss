@@ -92,4 +92,18 @@
     object-fit: cover;
     margin-bottom: 1rem;
   }
+
+  &__tag {
+    text-transform: uppercase;
+    background-color: $black;
+    color: $white;
+    font-weight: 700;
+    position: absolute;
+    top: 5px;
+    // right: -5px;
+    left: 5px;
+    font-size: .8rem;
+    letter-spacing: .5px;
+    padding: .25rem .5rem;
+  }
 }

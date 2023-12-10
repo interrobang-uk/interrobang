@@ -22,19 +22,19 @@ const WorkSlugPage = ({
 }) => {
   const pointsOfContact: AirtableRecord<TeamMemberFields>[] = []
 
-  caseStudy.fields["Team members who worked on this"]?.forEach(id => {
+  caseStudy?.fields?.["Team members who worked on this"]?.forEach(id => {
     const match = teamMembers.find(member => member.id === id)
     if (match) pointsOfContact.push(match)
   })
 
   return (
     <section>
-      <MetaTags title={caseStudy.fields["Project"]} />
+      <MetaTags title={caseStudy?.fields?.["Project"]} />
       <PageHeader
         className="page-header--full-width"
-        caption={caseStudy.fields["Client"]}
+        caption={caseStudy?.fields?.["Client"]}
       >
-        {caseStudy.fields["Project"]}
+        {caseStudy?.fields?.["Project"]}
       </PageHeader>
 
       <Section className="section--no-bottom-padding">
@@ -42,16 +42,16 @@ const WorkSlugPage = ({
           <dl className="meta-list">
             <div>
               <dt>Summary</dt>
-              <dd>{caseStudy.fields["Summary"]}</dd>
+              <dd>{caseStudy?.fields?.["Summary"]}</dd>
             </div>
 
-            {caseStudy.fields["Date commenced"] && (
+            {caseStudy?.fields?.["Date commenced"] && (
               <div>
                 <dt>Year</dt>
                 <dd>
                   <strong>
                     {new Date(
-                      caseStudy.fields["Date commenced"]
+                      caseStudy?.fields?.["Date commenced"]
                     ).toLocaleDateString("en-GB", {
                       year: "numeric",
                     })}
@@ -63,7 +63,7 @@ const WorkSlugPage = ({
             <div>
               <dt>Sector</dt>
               <dd>
-                <strong>{caseStudy.fields["Client type"]}</strong>
+                <strong>{caseStudy?.fields?.["Client type"]}</strong>
               </dd>
             </div>
 
@@ -71,7 +71,7 @@ const WorkSlugPage = ({
               <dt>Policy areas</dt>
               <dd>
                 <ul className="tag-list">
-                  {caseStudy.fields["Policy areas"].map(item => (
+                  {caseStudy?.fields?.["Policy areas"]?.map(item => (
                     <li className="tag" key={item}>
                       {item}
                     </li>
@@ -84,7 +84,7 @@ const WorkSlugPage = ({
               <dt>Involvement</dt>
               <dd>
                 <ul className="tag-list">
-                  {caseStudy.fields["Our involvement"].map(item => (
+                  {caseStudy?.fields?.["Our involvement"]?.map(item => (
                     <li className="tag" key={item}>
                       {item}
                     </li>
@@ -131,8 +131,8 @@ const WorkSlugPage = ({
                 </svg>
               </Link>
 
-              {caseStudy.fields["Read more"] && (
-                <Link href={caseStudy.fields["Read more"]}>
+              {caseStudy?.fields?.["Read more"] && (
+                <Link href={caseStudy?.fields?.["Read more"]}>
                   Read more
                   <svg
                     width="41"
@@ -179,8 +179,6 @@ export async function getStaticProps({ params }: Params) {
 }
 
 export async function getStaticPaths() {
-  console.log(airtableData.pages.map(post => post.fields.Slug))
-
   return {
     paths: airtableData.caseStudies.map(post => ({
       params: {
