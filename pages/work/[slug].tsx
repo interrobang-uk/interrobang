@@ -29,7 +29,10 @@ const WorkSlugPage = ({
 
   return (
     <section>
-      <MetaTags title={caseStudy?.fields?.["Project"]} />
+      <MetaTags
+        title={caseStudy?.fields?.["Project"]}
+        description={caseStudy?.fields?.["Summary"]}
+      />
       <PageHeader
         className="page-header--full-width"
         caption={caseStudy?.fields?.["Client"]}

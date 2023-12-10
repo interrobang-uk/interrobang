@@ -19,7 +19,10 @@ const TeamPage = ({
 
   return (
     <>
-      <MetaTags title="Our team" />
+      <MetaTags
+        title="Our team"
+        description="We have a core team of ten people, plus a wider network of regular collaborators."
+      />
       <PageHeader intro="We have a core team of ten people, plus a wider network of regular collaborators.">
         Our team
       </PageHeader>

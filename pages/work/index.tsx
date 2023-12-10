@@ -30,7 +30,10 @@ const WorkPage = ({
 
   return (
     <>
-      <MetaTags title="Our work" />
+      <MetaTags
+        title="Our work"
+        description="Some of our team's favourite projects"
+      />
       <PageHeader
         className="page-header--full-width"
         intro="Some of our team's favourite projects"

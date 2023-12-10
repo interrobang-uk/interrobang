@@ -1,8 +1,6 @@
 import PageHeader from "../components/PageHeader"
 import { AirtableRecord, JobFields, TeamMemberFields } from "../airtable.types"
 import airtableData from "../data/airtable-content.json"
-import useUrlHash from "../hooks/useUrlState"
-import { markdownToHtmlSync } from "../lib/markdown"
 import Link from "next/link"
 import { formatCurrency } from "../lib/utils"
 import Section from "../components/Section"
@@ -11,10 +9,14 @@ import MetaTags from "../components/MetaTags"
 const TeamPage = ({ jobs }: { jobs: AirtableRecord<JobFields>[] }) => {
   return (
     <>
-      <MetaTags title="Work with us" />
+      <MetaTags
+        title="Work with us"
+        description="Help us use research, design and technology for social good."
+      />
       <PageHeader intro="Help us use research, design and technology for social good.">
         Work with us
       </PageHeader>
+
       <Section
         className="section--no-bottom-padding"
         title={<h2>Past vacancies</h2>}
