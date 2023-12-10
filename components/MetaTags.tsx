@@ -23,7 +23,11 @@ const MetaTags = ({
         name="title"
         content={title ? `${title} | Interrobang` : "Hi, we're Interrobang"}
       />
-      <meta name="description" content={description || siteDescription} />
+      <meta
+        name="description"
+        key="description"
+        content={description || siteDescription}
+      />
 
       {/* open graph */}
       <meta property="og:type" content="website" />
@@ -43,6 +47,7 @@ const MetaTags = ({
       />
       <meta
         property="og:description"
+        key="og:description"
         content={description || siteDescription}
       />
       <meta property="og:image" content="https://interrobang.coop/social.jpg" />
@@ -67,6 +72,7 @@ const MetaTags = ({
       />
       <meta
         property="twitter:description"
+        key="twitter:description"
         content={description || siteDescription}
       />
       <meta
