@@ -92,8 +92,11 @@
     }
   }
 
-  &--no-top-padding {
+  &--less-top-padding {
+    padding-top: 1.5rem;
+  }
 
+  &--no-top-padding {
     padding-top: 0;
   }
 

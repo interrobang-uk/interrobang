@@ -52,7 +52,7 @@ const TeamMemberDialog = ({
       <div className="team-dialog__content">
         <aside>
           <div className="team-dialog__portrait">
-            <img src={`/team/${member.id}.jpg`} alt="" />
+            <img src={`/team/${member.fields.Photo?.[0].filename}`} alt="" />
             <span> {member.fields.Pronouns}</span>
           </div>
 

@@ -19,18 +19,41 @@ const run = async (): Promise<void> => {
     await getJobs(),
   ])
 
-  // TODO download pictures
-  for (let i = 0; i < data[1].length; i++) {
-    const member = data[1][i]
+  // download featured case study images
+  for (let i = 0; i < data[0].length; i++) {
+    const item = data[0][i]
 
-    const downloadUrl = member.fields.Photo?.[0].thumbnails.large.url
-    const filename = member.fields.Photo?.[0].filename
+    const downloadUrl = item.fields.Photo?.[0].thumbnails.large.url
+
+    if (downloadUrl) {
+      console.log(`${i}. downloading image for ${item.fields.Client}`)
+      const res = await fetch(downloadUrl)
+      const blob = await res.blob()
+
+      let buffer = await blob.arrayBuffer()
+      buffer = Buffer.from(buffer)
+      fs.createWriteStream(
+        `public/work/${item.fields.Photo?.[0].filename}`
+      ).write(buffer)
+    } else {
+      console.log(`${i}. no image found for ${item.fields.Client}`)
+    }
+  }
+
+  // download team member portraits
+  for (let i = 0; i < data[1].length; i++) {
+    const item = data[1][i]
+
+    const downloadUrl = item.fields.Photo?.[0].thumbnails.large.url
+    // const filename = item.fields.Photo?.[0].filename
     const res = await fetch(downloadUrl)
     const blob = await res.blob()
 
     let buffer = await blob.arrayBuffer()
     buffer = Buffer.from(buffer)
-    fs.createWriteStream(`public/team/${member.id}.jpg`).write(buffer)
+    fs.createWriteStream(
+      `public/team/${item.fields.Photo?.[0].filename}`
+    ).write(buffer)
   }
 
   fs.writeFileSync(

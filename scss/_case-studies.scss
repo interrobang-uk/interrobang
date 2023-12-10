@@ -1,7 +1,7 @@
 .case-studies {
   list-style: none;
   display: grid;
-  gap: 3rem;
+  gap: 3rem 2rem;
 
   @media screen and (min-width: 800px) {
     grid-template-columns: 1fr 1fr;
@@ -16,7 +16,6 @@
     padding-top: 0.75rem;
     justify-content: flex-start;
     align-items: flex-start;
-    padding-right: 5rem;
 
     @media screen and (min-width: 800px) {
       gap: .75rem;
@@ -25,12 +24,6 @@
     &:hover {
       color: $grey;
       border-color: $grey;
-
-      img {
-        overflow: hidden;
-        filter: drop-shadow(0px 1000px 0 $grey);
-        transform: translateY(-1000px);
-      }
 
       a {
         color: $grey;
@@ -42,15 +35,20 @@
       border-color: $black;
       color: $white;
 
-      img {
-        overflow: hidden;
-        filter: drop-shadow(0px 1000px 0 $white);
-        transform: translateY(-1000px);
-      }
 
       a,
       p:first-of-type {
         color: $white;
+      }
+    }
+
+    &--featured {
+      padding-right: 0;
+      border-top: 0;
+      padding-top: 0;
+
+      &:focus-within {
+        outline: 3px solid $black;
       }
     }
   }
@@ -74,14 +72,6 @@
     }
   }
 
-  img {
-    position: absolute;
-    right: .1rem;
-    max-height: 50px;
-    max-width: 50px;
-    grid-column: 1 / 2;
-  }
-
   h2 {
     font-size: 1.5rem;
     line-height: 1.2;
@@ -94,5 +84,12 @@
     &:first-of-type {
       color: lighten($black, 30);
     }
+  }
+
+  &__image {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    margin-bottom: 1rem;
   }
 }

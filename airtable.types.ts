@@ -20,6 +20,9 @@ export interface CaseStudyFields {
   "Team members who worked on this": string[]
   "Longer description": string
   "Show in list": boolean
+  "Read more"?: string
+  Featured: boolean
+  Photo?: Photo[]
   Icon?: string
 }
 

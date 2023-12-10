@@ -15,8 +15,11 @@ const TeamPage = ({ jobs }: { jobs: AirtableRecord<JobFields>[] }) => {
       <PageHeader intro="Help us use research, design and technology for social good.">
         Work with us
       </PageHeader>
-
-      <Section className="section--no-top-padding section--no-bottom-padding">
+      <Section
+        className="section--no-bottom-padding"
+        title={<h2>Past vacancies</h2>}
+        actions={<></>}
+      >
         <div className="job-list">
           {jobs.length > 0 ? (
             jobs.map(job => (

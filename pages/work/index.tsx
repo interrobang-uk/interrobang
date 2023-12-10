@@ -40,22 +40,56 @@ const WorkPage = ({
 
       <Section className="section--no-bottom-padding section--no-bottom-padding">
         <div className="case-studies">
-          {caseStudies.map(cs => {
-            return (
-              <article className="case-studies__tile" key={cs.id}>
-                {cs.fields.Icon && (
-                  <img src={`/icons/${cs.fields?.Icon}.png`} alt="" />
-                )}
+          {caseStudies
+            .filter(cs => cs.fields.Featured)
+            .map(cs => {
+              return (
+                <article
+                  className="case-studies__tile case-studies__tile--featured"
+                  key={cs.id}
+                >
+                  {cs.fields.Photo && (
+                    <img
+                      src={`/work/${cs.fields?.Photo?.[0]?.filename}`}
+                      alt=""
+                      className="case-studies__image"
+                    />
+                  )}
 
-                <Link href={`/work/${cs.fields.Slug}`}>
-                  <h2>{cs.fields.Project}</h2>
-                </Link>
-                <p>{cs.fields.Client}</p>
+                  <Link
+                    href={cs.fields["Read more"] || `/work/${cs.fields.Slug}`}
+                  >
+                    <h2>{cs.fields.Project}</h2>
+                  </Link>
+                  <p>{cs.fields.Client}</p>
 
-                <p>{truncate(cs.fields.Summary, 125)}</p>
-              </article>
-            )
-          })}
+                  <p>{truncate(cs.fields.Summary, 125)}</p>
+                </article>
+              )
+            })}
+        </div>
+      </Section>
+
+      <Section
+        title={<h2>All projects</h2>}
+        actions={<></>}
+        className="section--no-bottom-padding section--no-bottom-padding"
+      >
+        <div className="case-studies">
+          {caseStudies
+            .filter(cs => !cs.fields.Featured)
+            .map(cs => {
+              return (
+                <article className="case-studies__tile" key={cs.id}>
+                  <Link href={`/work/${cs.fields.Slug}`}>
+                    <h2>{cs.fields.Project}</h2>
+                  </Link>
+                  <p>{cs.fields.Client}</p>
+
+                  <p>{truncate(cs.fields.Summary, 125)}</p>
+                </article>
+              )
+            })}
         </div>
       </Section>
     </>

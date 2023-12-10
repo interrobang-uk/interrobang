@@ -1,5 +1,4 @@
 .job-list {
-  margin-top: 2rem;
   display: grid;
   gap: 3rem;
 
@@ -12,7 +11,6 @@
     padding-top: 0.75rem;
     justify-content: flex-start;
     align-items: flex-start;
-    padding-right: 5rem;
 
     @media screen and (min-width: 800px) {
       gap: .75rem;
@@ -75,10 +73,6 @@
 
     &:first-of-type {
       color: lighten($black, 30);
-    }
-
-    &:last-of-type {
-      max-width: 700px;
     }
   }
 }
