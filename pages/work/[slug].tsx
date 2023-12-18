@@ -183,11 +183,13 @@ export async function getStaticProps({ params }: Params) {
 
 export async function getStaticPaths() {
   return {
-    paths: airtableData.caseStudies.map(post => ({
-      params: {
-        slug: post.fields.Slug,
-      },
-    })),
+    paths: airtableData.caseStudies
+      .filter(post => !post.fields.Featured) // don't generate pages for featured case studies
+      .map(post => ({
+        params: {
+          slug: post.fields.Slug,
+        },
+      })),
     fallback: false,
   }
 }
