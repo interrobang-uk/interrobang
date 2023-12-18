@@ -26,7 +26,6 @@ const run = async (): Promise<void> => {
     const downloadUrl = item.fields.Photo?.[0].thumbnails.large.url
 
     if (downloadUrl) {
-      console.log(`${i}. downloading image for ${item.fields.Client}`)
       const res = await fetch(downloadUrl)
       const blob = await res.blob()
 
@@ -35,8 +34,6 @@ const run = async (): Promise<void> => {
       fs.createWriteStream(
         `public/work/${item.fields.Photo?.[0].filename}`
       ).write(buffer)
-    } else {
-      console.log(`${i}. no image found for ${item.fields.Client}`)
     }
   }
 

@@ -40,8 +40,6 @@ export async function getStaticProps({ params }: Params) {
 }
 
 export async function getStaticPaths() {
-  console.log(airtableData.pages.map(post => post.fields.Slug))
-
   return {
     paths: airtableData.pages.map(post => ({
       params: {
