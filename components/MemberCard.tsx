@@ -1,9 +1,15 @@
 import Link from "next/link"
 import { AirtableRecord, TeamMemberFields } from "../airtable.types"
+import Image from "next/image"
 
 const MemberCard = (member: AirtableRecord<TeamMemberFields>) => (
   <div className="member-card">
-    <img src={`/team/${member.fields.Photo?.[0].filename}`} alt="" />
+    <Image
+      height={200}
+      width={200}
+      src={`/team/${member.fields.Photo?.[0].filename}`}
+      alt=""
+    />
     <Link href={`/team#${member.fields.Slug}`}>{member.fields.Name}</Link>
     <em>{member.fields.Role}</em>
 

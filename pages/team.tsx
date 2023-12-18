@@ -7,6 +7,7 @@ import useUrlHash from "../hooks/useUrlState"
 import TeamMemberDialog from "../components/TeamMemberDialog"
 import { markdownToHtmlSync } from "../lib/markdown"
 import MetaTags from "../components/MetaTags"
+import Image from "next/image"
 
 const TeamPage = ({
   teamMembers,
@@ -35,7 +36,11 @@ const TeamPage = ({
               id={member.fields?.Slug}
               className="team-list__member"
             >
-              <img src={`/team/${member.fields.Photo?.[0].filename}`} />
+              <Image
+                height={600}
+                width={400}
+                src={`/team/${member.fields.Photo?.[0].filename}`}
+              />
 
               <button onClick={() => setSelected(member.fields?.Slug)}>
                 <h2>{member.fields?.Name}</h2>

@@ -13,6 +13,7 @@ import { useRouter } from "next/router"
 import Link from "next/link"
 import { truncate } from "../../lib/utils"
 import MetaTags from "../../components/MetaTags"
+import Image from "next/image"
 
 const WorkPage = ({
   caseStudies,
@@ -56,9 +57,11 @@ const WorkPage = ({
                   </span>
 
                   {cs.fields.Photo && (
-                    <img
+                    <Image
                       src={`/work/${cs.fields?.Photo?.[0]?.filename}`}
                       alt=""
+                      width={600}
+                      height={400}
                       className="case-studies__image"
                     />
                   )}

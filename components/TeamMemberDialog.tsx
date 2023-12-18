@@ -4,6 +4,7 @@ import { AirtableRecord, TeamMemberFields } from "../airtable.types"
 import airtableData from "../data/airtable-content.json"
 import Head from "next/head"
 import MetaTags from "./MetaTags"
+import Image from "next/image"
 
 const TeamMemberDialog = ({
   member,
@@ -52,7 +53,12 @@ const TeamMemberDialog = ({
       <div className="team-dialog__content">
         <aside>
           <div className="team-dialog__portrait">
-            <img src={`/team/${member.fields.Photo?.[0].filename}`} alt="" />
+            <Image
+              height={400}
+              width={600}
+              src={`/team/${member.fields.Photo?.[0].filename}`}
+              alt=""
+            />
             <span> {member.fields.Pronouns}</span>
           </div>
 
