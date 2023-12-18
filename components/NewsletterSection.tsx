@@ -30,9 +30,9 @@ const NewsletterSection = props => (
     theme: "custom",
     colors: {
       primary: "#212121",
-      input: "#FFFDEB",
+      input: "#fff9eb",
       email: "#212121",
-      text: "#fffdeb",
+      text: "#fff9eb",
     }
 };`,
         }}

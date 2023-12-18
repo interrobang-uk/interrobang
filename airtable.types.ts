@@ -32,7 +32,8 @@ export interface JobFields {
   Location: string
   Description: string
   "Learn more": string
-  Visible: boolean
+  "Visible?": boolean
+  "Current?": boolean
 }
 
 export interface PageFields {
