@@ -61,7 +61,7 @@ const WorkPage = ({
                       src={`/work/${cs.fields?.Photo?.[0]?.filename}`}
                       alt=""
                       width={600}
-                      height={400}
+                      height={600}
                       className="case-studies__image"
                     />
                   )}
