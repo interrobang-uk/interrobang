@@ -37,6 +37,7 @@ const TeamPage = ({
               className="team-list__member"
             >
               <Image
+                alt=""
                 height={600}
                 width={400}
                 src={`/team/${member.fields.Photo?.[0].filename}`}
