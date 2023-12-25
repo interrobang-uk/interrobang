@@ -12,7 +12,7 @@ const JobCard = ({ job }) => (
       <Link href={job.fields["Learn more"]}>{job.fields["Job title"]}</Link>
     </h2>
     <p>
-      {job.fields.Location} · {formatCurrency(job.fields.Salary)}
+      {job.fields.Location} · {job.fields.Salary}
     </p>
     <p>{job.fields.Description}</p>
   </article>
