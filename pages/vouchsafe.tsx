@@ -1,7 +1,8 @@
 import Link from "next/link"
+import Layout from "../components/vouchsafe/Layout"
 
 const VouchSafePage = () => (
-  <>
+  <Layout>
     <section className="vs-banner">
       VouchSafe chosen by Scottish Government – <Link href="/">Read more</Link>
     </section>
@@ -113,7 +114,7 @@ const VouchSafePage = () => (
         to try out.
       </p>
     </section>
-  </>
+  </Layout>
 )
 
 export default VouchSafePage
