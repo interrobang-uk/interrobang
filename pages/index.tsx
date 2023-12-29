@@ -7,7 +7,6 @@ import TestimonialsSection from "../components/TestimonialsSection"
 import LogosSection from "../components/LogosSection"
 import BlogSection from "../components/BlogSection"
 import ContactSection from "../components/ContactSection"
-import NewsletterSection from "../components/NewsletterSection"
 
 import a from "../assets/11.jpg"
 import b from "../assets/new/6.jpg"
