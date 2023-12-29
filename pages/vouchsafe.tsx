@@ -1,5 +1,10 @@
 import Link from "next/link"
 import Layout from "../components/vouchsafe/Layout"
+import Image from "next/image"
+
+import scot from "../assets/scot.png"
+import civtech from "../assets/civtech.png"
+import bigissue from "../assets/bigissue.svg"
 
 const VouchSafePage = () => (
   <Layout>
@@ -80,9 +85,15 @@ const VouchSafePage = () => (
     <section className="vs-partners">
       <h2>Who's using it?</h2>
       <ul>
-        <li>CivTech</li>
-        <li>Scottish Government</li>
-        <li>Big Issue</li>
+        <li>
+          <Image src={civtech} alt="CivTech" width={500} />
+        </li>
+        <li>
+          <Image src={scot} alt="Scottish Government" width={500} />
+        </li>
+        <li>
+          <Image src={bigissue} alt="Big Issue Invest" width={500} />
+        </li>
       </ul>
     </section>
 

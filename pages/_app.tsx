@@ -1,10 +1,11 @@
 import Head from "next/head"
 import Layout from "../components/Layout"
 import MetaTags from "../components/MetaTags"
-import "../scss/index.scss"
 import { SWRConfig } from "swr"
 import NewsletterSection from "../components/NewsletterSection"
 import { useRouter } from "next/router"
+
+import "../scss/index.scss"
 
 const App = ({ Component, pageProps }) => {
   const { asPath } = useRouter()
