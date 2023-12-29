@@ -18,7 +18,10 @@ const VouchSafePage = () => (
         >
           Sign in
         </Link>
-        <Link href="#" className="vs-header__button vs-header__button--primary">
+        <Link
+          href="https://cal.com/jayeh/chat"
+          className="vs-header__button vs-header__button--primary"
+        >
           Get a demo
         </Link>
       </nav>
@@ -30,6 +33,7 @@ const VouchSafePage = () => (
         VouchSafe lets you provide vital services to the people who need them
         most
       </p>
+      <Link href="https://cal.com/jayeh/chat">Get a demo</Link>
     </section>
 
     <section className="vs-problem">
