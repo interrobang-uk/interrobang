@@ -1,8 +1,7 @@
 .site-banner {
-  background: $bold-yellow;
-  padding: .5rem 1rem;
-  // color: $white;
-  font-size: 0.9rem;
+  background: $black;
+  padding: .75rem 1rem;
+  color: $white;
   text-align: center;
   justify-content: center;
   align-items: center;
@@ -12,7 +11,8 @@
   }
 
   a {
-    color: $grey;
+    color: $white;
+    font-weight: 500;
 
     &:hover {
       text-decoration: none;
@@ -20,9 +20,9 @@
 
     &:focus,
     &:active {
-      color: $bold-yellow;
-      background: $black;
-      outline: 3px solid $black;
+      color: $black;
+      background: $white;
+      outline: 3px solid $white;
     }
   }
 }
