@@ -36,6 +36,21 @@
     font-size: 1.6rem !important;
     max-width: 80%;
   }
+
+  a {
+    color: $grey;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    &:focus,
+    &:active {
+      background: $black;
+      color: $white;
+      outline: 3px solid $black;
+    }
+  }
 }
 
 .flexible-content {

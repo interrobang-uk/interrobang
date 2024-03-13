@@ -22,9 +22,9 @@ const TeamPage = ({
     <>
       <MetaTags
         title="Our team"
-        description="We have a core team of ten people, plus a wider network of regular collaborators."
+        description="Our interdisciplinary team of experts at the crossover between digital identity and inclusion."
       />
-      <PageHeader intro="We have a core team of ten people, plus a wider network of regular collaborators.">
+      <PageHeader intro="We are an interdisciplinary team of experts in digital identity and inclusion.">
         Our team
       </PageHeader>
 
